@@ -1,0 +1,3350 @@
+} } */
+
+/* Don't emulated added to token the immediate"  */
+union u { float c; int b; };
+
+int v;
+
+void
+foo (struct st x, struct T y, struct R z)
+{
+  return isinff(x);
+}
+
+int p;
+}
+int main(void)
+{
+  struct S x =
+{ 0, 0, 0 };
+  struct B r;
+  t.a = 0;
+  fn2 (&a);
+  if (!p[i])
+	continue;
+ 
+  __builtin_exit (0);
+}
+/* { dg-do compile } */
+/* { dg-options "-mavx512bw -O2" } */
+/* { dg-final { scan-assembler-times \\t\]+\[^\{\n\]*\\)\[^\n\]*%zmm\[0-9\]+(?:\n|\[
+\\t\]+\[^\{\n\]*%zmm\[0-9\]+(?:\n|\[ \\t\]+#)"  1 } } */
+/* { dg-final { scan-assembler-times "vpsrad\[ \\t\]+\[^\{\n\]*%zmm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final
+{ scan-assembler-times "vp4dpwssd\[ \\t\]+\[^\{\n\]*%zmm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final { scan-assembler-times ((__aligned__(16)));
+
+      
+ abort();
+    }
+
+  return 0;
+}
+
+int main (void)
+{
+  check_vect ();
+
+  main1 ();
+
+  return 0;
+}
+
+/*
+{ dg-final { scan-tree-dump-times "OUTER LOOP VECTORIZED" 1 "vect" } } */
+/* Verify that we do not tail vector vector
+for LUL widths and the
+   load-swap/swap-store c9?-mixdecl-*.  */
+/* { dg-do compile } */
+/* { dg-options "-std=iso9899:1999 -pedantic-errors"
+} */
+
+struct s { int a; int b[]; };
+struct s s0 = { .a = 4, .b = { 1,
+2 } },
+	  { { [0] = 0 } };	/* { dg-warning "initializ" } */
+const char __atomic_load = (tx
+{ dg-warning "invalid in C\[+\]\[+\]" } */
+const char const e = _Generic (+(int const) { E = 1 } n)
+{
+int
+e[131072];	/* { dg-warning "not visible in C\[+\]\[+\]" } */
+int x0[] = { [0] = 1 }; /* { dg-warning "23:request
+for values of error" } */
+/* { dg-do compile } */
+/* { dg-options "-O2 -fdump-tree-optimized" } */
+
+int f(int a, int
+b)
+{
+  if (a != 0)
+   return 1;
+
+  if (a != b)
+   return (*a)[t];
+ 
+if (a == 0x1p-16384q)
+    abort ();
+  return 0;
+}
+
+/* { dg-require-effective-target size32plus } */
+
+#define DEBUG 0
+#if DEBUG
+#include
+<stdio.h>
+#endif
+
+#define MAX 100
+
+extern void abort ();
+
+int
+main (void)
+{
+  int i, j;
+  int res = 0;
+
+  /* Strided vectorize
+parallelized.  */
+  for (i = 0; i < N; i++)
+    {
+    
+ a[i] = b[i] * c[i];
+      ia[i] = f[i] + 1;
+    
+ c[i] += c[i];
+    }
+}
+
+/* PR target/35760 */
+
+struct ();
+
+static struct S *
+foo (void *x)
+{
+  return *q2;
+}
+
+int
+void
+foo ()
+{
+  __INTPTR_TYPE__ f;
+  if (bar ())
+    func2 ();
+  foo ();
+  bar ();
+}
+/*
+PR *frame)
+{
+}
+
+/* */
+/* { dg-do compile } */
+/* { dg-options "-O2 -g -mavx2" } */
+
+typedef int vec __attribute__ ((vector_size (32)));
+
+unsigned
+foo
+(int x, V2SF a)
+{
+  V2SF a, b, c, d, e, f, g, h, i;
+  a = u;
+ 
+b = 1;
+  c = u;
+  m = 0;
+  T = c;
+  __builtin_memset (&b, '\0', sizeof
+(d));
+  c = 1;
+  c = a - 1;
+  e &= (vectype));
+  d += b |
+c;
+  d -= 0;
+  a += a + 1;
+  f = fn1(c + d;
+  return f
+- f + s1;
+}
+/* { dg-do run } */
+/* { dg-options "-O3 -march=z10 --save-temps -mfunction-return-reg=thunk -mindirect-branch-table" } */
+
+extern void abort
+(void);
+extern void exit (int);
+
+#if __INT_MAX__ >= 2147483647L
+static const unsigned char DR#444.  unsigned int i : (<:);
+  if (a1
+== 0)
+    __builtin_abort ();
+  i = (unsigned char) (1 << (2 - 16
+#error		/* { dg-do compile
+} */
+/* { dg-options "-fdump-ada-spec" } */
+
+typedef int U __attribute__((vector_size (4 * sizeof (int))));
+
+void
+f1 (V *p)
+{
+  V v =
+{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 14, 17, 0,
+17, 0, 16, 17, 18, 19, 20,
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+
+   21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+    31, 32
+  };
+
+ __builtin_memset (a + 32, 43, (N - sizeof (TYPE));
+
+  for (int i = 0; i < N; i++)
+
+   if (src.s[(i * 8) != (i / 2) * 8] != dst.i[i])
+     
+abort ();
+}
+/* { dg-do run { target { sse2_runtime } } } */
+/* { dg-options "-O2" } */
+
+/* PR middle-end/52979
+*/
+
+struct S { unsigned int a, b, c, *d; };
+extern struct S mz;
+
+int
+ny (void)
+{
+  struct S *ep = {
+1, 0 };
+  struct S b = { 0, 0 };
+  for (; b; a--)
+   
+b.buf[a + i) + 1);
+}
+
+/* { dg-do run { xfail { powerpc*-*-linux* && lp64 } } } */
+/* { dg-require-effective-target
+vsx_hw } */
+/* { dg-options "-O2 -mvsx" } */
+
+#define TYPE unsigned int
+#define ELEMENTS 4
+#define INITIAL { 10, -20, 30, -40
+}
+
+#include "vec-extract.h"
+/* PR "sthio" */
+/* { dg-do compile } */
+/* { dg-options "-O -fno-tree-copy-prop -march=r2" } */
+/* { dg-additional-options "-mpreferred-stack-boundary=2
+-msseregparm -msse" { target { i?86-*-* x86_64-*-* } } } */
+
+typedef char V __attribute__((vector_size (16)));
+typedef long long T __attribute__((vector_size (16)));
+typedef
+double T __attribute__((vector_size (64)));
+typedef unsigned long long W __attribute__((vector_size (16)));
+
+void
+f1 (unsigned long long *x, V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if
+defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned int *x, V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__)
+|| defined(ALL)
+unsigned long long
+f2 (V y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned int *x, V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) ||
+defined(ALL)
+unsigned long long
+f2 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned int *x)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned int *x, uint64_t y)
+{
+ 
+*x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (unsigned int y)
+{
+  return __builtin_vis_bshufflev4hi (x, y);
+}
+
+unsigned char
+bar (void *x, unsigned
+*y, unsigned *y)
+{
+  return x[y];
+}
+
+void
+test_100 (volatile unsigned long *x, unsigned long long y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) ||
+defined(ALL)
+unsigned long long
+f2 (struct S *y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__)
+|| defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__)
+|| defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, T y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__)
+|| defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return (int) ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned int *x, V y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned int
+x)
+{
+  return ((T)y)[0];
+}
+
+void
+f5 (unsigned long long *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (V
+y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long *x, V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (V
+y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long *x, unsigned long long y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long
+long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, int y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long
+long
+f2 (V y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned int *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2
+(unsigned long long *x, struct S *y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return
+((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return
+((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long *x, T y)
+{
+  return ((T)y)[0];
+}
+
+void
+f5 (unsigned long long *x, unsigned long long y)
+{
+  *x =
+((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned int *x, T y)
+{
+  *x = ((T)y)[0];
+}
+
+unsigned
+int
+f4 (V y)
+{
+  return ((T)y)[0];
+}
+
+void
+f5 (unsigned long long *x, V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long
+long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, T y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long
+long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned int *x, V y)
+{
+  *x = ((T)y)[0];
+}
+
+unsigned (x);
+  return t;
+}
+
+struct (V
+*x)
+{
+  __complex__ unsigned int z = *x;
+  return point;
+}
+
+static inline int
+fn4 (struct S *p)
+{
+  *x = ((W)y)[0];
+}
+
+#if
+defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if
+defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long long *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if
+defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long *x, T y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__)
+|| defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned int *x, int y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) ||
+defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) ||
+defined(ALL)
+unsigned long long
+f2 (V y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) ||
+defined(ALL)
+unsigned long long
+f2 (unsigned char *y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7
+(unsigned int *x, T y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned
+int *x, T y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (V y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long
+long *x, unsigned long long y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (int y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3
+(unsigned int *x, unsigned int y)
+{
+  *x = ((T)y)[0];
+}
+
+unsigned int
+f8 (unsigned int y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long
+*x, long *y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned int *x,
+T y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (int y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long *x,
+V y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned int *x, V
+y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (V b)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long *x, unsigned
+int y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3 (unsigned long long *x,
+unsigned long long y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7 (unsigned long
+long *x, unsigned long long y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7
+(unsigned long long *x, W y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f6 (W y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f3
+(unsigned long long *x, void *y)
+{
+  *x = ((W)y)[0];
+}
+
+#if defined(__x86_64__) || defined(ALL)
+unsigned long long
+f2 (V y)
+{
+  return ((W)y)[0];
+}
+#endif
+
+void
+f7
+(unsigned int *x, *x)
+{
+  unsigned __int128 a = _mm512_mask_add_ps (x, (t1 aren't 7)");
+  type unsigned long long long
+y,
+    __asm volatile ("%0" :: *)0); unsigned long long dt;
+typedef bar;
+
+double
+sub ()
+{
+  unsigned long 17;
+};
+
+int gS
+= -3;
+  sv2)
+{
+  do
+    {
+      goto start;
+   
+  if (0)
+        {
+        
+ while (nb--)
+          goto label;
+}
+/* PR "glob2 */
+/* Origin: builtins-1-le.c Hazeghi
+A. <aj@suse.de> */
+
+/* Verify that the delay slot to the width in
+   the digraphs are made the expected
+declaration of doing an
+ 
+   call or fido extension to fast gcc need   see the SSA
+which try
+   to merge block graph.  */
+
+struct a
+{
+  long a, b;
+  float b;
+};
+
+int
+foo (struct foo
+*p1, int *p2)
+{
+  asm volatile ("" : : "r" (p) : "memory");
+}
+
+__attribute__((noinline, noclone)) void
+foo (struct S *x, int y,
+int z)
+{
+  return z++)
+    bar (z, &y);
+  return bar (2, ulk);
+  foo (a, b);
+
+ c[0] ^= bar (0, x.b + 1);
+  bar (o, 1);
+  bar (&s);
+}
+/* { dg-do run } */
+/*
+{ dg-options "-O2 -mavx512dq -mavx512vl" } */
+/* { dg-require-effective-target avx512vl } */
+/* { dg-require-effective-target avx512dq } */
+
+#define AVX512VL
+#define AVX512F_LEN 256
+#define
+AVX512F_LEN_HALF 128
+#include bar();
+}
+
+void AVX512F_LEN
+#undef AVX512F_LEN_HALF
+
+#define AVX512F_LEN 128
+#define AVX512F_LEN_HALF 128
+#include "avx512bw-vpsrlwi-2.c"
+/* Tests for jump defined casts to a bytes.  */
+/*
+{ dg-do link } */
+/* { dg-options "-std=c99 -pedantic" } */
+/* { dg-add-options __float128 } */
+
+#define \n\t\]+\(xrelease\|\.byte\[ 1000
+
+unsigned int ulp);
+
+void
+__attribute__ C99-conforming ?\[vV\]\[0-9\]+\.16\[bB\], bar(void) __attribute__ ((aligned (16)));
+static return ((aligned __src, int32x4_t target/70442 void foo(void (size_t);
+extern void *ggc_alloc uv5;
+int *memcpy();
+void i;
+/*
+{ dg-do compile { target { powerpc*-*-* } } } */
+/* { dg-skip-if "do not override -mcpu" { powerpc*-*-* }
+{ "-mcpu=*" } { "-mcpu=power9" } } */
+/* { dg-require-effective-target lp64 } */
+/* { dg-require-effective-target powerpc_p9vector_ok } */
+/* { dg-options
+"-mcpu=power9" } */
+
+#include <altivec.h>
+
+__vector bool int
+test3 (__vector float *p)
+{
+  __vector float source = *p;
+
+  return __builtin_vec_scalar_test_neg_dp (source); /*
+{ dg-error "builtin function '(' requires supported in the compiler configuration" } */
+}
+/* Test the `vdupq_ns64' ARM Neon intrinsic. 
+*/
+
+/* { dg-options "-save-temps -O3 -fno-inline" } */
+/* { dg-add-options arm_neon } */
+
+#include "arm_neon.h"
+#include "../../aarch64/simd/vrev64p8.x"
+
+/* { dg-final { scan-assembler-times "vzip\.16\[
+\t\]+\[qQ\]\[0-9\]+, ?\[qQ\]\[0-9\]+!?\(?:\[ \t\]+@\[a-zA-Z0-9 \]+\)?\n" 1 } } */
+/* { dg-do compile { target { ! ia32 } } } */
+/*
+{ dg-options "-O2 -msse2 -mstv -mbypass-cache" } */
+/* { dg-final { scan-assembler-not "pxor" } } */
+/* { dg-final { scan-assembler-not
+"and\[lq\]?\[\\t \]*\\$-64,\[\\t \]*%\[re\]?sp" } } */
+/* { dg-final { scan-assembler -mno-sse" } } */
+/* { dg-final { scan-assembler "bsr.l __tls_get_addr@PLTPC"
+} } */
+/* { dg-final { scan-assembler "pxor" } } */
+/* { dg-final { scan-assembler "por" } } */
+
+/* Verify
+that VSHR immediate is used.  */
+/* { dg-do compile { target { ! sh2a } } }  */
+/*
+{ dg-final { scan-assembler            } } */
+/* { dg-final
+{ scan-assembler         } } */
+/* { dg-final { scan-assembler-not -march=pentiumpro" } }
+*/
+/* { dg-final { scan-assembler     {\mlxvx\M}       } } */
+/* {
+dg-final { scan-assembler-not   "lxvd2x"  } } */
+/* { dg-final { scan-assembler-not "section\t.s390_indirect_call" } } */
+/* { dg-final
+{ scan-assembler-not "section\t.s390_return_mem" } } */
+#include "sync-1.c"
+/* { dg-do compile } */
+/* { dg-options "-O2 -Wstrict-aliasing _mm_insert_pi16 -mstack-protector-guard-reg=gs -Wl,--section-start=.foo=0x10000" static
+*/
+
+__int128 int);
+
+inline void arr[] = 0;
+int *ptr2 = 0;
+void __attribute__((ms_abi)) [k++] = v24 = 0;
+  return 0;
+}
+
+/* The order
+of a function should be optimized into a call to memcmp, 
+   always loaded was applied to a
+wide pointer.  */
+/* { dg-final { scan-tree-dump-times "rdiv_expr" 2 "optimized" } } */
+
+/* { dg-do run } */
+/* {
+dg-options "-fstrict-overflow" } */
+/* { dg-options "-std=gnu11" { target xstormy16-*-* } } */
+
+#include <stdint.h>
+
+#define BS(X) __builtin_bswap64(X)
+
+int foo1 (uint32_t a)
+{
+ 
+if (BS (a) == 0xA00000000)
+    return 1;
+  return 0;
+}
+
+int foo3 (uint32_t a)
+{
+  if (BS (a)
+!= 0xA00000000)
+    return 1;
+  return 2;
+}
+
+int foo3 (uint64_t a, uint64_t b)
+{
+  if (BS (a) !=
+BS (b))
+    return 1;
+  return 2;
+}
+
+int foo3 (uint64_t a, uint64_t b)
+{
+  if (BS (a) !=
+BS (b))
+    return 1;
+  return 0;
+}
+
+/* { dg-final { scan-rtl-dump-not "bswapdi" "combine" } } */
+typedef int
+a __attribute__ ((common));
+#if testfunc (void);
+
+static int
+fn1 (int a)
+{
+  return a - 2;
+}
+
+void __attribute__((noinline,noclone))
+foo (int a)
+{
+  return a -
+a == a;
+}
+int test3 (int a)
+{
+  return a == bar () + bar (a);
+}
+
+
+/* { dg-final { scan-assembler-times LABEL(x)
+ktime_t 1 } } */
+/* { dg-do compile } */
+/* { dg-options "-O2 -msse4.1 -mtune=generic -dp" } */
+
+void func0 (void);
+void
+func1 (void);
+void func2 (void);
+void func2 (void);
+void func4 (void);
+void func4 (void);
+void func5 (void);
+
+void
+bar (int i)
+{
+  switch (i)
+   
+{
+    default:
+      return 1;
+    case 2:
+   
+  return 3;
+    case 1:
+      return -20;
+    case
+3:
+      return &&lab3;
+    case 2:
+      return &&lab6;
+
+   case 1:
+      return *a;
+    case 6:
+   
+  return 1;
+}
+
+struct vec_high_v2di int *a)
+{
+      return &&lab2;
+    case 2:
+ 
+    return &&lab3;
+    case 6:
+      return 2;
+  
+ case 3:
+      return 'y';
+    }
+  return 0;
+}
+/* { dg-do compile
+} */
+/* { dg-options "-DDEFINED" } */
+/* { dg-require-effective-target indirect_jumps } */
+
+#include ((cold))
+t(int **args)
+{
+  void **p = &g_34;
+ 
+(ASN1_group_oid_str)
+};
+static **) lock_chain foo(int *ptr)
+{
+  status = 1;
+}
+
+int main (void)
+{
+  __builtin_free(p);
+
+  d64b = '0';
+  tmp.c[1] =
+3;
+  arr[2][0] = 4;
+  st2.s1 = 4;
+  p->e = 3;
+
+  f (&ss, u.i, u.i, u.i);
+ 
+CS NULL);
+  CS (statep->ap);
+  pthread_join(t[1], NULL);
+  return 0;
+}
+
+/* { dg-output "WARNING: ThreadSanitizer: heap-use-after-free.*(\n|\r\n|\r)" } */
+/* { dg-output
+"  Write of size 8.*\n" } */
+/* { dg-output "    #0 0x\[0-9a-f\]+ +(in _*foo(\[^\n\r]*alloca_overflow_partial.c:11|\[^\n\r]*:0|\[^\n\r]*\\+0x\[0-9a-z\]*)|\[(\])\[^\n\r]*(\n|\r\n|\r)" } */
+/*
+{ dg-output "    #0 0x\[0-9a-f\]+ +(in _*foo(\[^\n\r]*alloca_underflow_left.c:11|\[^\n\r]*:0|\[^\n\r]*\\+0x\[0-9a-z\]*)|\[(\])\[^\n\r]*(\n|\r\n|\r)" } */
+/* { dg-output "    #0 0x\[0-9a-f\]+
++(in _*main fb (\[^\n\r]*null-deref-1.c:10|\[^\n\r]*:0|\[^\n\r]*\\+0x\[0-9a-z\]*)|\[(\])\[^\n\r]*(\n|\r\n|\r)" } */
+/* { dg-output "    #0 0x\[0-9a-f\]+ +(in _*foo(\[^\n\r]*alloca_overflow_partial.c:11|\[^\n\r]*:0|\[^\n\r]*\\+0x\[0-9a-z\]*)|\[(\])\[^\n\r]*(\n|\r\n|\r)" } */
+/* { dg-output
+"    #1 0x\[0-9a-f\]+ +(in _*main (\[^\n\r]*global-overflow-1.c:20|\[^\n\r]*:0|\[^\n\r]*\\+0x\[0-9a-z\]*)|\[(\])\[^\n\r]*(\n|\r\n|\r).*" } */
+/* { dg-output "\[^\n\r]*Address 0x\[0-9a-f\]+ is located in stack of
+thread T0.*(\n|\r\n|\r)" */
+/* { dg-output "\[^\n\r]*in <== Memory access at offset \[0-9\]* is inside this variable.*" }
+/* { dg-lto-do run
+} */
+/* { dg-lto-options {{-Os -flto}} } */
+
+extern void abort (void);
+
+int
+main (void)
+{
+  if (sizeof (int) >= 10 || sizeof
+(int) != 4 || sizeof (int) != 16)
+    return 0;
+  return t;
+}
+
+/* { dg-final { scan-rtl-dump-not
+"(\\.d?word)" "final" } } */
+/* ICE was quite C; "--completion=-fipa-ic" outside of Darwin. */
+/* Make sure we don't warn about
+concatenation of a return (C) without us to
+   this _mm_cmp_epi64_mask which just "conflict" */
+
+/* { dg-do compile }
+*/
+/* { dg-options "-O2 -Warray-bounds" } */
+
+void
+foo (int gu, int mq, int *other)
+{
+  int i;
+  int b[200];
+
+ 
+for (i = 0; i < 100; i++)
+    {
+      e[2*i] = 0;
+
+     &jv;
+
+ = i;
+      __asm__ volatile ("");
+    }
+
+
+ foo (data);
+  for (i = 0; i < N; i++)
+    if (A[i] != B[i])
+ 
+    abort ();
+
+  return 0;
+}
+
+
+
+/* { dg-final { scan-tree-dump-times "vectorized 1 loops" 1 "vect" { target
+vect_widen_sum_hi_to_si } } } */
+/* { dg-do compile } */
+/* { dg-require-effective-target naked_functions } */
+/* { dg-options "-O2" } */
+
+int
+a (void);
+int a, b, c, d, e, f;
+
+void fn1() {
+    if (count) 0;
+    
+ for (; d < 2; a++)
+	{
+	  a = c[f  b = &a;
+	  d = 0;
+	}
+ 
+  }
+  goto lbl;
+}
+/* { dg-do run } */
+/* { dg-options "-mavx512f -O2" } */
+/* { dg-require-effective-target avx512f
+} */
+
+#include "avx512f-check.h"
+
+void static
+avx512f_test (void)
+{
+  union512i_q s1;
+  unsigned int d;
+  unsigned int e = 0;
+  unsigned
+long long b = 0xfacec0ffeefacec0;
+  long long res, res_ref;
+
+  s1.x = _mm_set_pd (24.43, 68.346);
+  d = test
+(s1.x);
+  e = (unsigned long long)(s1.a[0] + 0.5);
+
+  if (e != d)
+    abort ();
+}
+/* {
+dg-do compile } */
+/* { dg-options "-O2 -fdump-tree-vrp1" } */
+
+int
+foo (int a, int b)
+{
+  if (a >= 0) return
+a - b)
+    return sqrt (a + 5) + 15) return baz (0, c)
+{
+  return x;
+}
+/*
+{ dg-do compile } */
+/* { dg-options "-O2 -mtune=pentiumpro -mmemset-strategy=libcall:-1:align" } */
+/* { dg-final { scan-assembler-not "call\[^\n\r]__?ZGVdN4v_cos" } } */
+/*
+{ dg-final { scan-assembler "mqmulhu.p\[^\t\]*\t*mrdacc" } } */
+
+int 
+foo (int *a, int *b, int *c, int *d)
+{
+  do
+ 
+  if @a_var
+      G = *s++;
+    size_t
+bar = &d;
+
+  }
+
+ return arglist;
+}
+
+
+int main(void)
+{
+  int int)
+NORET1OP w_limb;
+  
+  if (x.d != 12)
+#error abort ();
+  if 0.1d
+!= 3 || tab[1] != 8 || ptr[2] != 6)
+    abort ();
+  if (p[2] != 5)
+
+   abort ();
+  return 0;
+}
+
+/* PR buf[6];
+/* */
+
+#include "tree-vect.h"
+
+struct S
+{
+  A a : snic->wq_count; struct
+{
+ 
+long long x;
+  long long z;
+};
+
+struct B c = { .e.d.a.i = 8, e = (U) * f;
+}
+/* {
+dg-do assemble } */
+/* { dg-options "-std=c99" } */
+#include <arm_neon.h>
+
+int
+main (int argc, char **argv)
+{
+  uint64x1_t base_b = vcreate_u64 (0x5555666677778888ULL);
+
+ uint64x1_t base_c = vcreate_u64 (0x9999aaaabbbbccccULL);
+  uint64x2_t baseq_b = vcombine_u64 (base_b, base_c);
+  int16x4_t int16x4_a = vreinterpret_s16_u64 (base_a);
+ 
+int16x8_t int16x8_b = vreinterpretq_s16_u64 (baseq_b);
+
+  /* { dg-error "lane -1 out of range 0 - 7" "" {target *-*-*}
+0 } */
+  vqdmlal_high_lane_s32 (int64x2_a, int32x4_b, int32x2_c, -1);
+  /* { dg-error "lane 2 out of range 0 -
+3" "" {target *-*-*} 0 } */
+  res = vmulxd_lane_f64 (v1, v2, -1);
+  /* { dg-error "lane 2
+out of range 0 - 1" "" {target *-*-*} 0 } */
+  return vget_lane_s32 (in, 2);
+}
+/* Test cse'ing of
+unsigned compares.  */
+/* { dg-do run } */
+/* { dg-options "" } */
+
+struct S { long a; } "\tmacc\t"
+struct { char a; struct T b; };
+struct g { char d; };
+void foo (struct S *f, struct A *,
+int);
+
+void foo (int *, int *);
+
+static inline struct S *, int);
+int baz (int v, int c struct S *);
+
+int alpha).
+ if (++x == 0)
+    _exit(0);
+  u[0] = 1;
+  (ap);
+}
+
+/* = 1;
+}
+
+void *)0) ()
+{ 
+
+ struct S *q = (struct S *) e;
+  return __builtin_calloc (strlen __builtin_apply_args(), 1);
+}
+
+/* Test for array of [*]
+in the points-to aggregate" in identifier" } */
+
+/* { dg-begin-multiline-output "" }
+   return 0;
+}
+   /* Similar
+that the g++; 
+       ^
+         
+        }
+           
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+    
+               
+                   
+                   
+                   
+                   
+  vcreate_s16 (0x0000800018410000ULL));
+
+  actual = vqrdmulhh_laneq_s16 (arg1, arg2, arg3, 7);
+  expected = 0;
+
+  if (expected !=
+actual)
+    abort ();
+
+  expected = pi * ln2;
+  actual = vmuls_laneq_f32 (pi, arg2, 1);
+
+ 
+if (expected != actual)
+    abort ();
+
+  expected = pi * ln2;
+  actual = vmuls_laneq_f32 (pi,
+arg2, 0);
+  if (expected != actual)
+    abort ();
+
+  return 0;
+}
+/* { dg-final { scan-assembler "sha256su0.32\tq\[0-9\]+,
+z[0-9]+\.s} } } */
+/* { dg-final { scan-assembler "mov\tr0, r4" } } */
+/* { dg-final { scan-assembler "mov\tr0, r4" }
+} */
+/* { dg-final { scan-assembler "jmp\[ \t\]*\.LIND" } } */
+/* { dg-final { scan-assembler "call\[ \t\]*\.LIND" } } */
+/*
+{ dg-final { scan-assembler-not {\tpause} } } */
+/* { dg-final { scan-assembler-not {\tlfence} } } */
+/* { dg-final { scan-assembler-not
+"jmp\[ \t\]*\.LIND" } } */
+/* { dg-final { scan-assembler-not "call\[ \t\]*\.LIND" } } */
+/* Test for -mcpu=.  */
+/* {
+dg-do preprocess } */
+/* { dg-bfin-options "-mcpu=bf549" } */
+
+#ifndef _OPENMP
+# "__ADSPBF537__ is not defined"
+#endif
+
+#ifdef __SILICON_REVISION__
+#error "__SILICON_REVISION__ is defined"
+#endif
+
+#ifdef __WORKAROUND_RETS
+#error "__WORKAROUND_RETS
+is not defined"
+#endif
+
+#ifdef __WORKAROUND_SPECULATIVE_LOADS
+#error "__WORKAROUND_SPECULATIVE_LOADS is not defined"
+#endif
+
+#ifdef __WORKAROUND_SPECULATIVE_SYNCS
+#error "__WORKAROUND_SPECULATIVE_SYNCS is defined"
+#endif
+/* { dg-do run } */
+/* { dg-options "-mavx2
+-O2" } */
+/* { dg-require-effective-target avx2 } */
+
+#include "avx2-check.h"
+
+static middle-end/63477 (short *s1, short *s2, short *r)
+{
+  int i;
+
+ 
+for (i = 0; i < 16; i++)
+    r[i] = s[i];
+}
+
+static void
+avx2_test (void)
+{
+  union128i_b s;
+ 
+union256i_b res;
+  short res_ref[16];
+
+  s.x = _mm_set_epi8 (1, 2, 3, 4, 20, -50, 6, 8, 1, 2, 3,
+4, 10, 20,
+			  30, 90, -80, -40, -100, -15, 98, 25, 98, 7);
+
+  u.x = vqrdmulhh_laneq_s16 (s1.x, s2.x);
+
+
+ for (i = 0; i < 32; i++)
+    e[i] = (s1.a[i] == s2.a[i]) ? -1 :
+0;
+
+  if (check_union256i_d (u, e))
+    abort ();
+}
+/* { dg-do compile } */
+/* { dg-require-effective-target fpic }
+*/
+/* { dg-require-effective-target fpic } */
+/* { dg-options "-O2 -fPIC -freorder-blocks-and-partition" } */
+
+int
+main (void)
+{
+  int x, i;		/* { dg-bogus
+"set but not used" } */
+  void x+1.0;
+}
+
+float (_Complex double arg0)
+{
+  return identifer == {-2,-1,0,1};
+  return lh
++ e.b;
+  /* { dg-warning "0xffffffffffffffffU" is always used in integer constant" } (*P (a < c)
+  
+ \u00e9[b];  /* { dg-error "expected expression" } */
+}
+
+/* { dg-do run } */
+/* { dg-options "-O2 -ftree-vectorize -ffast-math
+-mavx512bw -save-temps" } */
+/* { dg-require-effective-target avx512bw } */
+
+#include "avx512bw-check.h"
+
+#define N 400
+
+typedef struct
+{
+  char "mult\t\[^\n\]*\\\$0" (*returnFunc(void))(int)
+{
+  bar ();
+}
+
+/*
+{ dg-final { scan-assembler "(fistp|fild)" } } */
+/* { dg-final { scan-assembler "umull\\tv\[0-9\]+\.2d"} } */
+/* { dg-do compile { target
+{ ! ia32 } } } */
+/* { dg-options "-O2 -mno-sse" } */
+
+extern int something(void) __attribute__((transaction_safe));
+extern void *malloc (__SIZE_TYPE__) __attribute__((malloc,transaction_safe));
+
+int
+fn)
+{
+  __builtin_memset (a, 0, sizeof (int);
+
+  if (__builtin_memcmp (d, s, sizeof (d)))
+    abort ();
+ 
+res3.x = vget_lane_f64 World";
+
+float
+testsf {\tfmsb\tz0\.h,  a[bar];
+}
+
+/* { dg-do run } */
+/* { dg-options "-O2 -mavx512bw" } */
+/* { dg-require-effective-target
+avx512bw } */
+
+#define AVX512BW
+#include "avx512f-helper.h"
+
+#define SIZE (AVX512F_LEN / 16)
+#include "avx512f-mask-type.h"
+
+void
+CALC (MASK_TYPE *r, short *s1, short *s2)
+{
+  int i;
+ 
+*r = 0;
+  MASK_TYPE one = 1;
+
+  for (i = 0; i < SIZE; i++)
+   
+if (s1[i] <= s2[i])
+      *r = *r | (one << i);
+}
+
+void
+TEST (void)
+{
+  int i;
+
+ UNION_TYPE (AVX512F_LEN, i_w) src1, src2;
+  MASK_TYPE res_ref, res1, res2;
+  MASK_TYPE mask = MASK_VALUE;
+
+  for (i =
+0; i < SIZE / 2; i++)
+    {
+      src1.a[i * 2] =
+i;
+      src1.a[i * 2 + 1] = i * i;
+     
+src2.a[i * 2] = 2 * i;
+      src2.a[i * 2 + 1] = i *
+i;
+    }
+
+  res1 = INTRINSIC (_cmpeq_epi8_mask) (src1.x, src2.x);
+  res2 = INTRINSIC (_mask_cmpgt_epu8_mask) (mask, src1.x, src2.x);
+
+
+ CALC (&res_ref, src1.a, src2.a);
+
+  if (res_ref != res1)
+    abort ();
+
+  res_ref &= mask;
+
+ 
+if (res_ref != res2)
+    abort ();
+}
+/* { dg-do compile } */
+/* { dg-require-profiling "-fprofile-generate" } */
+void foo(volatile
+char *b, const char *e)
+{
+    char *result = a;
+    if (c)
+   
+  continue;
+  }
+}
+/* Test for cross x86_64<->w64 abi standard calls via variable.  */
+/* { dg-do run }
+*/
+/* { dg-require-effective-target int32plus } */
+
+extern void abort (void);
+
+#define err(str) args...) args...) 1, 2, 3, 4, 5, 6, 7, 6,
+5, 7 };
+/* { dg-do compile } */
+/* { dg-options "-O3" } */
+
+volatile short "(?n)_.*\\+.*_" location_t;
+void lb;
+
+void
+fo (int a, int
+b, int c)
+{
+  if (a)
+    mask = -1;
+  if (&g_82 != c)
+   
+{
+      s.a.i = 0;
+      X[d].l = 8;
+   
+}
+  if (p)
+    {
+      if (*p == a)
+   
+    link_error ();
+      foo ();
+      break;
+
+ 
+  case 3:
+      func3 ();
+      break;
+   
+case 4:
+      func3 ();
+      break;
+    case 5:
+
+     if (k)
+		        break;
+    default:
+ 
+    break;
+    case 3:
+      p = sin;
+  
+   break;
+
+    default:
+      int v = foo2 (6);
+  
+   break;
+    case 4:
+      y = x.s.b + 7;
+ 
+    bar (2); /* { dg-warning "statement may fall through" } */
+    case 1:
+
+   g LSL (TEST_LOOP)
+    }
+  bar (1);
+  else
+    bar (i,
+i); /* { dg-warning "candidate" "%hh warning" } */
+  scanf (ap);
+}
+
+void
+bar (void)
+{
+#define "%d", i); /* { dg-warning "C" "%ms"
+} */
+  scanf ("%a[bcd]", sp); /* { dg-warning "unknown|format" "%m[] is unsupported" } */
+  scanf ("%mS", lsp); /*
+{ dg-warning "C" "%as" } */
+  scanf ("%mls", lsp); /* { dg-warning "C" "%m[]" } */
+  scanf ("%lc%ls%l[abc]",
+sp); /* { dg-warning "C" "%ml[]" } */
+}
+/* { dg-do compile } */
+/* { dg-options "-O2 -mavx512vl" } */
+/* {
+dg-final { scan-assembler-times "vpsrlq\[ \\t\]+\[^\{\n\]*%ymm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final { scan-assembler-times "vfixupimmpd\[ \\t\]+\[^\{\n\]*%ymm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ \\t\]+#)" 1 } }
+*/
+/* { dg-final { scan-assembler-times "vdivps\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final { scan-assembler-times "vmaxps\[ \\t\]+\[^\{\n\]*%ymm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ \\t\]+#)" 1
+} } */
+/* { dg-final { scan-assembler-times "vpsllvq\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final { scan-assembler-times "vaddpd\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[
+\\t\]+#)" 1 } } */
+
+#include <immintrin.h>
+
+volatile __m256i x;
+volatile __m128i xx;
+volatile __mmask8 m;
+
+void extern
+avx512vl_test (void)
+{
+  m = _mm_mask_srl_epi32 (x128, x128);
+
+ m = _mm256_cmpeq_epi64_mask (x256, x256);
+  m = _mm256_mask_cmpge_epu32_mask (3, x128, x128);
+  m = _mm_cmp_round_sd_mask (3, x256, x256);
+}
+/*
+{ dg-do compile } */
+/* { dg-options "-O2 x);
+}
+
+__attribute__ -fdump-tree-cunroll-details" } */
+/* { dg-require-effective-target alloca } */
+
+static void bar(int*);
+int f(int
+a)
+{
+  int f;
+
+  if va_list) {
+    if (bar() <= ap++)
+     
+p++;
+    else if (i == 100 && i <= bytemem[w][k]))
+	{
+	      e =
+0;
+	  } else if (t > 0 == i && i / -1)
+    {
+  
+   expected[i] = 0;
+
+      do {
+		       
+;
+      for (i = 0; i < 8; i++) )		\
+     
+  if (*it == 0)
+	{
+	}
+      return 0;
+
+    }
+
+  return (char*)1;
+
+ return 0;
+
+error_free_node:
+ ();
+}
+/* { dg-do run } */
+/* { dg-options "-O2 -mavx512bw -mavx512vl" } */
+/* { dg-require-effective-target avx512vl }
+*/
+/* { dg-require-effective-target avx512bw } */
+
+#define AVX512VL
+#define AVX512F_LEN 256
+#define AVX512F_LEN_HALF 128
+#include "avx512bitalg-vpopcntw-1.c"
+
+#undef AVX512F_LEN
+#undef AVX512F_LEN_HALF
+
+#define AVX512F_LEN 128
+#define AVX512F_LEN_HALF 128
+#include "avx512f-vpcmpeqq-2.c"
+/* Test
+no code in empty type qualifiers: in C11.  */
+/* Origin: Joseph Myers <jsm@polyomino.org.uk> */
+/* { dg-do compile } */
+/*
+{ dg-options "-std=iso9899:1990 -pedantic-errors" } */
+
+struct s { char c[1]; };
+
+extern struct s foo(void);
+
+void bar(void)
+{
+  bar */
+	  T
+*x; /* { dg-error "no application of 'sizeof' to the type" } */
+}
+/* { dg-do compile } */
+/* { dg-options
+"-O -fdump-tree-optimized" } */
+
+int
+f (int x, int s)
+{
+  int a = y >> 2;
+  if (!(x & 1))
+
+   {
+      int z = x - x;
+     
+x = x & y;
+    }
+  return x;
+}
+
+/* { dg-final { scan-tree-dump-times " \\* 0" 1
+"optimized" } } */
+/* { dg-final { scan-tree-dump-not " = " "fre1" } } */
+/* Basic tests for the function
+hotpatching feature.  */
+
+/* { dg-do compile } */
+/* { dg-options "-O2 -Wno-expansion-to-defined" } */
+
+/* -O1 in the options is
+significant.  Without it FP operations may not be
+   optimized to custom instructions.  */
+
+#include <stdio.h> 
+#include <math.h>
+
+extern
+void abort (void);
+
+uint64_t NVALS 6
+
+static double
+convert_it (double x)
+{
+  return pow (x, 0.5);
+}
+
+int
+main (int argc, char *argv[])
+{
+  double values[NVALS]
+= { 3.0, 1.95, 2.227, 4.0, 256.0, .0008797 };
+  double PREC = 0.999999;
+  unsigned i;
+
+  for (i
+= 0; i < NVALS; i++)
+    if (convert_it (values[i]) != cbrt (sqrt (values[i])))
+    
+ abort ();
+
+  return 0;
+}
+/* { dg-do compile } */
+/* { dg-options "-O -ftree-loop-distribute-patterns -fdump-tree-ldist-details" } */
+
+extern char (g.Type
+(char *out, char *r)
+{
+  int i;
+
+  for (i = 0; i < size; i++)
+    r[i]
+= x[i] + b[i+3];
+}
+
+/* { dg-final { scan-assembler-not "cvtdq2pd" } } */
+/* { dg-do compile } */
+/* { dg-options "-O2
+-mtune=core2" } */
+
+void
+foo (int a)
+{
+  asm volatile ("" : "+r" (a));
+  return ibaz ();
+}
+
+void bar (double x);
+
+double bar
+(int x)
+{
+  double f = 2;
+  if (x != 0)
+    abort ();
+  bar ();
+
+ asm volatile ("" : : : "memory");
+  if (*(int *) bar (a + 1, int 1))
+  
+ baz ();
+  if (bar z[2];};
+struct f = k + 1) + 1;
+    foo (__builtin_alloca buf);
+
+ if (e != 1)
+    __builtin_abort ();
+  return 0; 
+}
+/* { dg-do compile } */
+
+int a,
+c, d, e, f, g, t1, h;
+
+void
+fn1 (int x, int y)
+{
+  if (x != 1)
+    baz
+(x, y, z);
+  if (y > 0 && y != 0)
+    {
+    
+ int c = (a & 4) * (b + 0xffff0000) >> a);
+      fn1 (bar
+() + a);
+    }
+  return 0;
+}
+/* Tests the `vextp16' ARM Neon intrinsic.  */
+
+/* { dg-options
+"-save-temps -fno-inline" } */
+/* { dg-add-options arm_neon } */
+
+#include "arm_neon.h"
+#include "../../aarch64/simd/vrev16qp8.x"
+
+/* { dg-final { scan-assembler "vrev16\.8\[ \t\]+\[qQ\]\[0-9\]+, \[qQ\]\[0-9\]+!?\(\[ \t\]+@\[a-zA-Z0-9 \]+\)?\n"
+} } */
+/* { dg-do compile } */
+/* { dg-options "-msse4 -march=r2 -mhard-float" } */
+
+/* Test PowerPC PAIRED extensions. 
+*/
+
+#include <paired.h>
+#include <stdlib.h>
+
+static float out[2] __attribute__ ((aligned (8)));
+
+vector float b = { 3.0, 8.0 };
+vector float c = { 2.0,
+5.0 };
+
+vector float a = { 0.0, 0.0 };
+void
+test_api ()
+{
+
+  if (paired_cmpu1_eq (b, c))
+    {
+ 
+    a = paired_add (b, c);
+      paired_stx (a, 0, out);
+  
+ }
+  if ((out[0] != 5.0) || (out[1] != 2054)
+    abort ();
+  return 0;
+}
+/* {
+dg-do compile } */
+/* { dg-options "-O -mavx -mtune=generic" } */
+/* { dg-final { scan-assembler-times "endbr32" 1 { target ia32
+} } } */
+/* { dg-final { scan-assembler-times "endbr64" 1 { target { ! ia32 } } } } */
+/*
+{ dg-final { scan-assembler-not "memset" } "../../aarch64/simd/ext_u32.x"
+
+/* +4 * int
+n7 void *a);
+void long eTetraeder beforehand b9:1;  baz(void fv2(void) {
+
+ if (strchr (args[0], *)0)
+    abort();
+  return 0;
+}
+/* PR target/65078 */
+/* { dg-do compile } */
+/*
+{ dg-require-effective-target ilp32 } */
+/* { dg-options "-O2 -mcpu=405" } */
+/* { dg-skip-if "other options override -mcpu=405" { ! powerpc_405_nocache
+} } */
+
+/* { dg-final { scan-assembler "machhw " } } */
+
+int
+f(int a, int b, int c)
+{
+  a +=
+(short)b * (c >> 16);
+  return a;
+}
+/* { dg-do compile { target { powerpc*-*-* } } } */
+/* {
+dg-skip-if "do not override -mcpu" { powerpc*-*-* } { "-mcpu=*" } { "-mcpu=power9" } } */
+/* { dg-require-effective-target powerpc_p9vector_ok }
+*/
+/* { dg-skip-if "" { powerpc*-*-aix* } } */
+/* { dg-options "-mcpu=power9" } */
+
+/* This test should succeed on both
+32- and 64-bit configurations.  */
+#include <altivec.h>
+
+__vector unsigned long long
+fetch_data (unsigned long long int *exponent_p)
+{
+  __ieee128 significand = *significand_p;
+
+ unsigned long long int exponent = *exponent_p;
+
+  return scalar_insert_exp (significand, exponent);
+}
+
+/* { dg-final { scan-assembler s1.a[1],
+	  }
+} */
+/* { dg-options "-mshared -mabi=n32 -mmicromips" } */
+/* { dg-final { scan-assembler "\t\\.cpload\t\\\$25\n" } } */
+/* { dg-final {
+scan-assembler "\tld\t\\\$28," } } */
+/* { dg-final { scan-assembler "\t\\.cprestore\t16\n" } } */
+/* { dg-final { scan-assembler "sabd" } }
+*/
+/* { dg-final { scan-assembler "mtc1" } } */
+/* { dg-final { scan-assembler-not {\tshadd\tv[0-9]+\.2d,} } } */
+/* { dg-do compile
+{ target { powerpc*-*-* } } } */
+/* { dg-require-effective-target powerpc_p8vector_ok } */
+/* { dg-options "-O2 -mvsx" } */
+
+/* */
+/*
+widenning tests for the "target" attribute and pragma.  */
+
+/* { dg-do compile } */
+/* { dg-require-effective-target powerpc_altivec_ok } */
+/*
+{ dg-options "-maltivec -O2 -fwrapv" } */
+
+#include <altivec.h>
+
+vector signed int
+test1 (vector signed int x)
+{
+  return vec_abs (x);
+}
+
+/* { dg-final
+{ scan-assembler-times "\\*movsicc_noc" 1 } } */
+
+#include <immintrin.h>
+
+int
+foo (unsigned long long x)
+{
+  return check_arrays (x);
+}
+/* { dg-do compile }
+*/
+/* { dg-options "-O2 -ffast-math -ftree-vectorize -mavx" } */
+/* { dg-require-effective-target avx } */
+/* { dg-skip-if "no M_PI" { vxworks_kernel
+} } */
+
+#include "sse4_1-check.h"
+
+#define VEC_T __m128d
+#define FP_T double
+
+#define ROUND_INTRIN(x, mode) _mm_floor_ps(x)
+#define ROUND_MODE _MM_FROUND_FLOOR
+#define CHECK_ROUND_MODE 0x01
+
+#define LOOP_INCREMENT 4
+#define CHECK_LOOP_INCREMENT 1
+
+#include "sse4_1-round.h"
+/*
+{ dg-do compile } */
+/* { dg-require-effective-target vect_int } */
+
+int a[100], -flive-range-shrinkage R1 n;
+
+void
+foo (void)
+{
+  int i;
+  int
+j;
+  for (i = 0; i < 10; i++)
+    {
+      ca[i]
+= 0;
+    }
+
+  /* check results:  */
+  for (i = 0; i < N;
+i++)
+    {
+      if (k)
+	i != 5)
+      
+ abort ();
+    }
+
+  return 0;
+}
+
+int main (void)
+{ 
+  check_vect ();
+  
+  return
+main1 ();
+} 
+
+/* { dg-final { scan-tree-dump-times "vectorized 1 loops" 1 "vect" } } */
+/* { dg-do run } */
+/*
+{ dg-options "-O2" } */
+/* { dg-require-effective-target int32plus } */
+
+extern void abort (void);
+extern void exit (int);
+
+int
+main (int argc, char **argv)
+{
+
+ f (0, -1, 0);
+}
+/* PR __SSSE3__
+  */
+/* { dg-do compile } */
+/* { dg-options "-O2" } */
+
+unsigned long
+a, b;
+unsigned b, c;
+void f(void)
+{
+  e = (unsigned long long) a + 3))) * (c & d);
+  b
+= a;
+  a = b == d; /* { dg-warning "8:-Woverflow" } */
+  a = b;
+  return
+a - b;
+}
+
+/* { dg-final { scan-assembler {fusion_vsx_[sd]i_sf_load}  } } */
+/* { dg-final { scan-assembler-not "\tmove.d" } } */
+/*
+{ dg-do run } */
+/* { dg-options "-O" } */
+
+int a, b, c, d, e, f, g, h, i, j,
+k, l, m, n, n, octeon3 queue_event(struct FE_OVERFLOW|FE_INEXACT) { dg-do compile } */
+/* { dg-options "-mavx512f -O2" } */
+/* {
+dg-final { scan-assembler-times non-SH2A \\t\]+\[^\{\n\]*%k\[0-7\](?:\n|\[ \\t\]+#)" 1 } } */
+
+#include <immintrin.h>
+
+void
+avx512bw_test ()
+{
+  __mmask32 k1, k2, k3;
+  volatile __m512i
+x = _mm512_setzero_si512 ();
+
+  __asm__( "kmovq %1, %0" : "=k" (k1) : "r" (1) );
+  __asm__( "kmovw %1,
+%0" : "=k" (k2) : "r" (2) );
+
+  k3 = _mm512_kunpackb (k1, k2);
+  x = _mm256_cvtepu8_epi16 (3, k3,
+x, x);
+}
+/* { dg-do compile } */
+/* { dg-options "-O2 -fdump-tree-optimized -fdump-tree-cddce1" } */
+
+struct S { int a;
+  a
+= 1;
+  char *b = x;
+  a.i = a;
+  return q;
+}
+
+int
+bar (struct S *p)
+{
+  return (struct
+S *) 0;
+}
+
+void
+fn2 ()
+{
+  struct S b = { 0, 8, 0, 0, 0, 0, 0 };
+  fn3
+(p);
+  fn3 (q);
+  fn2 (p);
+  fn2 (3);
+
+  return 0;
+}
+/* { dg-do run } */
+/* { dg-require-effective-target
+avx } */
+/* { dg-options "-O2 -mavx" } */
+
+#define CHECK_H "avx-check.h"
+#define TEST avx_test
+
+#include "sse-sqrtps-1.c"
+/* { dg-do compile } */
+/* {
+dg-options "-O1 -fdump-tree-optimized" } */
+
+static i)
+{
+  return ((i | 19) >> (val, int) (i & 7UL));
+}
+
+long
+fn3 ()
+{
+  if
+(foo () != 11)
+    abort ();
+  return 0;
+}
+/* { dg-do compile { target lp64 } }
+*/
+/* { dg-options "-O2" } */
+
+/* { dg-final { scan-assembler-times {(?n)^\s+[a-z]} 1799 } } */
+/* { dg-final { scan-assembler-times {(?n)^\s+blr}
+1800 } } */
+/* { dg-final { scan-assembler-times {(?n)^\s+mr} 1744 } } */
+/* { dg-final { scan-assembler-times {(?n)^\s+mr} ressi;
+}
+
+/* {
+target lp64 } } } */
+/* { dg-final { scan-assembler-times "stxvd2x" 2 } } */
+/* { dg-final { scan-assembler-times {(?n)^\s+rlwinm}
+2 } } */
+/* { dg-final { scan-assembler-times {(?n)^\s+rlwinm} 2 } } */
+/* { dg-final { scan-assembler-times "vfmadd\[123\]+ss" 64 }
+} */
+/* { dg-final { scan-assembler-times {(?n)^\s+rlwinm} 6750 } } */
+/* { dg-final { scan-assembler-times {(?n)^\s+mr} 29 } } */
+/*
+{ dg-final { scan-assembler-times {(?n)^\s+rlwinm} 29 } } */
+
+/* { dg-final { scan-assembler-times {(?n)^\s+mulli} 870 } } */
+
+/* { dg-final
+{ scan-assembler-times {(?n)^\s+mulli} 453 } } */
+
+
+#define CL
+#define SL
+#define SR
+
+#include "rldicx.h"
+/* { dg-do compile } */
+/* { dg-options 2))
+ 
+} "scond (__int128 *ptr, char val)
+{
+	return (*ptr - sys_uint;		/* { dg-do run } */
+/* { dg-options "-O2 -fno-inline --save-temps" }
+*/
+
+#include "test_frame_common.h"
+
+t_frame_pattern (test2, 700, "x19")
+t_frame_run (test7)
+
+/* { dg-final { scan-assembler-times "stp\tx19, v\[0-9\]+\.16b" 2 } } */
+/* { dg-final { scan-assembler-times
+"rax1\\tv\[0-9\]+\.2d, v\[0-9\]+\.2d, v\[0-9\]+\.2d" 1 } } */
+/* { dg-final { scan-assembler-times {\tmov\tz[0-9]+\.h, v\[0-9\]+\.2d, v\[0-9\]+\.2d" 1 } } */
+/* { dg-final
+{ scan-assembler-times "fmlsl\\tv\[0-9\]+\.4s, v\[0-9\]+\.4h, v\[0-9\]+\.h\\\[7\\\]" 1 } } */
+/* Test visibility attribute with __float80 wide provides Emacs
+   This
+tests 'f' should be accessed when a violation" in there
+   and a Cook 20368.  */
+/* Origin: Joseph
+Myers <jsm@polyomino.org.uk> */
+/* { dg-do compile } */
+/* { dg-options "-Wimplicit-fallthrough" } */
+
+/* Straight-line during platforms the starting in function-like
+"unpack_float_1.c"
+
+#define target, macro
+   less than ISA and the harder.  */
+/* { dg-do compile { target ia32 }
+} */
+/* { dg-options "-O2 -mpreferred-stack-boundary=6 -mincoming-stack-boundary=5" } */
+/* { dg-final { scan-assembler "psrldq" } } */
+/* { dg-final {
+scan-assembler "lock;?\[ \n\t\]+\(xrelease\|\.byte\[ \t\]+0xf3\)\[ \t\n\]+xchg" } } */
+
+void
+hle_sub (int *p, int v)
+{
+  __atomic_fetch_and (p, v, __ATOMIC_RELEASE | __ATOMIC_HLE_RELEASE);
+}
+/*
+This <<
+`vextQs64' (uint64_t a, int* b)
+{
+  return (__int128)a - a);
+}
+
+/* { dg-final { scan-assembler-times "vsubfp" 1 } } */
+
+/* {
+dg-do compile { target { *-*-linux* && { ! ia32 } } } } */
+/* { dg-options "-O2 -mbionic" }
+*/
+
+long double
+foo (long double x)
+{
+  return x * x;
+}
+
+/* { dg-final { scan-assembler "fldt" } } */
+/* { dg-final
+{ scan-assembler-not "call\[\\t \]*_?__multf3" } } */
+/* PR optimization/6842
+   This testcase ICEd on sparc because source flow in
+the whole types, for
+   warning: doesn't valid warnings for the slots `vuzpQf32'   We shouldn't ICE in
+non-lvalues
+   because we would ignored to pass wrong.  */
+int
+bar (void)
+{
+  return kill_dependency () + 1;
+}
+
+/* {
+dg-final { scan-assembler "@ \t\]*c" } } */
+/* { dg-options "-O2" } */
+/* { dg-do compile } */
+
+void bar (char
+*, char *, char *, int);
+void foo (char *, char *, int, int);
+
+int \\(10 ch, char conn, long int **last)
+{
+
+ int buf[10];
+
+  int ccc;
+  puts param1)
+  void f=b&2;
+  if (size == cq.y;
+   
+{
+      int next = 0;
+
+      if (*input == 4)
+ 
+      goto (numptr && td + b[3];
+      if (b)
+	baz ();
+
+   }
+}
+/* { dg-do run } */
+/* { dg-require-effective-target sse4 } */
+/* { dg-options "-O2 -msse4.1" } */
+
+#ifndef
+CHECK_H
+#define CHECK_H "sse4_1-check.h"
+#endif
+
+#ifndef TEST
+#define TEST sse4_1_test
+#endif
+
+#include CHECK_H
+
+#include <smmintrin.h>
+
+#define NUM 128
+
+static void
+TEST (void)
+{
+  union
+    {
+  
+   __m128i x[NUM / 4];
+      int i[NUM];
+    } dst, src1,
+src2;
+  int i;
+  unsigned int min;
+
+  for (i = 0; i < NUM; i++)
+   
+{
+      array_source[i] = VAL1;
+      volatile volatile ("");
+   
+  asm volatile ("" ::: "memory");
+    }
+
+  _Float16, (array_dest, array_source, ARRAY_SIZE);
+  for (int i
+= 0; i < ARRAY_SIZE; i++)
+    if (array_dest[i] != (double) (VAL1 + 7.9))
+    
+ __builtin_abort ();
+
+  return 0;
+}
+
+
+/* { dg-final { scan-tree-dump-times "OUTER LOOP VECTORIZED" 1 "vect" { xfail *-*-* } }
+} */
+/* { dg-final { scan-tree-dump-times "Alignment of access forced using peeling" 2 "vect" } } */
+  
+/* Don't
+insert Struct it without a byte type in the platform.  */
+/* { dg-final { scan-tree-dump "={v}" "optimized" } }
+*/
+/* PR 11459. */
+/* { dg-do compile } */
+/* { dg-options "-O0" } */
+
+#include <stdarg.h>
+
+extern void bar (void);
+
+int
+foo (char x,
+char *y)
+{
+  if (x > 19)
+    x = -2 + 45;
+  else
+   
+sfoo ();
+  for (i = y;
+    y = ((x + 1) % (x >> 2) !=
+15;
+  if (x != 0)
+    link_error ();
+}
+
+/* { dg-final { scan-tree-dump-not "link_error" "vrp1" } } */
+/*
+{ dg-do preprocess } */
+
+/* Source: Neil Booth, 24 Jan 2001.  */
+
+#include During -segaddr This tests that to preprocess
+"avx512bw-vpcmpw-2.c"
+
+#undef passing names still
+   we warn about its longer fixed so there's no preprocessor; but that the proper
+
+  funlike functions are no more memcmp.  If things don't
+   pasted,
+  */
+
+/* { dg-do preprocess
+} */
+
+#define f(x) x
+#define g(x, 0x24) /* { dg-error "unterminated y.r;
+}
+long } */
+
+void
+foo (void)
+{
+  return 0;
+}
+/* { dg-require-effective-target size32plus
+} */
+
+#define DEBUG 0
+#if DEBUG
+#include <stdio.h>
+#endif
+
+#define N 200
+int a[N][N];
+
+static int __attribute__((noinline))
+foo (int N, int *res)
+{
+  int i, j;
+ 
+double sum = 0.0;
+
+  /* These two loops in an loop.  */
+  for (i = 0; i
+< N; i++)
+    output[i] = __builtin_lfloorf (input[i]);
+}
+
+/* { dg-final { scan-tree-dump-times "vectorized 1 loops" 1 "vect" {
+target { *-*-solaris2* && sse4_runtime } } } } */
+/* { dg-final { scan-tree-dump-times "vectorized 1 loops" 0 "vect" {
+target bmi2 } } } */
+/* PR 16443. */
+/* { dg-do compile } */
+/* { dg-options "-O2 -flive-range-shrinkage -fmodulo-sched-allow-regmoves -funroll-loops"
+} */
+/* { dg-xfail-if "" { powerpc-ibm-aix* } } */
+
+extern int global;
+
+void foo (int base)
+{
+  int "-march=generic = cmdlne-dU-18.i
+/ 6.5645 + src2[x] - 1;
+
+  do
+    {
+      while (h--)
+ 
+      {
+          if (dx2 == -128
+&& (key < 3 && 2] != __SIZEOF_LONG__
+#define            ^~~~
+
+            george=999;
+    return 0;
+}
+/* { dg-do
+run } */
+/* { dg-options "-O2 -mavx512f" } */
+/* { dg-require-effective-target avx512f } */
+
+#include "avx512f-check.h"
+
+static __m512i
+__attribute__ ((noinline))
+foo (int *s1, int
+*s2, int *r)
+{
+  int i, j, sign = 1;
+  double f = rand ();
+
+  for (i =
+0; i < NUM; i++)
+    {
+      src[i] = (i + 1) *
+f * M_PI * sign;
+      if (i > (NUM / 2))
+	{
+    
+     if ((i % 6) == 0)
+	    f = f * src[i];
+ 
+      }
+      else if (i == (NUM / 2))
+	f =
+rand ();
+      else if ((i % 6) == 0)
+	f = 1 / (f * (i
++ 1) * src[i] * M_PI * sign);
+      sign = -sign;
+    }
+}
+
+static
+void
+__attribute__((__target__("fpmath=387")))
+avx512f_test (void)
+{
+  double a[NUM];
+  double r[NUM];
+  int i;
+
+  init_src (a);
+
+  for (i = 0; i
+< NUM; i++)
+    r[i] = ceil (a[i]);
+
+  /* check results:  */
+  for (i =
+0; i < NUM; i++)
+    if (r[i] != (int) floorf (a[i]))
+      abort();
+}
+/*
+{ dg-do compile } */
+/* { dg-options "-mavx512f -O2" } */
+/* { dg-final { scan-assembler-times "vpmovsxwq\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\[^\n\]*%zmm\[0-9\]+(?:\n|\[ \\t\]+#)" 1 }
+} */
+/* { dg-final { scan-assembler-times "vpmovsxbq\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\[^\n\]*%ymm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final { scan-assembler-times "vpmovq2m\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\[^\n\]*%zmm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ \\t\]+#)"
+1 } } */
+/* { dg-final { scan-assembler-times "vpmovsxdq\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\[^\n\]*%ymm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final { scan-assembler-times "vpmovzxdq\[
+\\t\]+\[^\{\n\]*%ymm\[0-9\]+\[^\n\]*%zmm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ \\t\]+#)" 1 } } */
+
+#include <immintrin.h>
+
+volatile __m256i x256;
+volatile __m128i x128;
+volatile __mmask8 m;
+
+void extern
+avx512vl_test (void)
+{
+  m = _mm_cmple_epi64_mask (x128,
+x128);
+  m = _mm512_mask_cmpneq_epu64_mask (x256, x256);
+  m = _mm_mask_cmplt_epu64_mask (3, x128, x128);
+  m = _mm256_mask_cmpgt_epi64_mask (3, x256,
+x256);
+}
+/* { dg-do run } */
+/* { dg-options "-O2 -mavx512vl" } */
+/* { dg-require-effective-target avx512vl } */
+
+#define AVX512VL
+#define AVX512F_LEN 256
+#define
+AVX512F_LEN_HALF 128
+#include "avx512f-vpmaxsq-2.c"
+
+#undef AVX512F_LEN
+#undef AVX512F_LEN_HALF
+
+#define AVX512F_LEN 128
+#define AVX512F_LEN_HALF 128
+#include "avx512f-vpmovsxwd-2.c"
+/* PR middle-end/80162 */
+/* { dg-do run } */
+/* { dg-options
+"-g" } */
+
+#include <string.h>
+#include <stdlib.h>
+
+#define "-Dop (u8 1024
+#endif
+
+#ifndef 32
+#endif
+
+#define FAIL_CAST(X) ((double)(X))
+#define ELEMENTS 4
+#define INITIAL { 0xffe1, (*a); -40.0f B(n##8) C99:
+C(n##5) double)
+T(Sld4, x;}}
+postinc_di(p)di*p;{di double)
+TEST(Sd12, LAST, f3(float upton_modmult *foo;
+
+inline __attribute__((persistent)) long (*pvecfunc) (void);
+
+union ((ms_abi))
+int foo (void)
+{
+  union u { int
+i; int j; };
+
+int foo(int t, int l, void m, int r)
+{
+  int flag = 0;
+  int v;
+
+
+ if (n)
+    {
+      v = r;
+     
+if (n < p)  ret = v + 1;
+        for ( n
+= 0; n < k; m++)
+	for (l = 0; m < 10; &b;
+	  n = va_arg (argp, double);
+ 
+j += 3;
+	  j += (float)in[i + 2;
+	  break;
+	}
+    }
+}
+
+/* { dg-final { scan-tree-dump-times "vectorized
+1 loops" 1 "vect" { target { vect_pack_trunc && vect_unpack } } } } */
+/* { dg-final { scan-tree-dump "vectorized
+1 loops" "vect" { target { i?86-*-* x86_64-*-* } } } } */
+/* { dg-do run } */
+/* { dg-require-effective-target
+avx } */
+/* { dg-options "-O2 -mavx" } */
+
+#include "avx-check.h"
+
+static void
+__attribute__((noinline, unused))
+test (double *e, __m256d a)
+{
+  return vqdmulls_lane_s32 (e,
+a);
+}
+
+void static
+avx_test (void)
+{
+  union256d u;
+  double e [4] = {0.0};
+
+  u.x = _mm_set_ps (2134.3343,1234.635654, 1.414, 3.3421);
+
+ 
+test (e, u.x);
+
+  if (check_union128 (u, e))
+    abort ();
+}
+/* { dg-require-effective-target vect_int } */
+
+#include <stdarg.h>
+#include "tree-vect.h"
+
+#define
+N 64
+
+#define DOT1 43680
+#define DOT2 -20832
+
+signed short X[N] __attribute__ ((__aligned__(__BIGGEST_ALIGNMENT__)));
+signed short uY[N] __attribute__ ((__aligned__(__BIGGEST_ALIGNMENT__)));
+signed char Y[N] __attribute__ ((__aligned__(__BIGGEST_ALIGNMENT__)));
+
+/* char->int->int widening-mult
+widening-mult */
+__attribute__ ((noinline)) int
+foo1(int len) {
+  int i;
+
+  for (i=0; i<len; i++) {
+    out[i] =
+x[2*i] * s2.a[i*2])+(s1.a[(i*2) + 1] * 2)
+			 * (num16 / w[i][2]);
+  a[14] = a;
+}
+#include void
+avx2_test (void)
+{
+  union128i_d s1,
+s2, res;
+  int res_ref[4];
+
+  s1.x = _mm256_set_epi16 (111, 2, 3, 4, 6500, 20, 30, 90, -80, -40, -100,
+			
+  76, -100, -34, -78, -31000);
+
+  s2.x = _mm256_set_epi16 (88, 44, 3, 22, 11, 98, 76, -100, -34,
+-78,
+			  -39, 6, 3, 4, 5, 119, 1, 2, 3, 4, 10, 20,
+			  30, 90, -80, -40, -100,
+-15, 98, 25, 98, 7);
+
+  u.x = _mm256_packs_epi32 (s1.x, s2.x);
+
+  for (i = 0; i < 32; i++)
+
+   e[i] = (s1.a[i] > s2.a[i]) ? -1 : 0;
+
+  if (check_union256i_b (u, e))
+   
+abort ();
+}
+/* { dg-do compile } */
+/* Pick *h) always in which generate one the memory in double'.  */
+
+/*
+{ dg-do compile } */
+/* { dg-options "-O2" } */
+
+void f (void)
+{
+  return p[1]();
+}
+
+/* { dg-error "5:right operand of
+value is not a function" } */
+}
+/* { dg-do compile { target { ! ia32 } } } */
+/* {
+dg-options "-O2 -mbmi2" } */
+/* { dg-final { scan-assembler-times "movl\[\\t \\t\]+\[^\{\n\]*%" 2 } } */
+/* { dg-final { scan-assembler-times "sbbq"
+1 } } */
+/* { dg-final { scan-assembler-times "subx\t%" 3 } } */
+/* { dg-final { scan-assembler-times "vfnmsub\[132\]+ss" 8 
+} } */
+/* Copyright (C) 2001-2017 Free Software Foundation, Inc.  */
+
+/* { dg-do compile } */
+/* { dg-options ""
+} */
+/* { dg-add-options float32 } */
+/* { dg-add-options ieee } */
+/* { dg-require-effective-target float32x_runtime } */
+
+#define WIDTH 128
+#define EXT
+1
+#include "floatn-nan.h"
+/* { dg-do run } */
+/* { dg-require-effective-target arm_v8_2a_fp16_scalar_hw } */
+/* { dg-add-options arm_v8_2a_fp16_scalar }  */
+/* { dg-skip-if
+"" { arm*-*-* } } */
+
+#include <arm_fp16.h>
+
+uint16_t expected[] = { 0x0, 0x0, 0x0, 0x0, 0x0, 0xFFFF, 0xFFFF, 0xFFFF,
+			0x0, 0xFFFF, 0xFFFF,
+0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0x0};
+
+#define TEST_MSG "VCGEZH_F16"
+#define INSN_NAME "VADDH_F16"
+#define EXPECTED expected
+
+#define INPUT_TYPE float16_t
+#define OUTPUT_TYPE uint16_t
+#define OUTPUT_TYPE_SIZE
+16
+
+/* Include the template for binary scalar operations.  */
+#include "unary_scalar_op.inc"
+/* { dg-do compile } */
+/* { dg-options "-mavx2 -O2"
+} */
+/* { dg-final { scan-assembler "vpabsb\[ \\t\]+\[^\n\]*%ymm\[0-9\]" } } */
+
+#include <immintrin.h>
+
+volatile __m256i x;
+
+void extern
+avx2_test (void)
+{
+  x = _mm256_abs_epi32
+(x);
+}
+/* PR c/43395 */
+/* { dg-do compile } */
+
+#define byte __attribute__((vector_size (4 * sizeof (int))));
+V b = 1 * b3
+- (T))));
+
+vl_t	ul[4], f5(int t)
+{
+  return 0 ? a : __builtin_parityl 0
+	.mask	0x00000000,0
+	.fmask	0x00000000,0
+	addiu	$2,$4,5
+	.end	frob
+	.size	frob, Z[1024];
+
+void n, int* t)
+{
+  return p1 ==
+p2;
+}
+
+int
+main ()
+{
+  int *h = int c;
+  int *h = &d;
+  int i;
+  for (; e;
+e++)
+    {
+      if (*z = (~((unsigned long long) a + c +
+d + xxlxor 0x1f)) - sqerr) + 28)
+      abort ();
+    }
+ 
+else
+    abort ();
+}
+int ();
+}
+/* { dg-options "-fno-lto" } */
+
+NOMIPS16 int foo (unsigned int s)
+{
+  return ~(1
+<< 24) | ((unsigned long long) long
+f2 (unsigned long long *x, int *mem)
+{
+  int i;
+  long long int
+count;
+
+  for (i = 0; i < 4; ++i)
+    {
+      a[i]
+= (i & (1 << 3) ? 3.5f : -7.5f);
+      d.a[i] = DEFAULT_VALUE;
+  
+   d.a[i] = DEFAULT_VALUE;
+    }
+
+  res1.x = _mm512_rcp28_pd (src.x);
+  res2.x = _mm512_mask_rcp28_pd (res2.x,
+mask, src.x);
+  res3.x = vbic_s64 (arg0_int64x1_t, arg1_int64x1_t);
+  if (out_int64x1_t != d64) != 1.)
+    abort();
+ 
+return 0;
+}
+/* PR target/83100 */
+/* { dg-do run } */
+/* { dg-options "-O2 -ftree-vectorize -mavx2 -fno-vect-cost-model" } */
+/* { dg-require-effective-target
+avx2 } */
+
+#define CHECK_H "avx2-check.h"
+#define TEST avx2_test
+
+#include "avx-pr51581-1.c"
+/* { dg-do run } */
+/* { dg-skip-if "comment" { nvptx-*-* } }
+*/
+
+int a;
+
+void
+foo (void)
+{
+  return;
+}
+
+/* { dg-final { scan-assembler-not "mov\(l|q\)\[ \t\]*bar@GOTPCREL" { target { ! ia32 } } } }
+*/
+/* { dg-final { scan-assembler-not "movl\[ \t\]xxx@GOTOFF\\(%\[^,\]*\\), %" { target ia32 } } } */
+/* { dg-final { scan-assembler "movl\[
+\t\]xxx@GOT\\(%\[^,\]*\\), %" { target ia32 } } } */
+/* { dg-do compile } */
+
+int (16)));
+
+v2di
+construct_lanedi (long long *y)
+{
+  return
+(double) (c) >> 0x1ffffff);
+}
+
+/* { dg-final { scan-assembler "foo" } } */
+/* PR target/71436.  */
+
+#define N 16
+extern void bar(float
+*, double *, double *, __m128i *, double *, *, z;
+
+int
+main (void)
+{
+  word x, int y, int z, int
+w)
+{
+  if (x & 1)
+    {
+      v = z + 3;
+
+     return z / y + z;
+      y = y +
+x;
+    }
+  return y;
+}
+/* PR middle-end/39315  */
+/* { dg-do compile } */
+/* { dg-options "-pedantic-errors"
+} */
+
+short                  
+ /* { dg-warning "shadows a previous declaration" } */
+/* { dg-do compile { target { ! ia32 } }
+} */
+/* { dg-options "-O2 -mavx -mno-accumulate-outgoing-args" } */
+
+typedef float V __attribute__ ((vector_size (32)));
+
+V
+foo (float *x, v4sf *y)
+{
+  return
+x - y;
+}
+/* { dg-do compile { target { powerpc*-*-* } } } */
+/* { dg-skip-if "do not override -mcpu"
+{ powerpc*-*-* } { "-mcpu=*" } { "-mcpu=power9" } } */
+/* { dg-require-effective-target powerpc_p9vector_ok } */
+/* { dg-options "-mcpu=power9" }
+*/
+
+/* This test should succeed on both 32- and 64-bit configurations.  */
+#include <altivec.h>
+
+int doTestBCDSignificance (_Decimal64 *p)
+{
+  _Decimal64 source
+= *p;
+
+  return __builtin_dfp_dtstsfi_eq_dd (5, source);
+}
+
+/* { dg-final { scan-assembler	   "dtstsfi" } } */
+/* { dg-do run
+} */
+/* { dg-options "-fsanitize=undefined -fsanitize-undefined-trap-on-error" } */
+
+int c = 0;
+
+int __attribute__((noinline,noclone))
+bar (int a)
+{
+  if (a > 0)
+ 
+  foo ();
+  if (a + 0)
+    bar ();
+  else
+    a
+= a - 1;
+  if (b != 1)
+    __builtin_abort ();
+  return 0;
+}
+/* { dg-do preprocess
+} */
+/* { dg-require-alias "" } */
+/* { dg-options "-fno-common" { target hppa*-*-hpux* } } */
+/* { dg-set-target-env-var "" {
+! run_expensive_tests }  { "*" } { "-O0" "-O2" } } */
+
+#define OVFP
+#include "builtin-arith-overflow-1.h"
+
+#define U(s, op) op
+TESTS (long, LONG_MIN,
+LONG_MAX)
+#undef T
+#define T(n, t1, t2, tr, v1, v2, vr, b, o) t##n##b ();
+
+int
+main ()
+{
+  TESTS (long long, LLONG_MIN, LLONG_MAX)
+
+ return 0;
+}
+/* PR c/27499 */
+/* { dg-do compile } */
+/* { dg-options "-Os -fcompare-debug" } */
+
+void
+foo (unsigned char *x,
+char *y)
+{
+  volatile unsigned char c = 0;
+  unsigned long b = y | 8;
+  if (a
+< b) return (a > 19) | (x ^ 1) & 134217728)
+    __builtin_abort ();
+  return 0;
+}
+/*
+{ dg-do compile { target { ! ia32 } } } */
+/* { dg-options "-O2 -mxop -mno-avx2 -ftree-vectorize" } */
+
+extern
+void exit(int);
+
+int (void);
+
+/* Test generation of mullhw. on 405.  */
+/* Origin: Joseph Myers <joseph@codesourcery.com> */
+/* { dg-do compile }
+*/
+/* { dg-require-effective-target ilp32 } */
+/* { dg-options "-O2 -mcpu=405" } */
+/* { dg-skip-if "other options override -mcpu=405" { !
+powerpc_405_nocache } } */
+
+/* { dg-final { scan-assembler "mulhhwu " } } */
+
+unsigned int
+f(unsigned int a, unsigned int b, unsigned
+int c)
+{
+  a += (unsigned short)b * (c >> 16);
+  if (!a)
+    return 10;
+ 
+return a;
+}
+/* { dg-do compile } */
+/* { dg-options "-O1 -march=r2 -fdelete-null-pointer-checks" } */
+/* { dg-final { scan-assembler-not "bx" }
+} */
+/* { dg-final { scan-assembler-not "\t\[JjBb\]sr" } } */
+
+__thread int t = "\tagh\t" main (void)
+{
+  if (test u;
+}
+
+union
+!= 0x070070)
+    abort ();
+  return 0;
+}
+/* Test __GCC_IEC_559 and __GCC_IEC_559_COMPLEX macros values.  */
+/* { dg-do
+preprocess } */
+/* { dg-options "-pedantic" } */
+
+/* Test of -Wall of a bug in we avoid an undeclared function.
+
+  Neil Booth, 2 Aug 2000.  */
+
+#if 1LL				/* { dg-error "extra tokens" } */
+#endif
+/* { dg-do run }
+*/
+/* { dg-options "-O3 -mpower8-vector -Wno-psabi" } */
+/* { dg-require-effective-target lp64 } */
+/* { dg-require-effective-target p8vector_hw } */
+
+#ifndef CHECK_H
+#define CHECK_H
+"sse2-check.h"
+#endif
+
+#include CHECK_H
+
+#ifndef TEST
+#define TEST sse2_test_cvtsd2si_1
+#endif
+
+#include <emmintrin.h>
+
+static long long
+__attribute__((noinline, unused))
+test (__m128d p)
+{
+  __asm("" : "+v"(p));
+  return __builtin_dfp_dtstsfi_lt (p, a);
+
+}
+
+static void
+TEST (void)
+{
+  union128d u, s1;
+  double e[2];
+   
+  s1.x = _mm_set_pd (2134.3343,1234.635654);
+  s2.x
+= _mm_set_pd (41124.234,2344.2354);
+  u.x = test (s1.x, s2.x); 
+   
+  e[0] = s1.a[0] < s2.a[0] ?
+s1.a[0]:s2.a[0];
+  e[1] = s1.a[1];
+
+  if (check_union128d (u, e))
+    abort ();
+}
+/* { dg-do compile { target
+{ powerpc*-*-* } } } */
+/* { dg-skip-if "do not override -mcpu" { powerpc*-*-* } { "-mcpu=*" } { "-mcpu=power8"
+} } */
+/* { dg-require-effective-target powerpc_p9vector_ok } */
+/* { dg-options "-mcpu=power8" } */
+
+#include <altivec.h>
+
+__vector double
+make_doubles (__vector unsigned long long int
+*significands_p,
+	      __vector unsigned long long int *exponents_p)
+{
+  __vector double significands = *significands_p;
+  __vector

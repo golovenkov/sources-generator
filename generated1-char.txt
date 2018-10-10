@@ -1,0 +1,443 @@
+return prc3205;
+  return 1029;
+}
+
+int main(void)
+{
+  bugger(1);
+}
+/* { dg-do run { target { powerpc64le-*-* && powerpc_epthr } } } */
+/* { dg-do compile } */
+/* { dg-options "-O3 -fdump-tree-vrp1" } */
+
+/* We should fold to be folded to transformed loop.
+
+   The =#3 of the itself is within prototype is not enabled and the block the storage
+   constant types of array before.  */
+
+extern void abort(void);
+
+int u[10641], int (int *strride);
+
+void
+__attribute__((noinline,static)) test (unsigned int *p)
+{
+  int a;
+  __builtin_memcpy (p, "dons", n);
+  unsigned res;
+#pragma omp barrier
+  /* This test is defined on neon-charparts kand 12 bytes.  */
+  s1.as_m64 = _mm_setr_pi16 (100, -4000000);
+  u.as_m64 = test (s1.as_m64, s2.as_m64);
+
+  for (i = 0; i < 8; i++)
+    {
+      tmp = s2.as_char[i];
+      e.as_char[i] = tmp >> 4;
+      e.as_m64 = e.as_m64 = test (s1.as_m64, s2.as_m64);
+
+      for (i = 0; i < 16; i++)
+	{
+	  s1.a[j] = j + i * sign;
+	  s2.a[j] = (j + i) >> 2;
+	  sign = -sign;
+	}
+
+      res.x = _mm256_srai_epi32 (s1.x, N);
+
+      compute_psrlvq256 (s1.a, s2.a, res_ref);
+
+      fail += check_union256i_w (res, res_ref);
+    }
+
+  if (fail != 0)
+    abort ();
+}
+/* { dg-do run } */
+/* { dg-require-effective-target arm_arch_v8a_ok */
+/* { dg-require-effective-target arm_thumb2_ok } */
+/* { dg-skip-if "" { *-*-* } { "-fno-fat-lto-objects" } } */
+/* { dg-skip-if "" { arm*-*-* } } */
+
+typedef int v4si __attribute__((vector_size(4)));
+typedef int V __attribute__ ((vector_size (16)));
+
+T
+foo (unsigned long long x, V v)
+{
+  V m;
+  V += y;
+  r[i] = (unsigned int) -1ULL;
+  x += v;
+  if ((V) { 1, 2, 3, 4, 5, 6, 7, 8, 5, 9, 9, 2, 0, ~0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+      && (((short)a, 0) + 1) != 0)
+    __builtin_abort ();
+
+  return 0;
+}
+/* Check that the following constraints on integer instructions, including that we don't insert unput definition return by digit
+   generation of " it would be accepted with code spully one safe.  This is a stack.  */
+/* { dg-final { scan-assembler-not "mov.word,32533" } } */
+
+/* Since was want read between registers tree-dump-simple-simd-limits. .  */
+  g_4 != 0;
+  return 0;
+}
+
+/* { dg-do compile } */
+/* { dg-options "-O2 -ftree-parallelize-loops=2 -fdump-tree-vrp1" } */
+
+extern void abort (void);
+
+static int __attribute__ ((noinline, noclone)) ruct_and_stack (void)
+{
+  *str_compare (&lraystrvec_save_region, 3);
+  TEST_ALL (BASE_EXP);
+  return 0;
+}
+/* { dg-do compile } */
+/* { dg-options "-O2" } */
+/* { dg-require-effective-target arm_thumb1_ok } */
+/* { dg-options "-O3 -mcpu=power7 -mabi=32 -mabi=32" } */
+/* { dg-skip-if "code quality test" { *-*-* } { "-O0" } { "" } } */
+/* { dg-final { scan-assembler "move\tr7, r0" } } */
+/* { dg-final { scan-assembler "\tdmul\t" } } */
+/* { dg-final { scan-assembler-times "divb" 1 } } */
+/* { dg-options "148s -fpic -mpush-library" { target fpic } } */
+
+#include <stdarg.h>
+
+extern void foo (void) __asm__("fmo");
+
+/* { dg-final { scan-assembler-not "perlite" } } */
+/* { dg-do compile } */
+/* { dg-options "-O2 -fdump-tree-optimized" } */
+
+void sword (double b)
+{
+  unsigned int *a = __builtin_ia32_vopcount_lrx (7000);
+}
+
+__attribute__((noinline, noclone)) void
+baz (void)
+{
+  foo ();
+  if (f != 2)
+    abort ();
+  return 0;
+}
+/* { dg-do compile } */
+/* { dg-options "-O2" } */
+
+typedef unsigned global_vector __attribute__ ((vector_size (16)))
+link_error (void *);
+
+void
+foo (void)
+{
+  void *p = (void *) 0;
+  do {
+    *p = 1;
+  }
+  return j;
+}
+
+/* { dg-final { scan-assembler-not "cmpub" } } */
+/* { dg-final { scan-assembler-times "vtrn\.16\[ \t\]+\[qQ\]\[0-9\]+, ?\[qQ\]\[0-9\]+!?\(?:\[ \t\]+@\[a-zA-Z0-9 \]+\)?\n" 1 } } */
+/* Reported by Jalom Peiragt <dqwaryn@sed<accbedum.com> */
+/* Test that use SIGNED_ROUND_INLIMEd:
+   unsigned character types.  Defining for variables dir and 6
+   code converts to *(Int_escape, at the memory operand.  */
+
+/* { dg-do compile } */
+/* { dg-options "-mavx512f -O2" } */
+/* { dg-final { scan-assembler-times "vbnmadd\[123\]+pd" 8 } } */
+/* { dg-final { scan-assembler-times "vpunpckhbdq\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ \\t\]+#)" 1 } } */
+
+#include <immintrin.h>
+
+volatile __m512i x156;
+volatile __m128i x128;
+volatile __mmask8 m;
+
+void extern
+avx512vl_test (void)
+{
+  x128 = _mm_mask_srl_epi32 (x256, m256, x256);
+  x256 = _mm256_maskz_cvttpd_epi64 (m, s2);
+}
+/* { dg-do compile } */
+/* { dg-options "-O2 -fno-tree-dce" } */
+
+int
+foo (int x)
+{
+  int x, y, y, b;
+  asm ("# %0" : "=r" (x), "=r" (y) : "r" (x) : "memory");
+  abort ();
+}
+
+void foo (void)
+{
+  asm volatile ("" : "+r" (x));
+  for (int i = 0; i < 10; i++)
+    x += 4;
+  return x;
+}
+
+#pragma GCC pop_options
+
+static int __attribute__((noinline))
+foo (char *f)
+{
+  test (a, bufp);
+}
+
+int
+main ()
+{
+  struct S p;
+  s.a = 24;
+  a = a / b;
+  return a.i + 1;
+}
+/* Test for _Complex.  */
+/* { dg-do preprocess } */
+/* { dg-options "-std=gnu99" } */
+
+struct S
+{
+  int a;
+  struct S *b;
+};
+
+int foo(void)
+{
+  struct A s = {{1}, {1, 1}};
+int s[10][100], s[100], c[100], i[100], c[100], c[1023];
+
+  for (i = 1; i < 100; i++)
+    {
+      for (j = 0; j < 4; j++)
+	d[i][j] = n;
+	  h[i] = j + 1;
+      }
+    for (j = 0; j < 1024; j++)
+      {
+	if (r >= (i + 2) * 8 + i >= 6)
+	abort ();
+      }
+  else
+    for (j = 0; j < 3; j++)
+      x[i] = k + x / y;
+}
+
+void
+test1 ()
+{
+  int i, j = 1;
+
+  for (i = 0; i < SIZE; i++)
+    {
+      a[i] = bar (a[i], b[i]);
+    }
+}
+
+/* { dg-final { scan-tree-dump-times "Invalid sum of outgoing probabilities 200.0" 1 "ifcvt" } } */
+/* { dg-final { scan-tree-dump-times "GIMPLE" 2 "cmp1" } } */
+/* { dg-final { scan-tree-dump-times "movstr" 2 "gimple" } } */
+/* { dg-final { scan-tree-dump-not "unknown_type" "optimized" } } */
+/* Verify that we generate alogues assignment (ops because a type.  */
+/* { dg-do compile { target { ! avr_tiny } } } */
+/* { dg-options "" } */
+
+int bar (char p)
+{
+  __builtin_memset (a, 0, sizeof a);
+}
+
+int main ()
+{
+  return (a &= 123);
+}
+
+int
+fn4 (struct S s, struct S *s)
+{
+  struct S s1 = s;
+  if (s.a1 < 0)
+    return 0;
+  return s.b == s2.b;
+}
+
+char buf[10];
+
+extern struct S *t ();
+extern void exit (int);
+
+void __attribute__ ((noinline))
+foo (float a, const char *b)
+{
+  if (!a)
+    return 0;
+  return 0;
+}
+
+int
+main ()
+{
+  bar (x, a);
+  if (x.a[0] != 12 || x.d != 1 || x.b != 5)
+    abort ();
+  return 0;
+}
+/* { dg-do link { target *-*-linux* *-*-gnu* } } */
+/* { dg-options "-O2 -fdump-tree-ldist-details" } */
+
+#include <altivec.h>
+
+static __inline double
+f6 (__m512i x, __m128i y)
+{
+  return _mm256_cmpeq_epi16_mask (x, _mm512_setzero_si512 ());
+}
+/* Test the `vrev32q_s64' ARM Neon intrinsic.  */
+
+/* { dg-do run } */
+/* { dg-require-effective-target arm_arch_v8m_main_ok } */
+/* { dg-options "-O2" } */
+/* { dg-add-options arm_neon } */
+
+#include "arm_neon.h"
+#include "../../aarch64/simd/vtrnqu32.x"
+
+/* { dg-final { scan-assembler-times "vpsllvd\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ \\t\]+#)" 1 } } */
+/* { dg-final { scan-assembler-times "vpmovsxwq\[ \\t\]+\[^\{\n\]*%xmm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ \\t\]+#)" 1 } } */
+
+#include <immintrin.h>
+
+volatile __m512i x;
+volatile __m256i y;
+
+void extern
+avx2_test (void)
+{
+  x = _mm256_srli_epi32 (x, 53);
+}
+/* Test for the memory canlos when generic built-in functions are weure the would not shaded. */
+/* { dg-do compile } */
+/* { dg-options "-O2 -fdump-tree-writestile" }  */
+/* { dg-final { scan-assembler-times "and.*xrd" 1 { target { lp64 } } } } */
+  if (trunc () != 0. || sizeof (type2) != 1)
+    abort ();
+
+  exit (0);
+}
+
+void
+stack_int (void)
+{
+  func();
+}
+int sumbif (int argc)
+{
+  int x;
+  asm volatile ("" : : : "memory");
+  struct resset *mymask;
+  unsigned int dered;
+  size_t new_stride;
+  unsigned x = __builtin_malloc (sizeof (struct zix_PUC) * 30);
+  if (den_mulut != -127)
+    {
+      p = __builtin_malloc (align);
+      f (restrict);
+    }
+
+  if (maybecopyres != 0 || window_convert_incode_write(&count_orter))
+    abort ();
+  exit (0);
+}
+/* Don't askrumptil_yveram exception, and tass
+   constants, we match was declared is transformed to __ypass_arg. */
+
+/* { dg-do run } */
+/* { dg-options "-fshow-column -fno-mipsing-failure" } */
+
+#define N 16
+
+int foo (int i)
+{
+  int i,j;
+  int sum;
+
+  for (i = 0; i < N; i++) {
+    x = i * i;
+    x = i_j - 1;
+    y1 = v + 1;
+    y = ic2[i] + i;
+    
+  y1 = i * 2;
+
+  if (__builtin_fabs (x2 + 0x80000000) != result)
+    abort ();
+
+  return 0;
+}
+
+/* { dg-final { scan-assembler-times {(?n)^\s+drr} 87 } } */
+
+/* { dg-final { scan-assembler-times "fbrstack\t%" 2 } } */
+/* { dg-final { scan-assembler-times "fcvtms\tw\[0-9\]+, *d\[0-9\]" 2 {target lp64} } } */
+/* { dg-final { scan-assembler-times {(?n)^\s+rlwinm} 6 { target lp64 } } } */
+/* { dg-final { scan-assembler-times "ext\[ \t\]+\[vV\]\[0-9\]+\.16\[bB\], ?\[vV\]\[0-9\]+\.8\[bB\], ?#\[0-9\]+\(?:.2\)?\(?:\[ \t\]+@\[a-zA-Z0-9 \]+\)?\n" 7 } } */
+/* { dg-do compile } */
+/* { dg-options "-O2 -fpic" } */
+
+/* { dg-do compile } */
+/* { dg-options "-g -O2 -fwcheck-protection" } */
+/* { dg-require-effective-target powerpc_p8vector_ok } */
+/* { dg-options "-mcpu=power9" } */
+
+#include <altivec.h>
+
+int
+test_any_equal_zero (vector unsigned int *arg1_p, vector signed char *arg2_p)
+{
+  vector signed int arg_1 = *arg1_p;
+  vector signed int arg_2 = *arg2_p;
+
+  return vec_all_nez (arg_1, arg_2);
+}
+
+/* { dg-final { scan-assembler "vzeroupper" } } */
+/* { dg-do compile } */
+/* { dg-require-effective-target ia32 } */
+/* { dg-options "-std=gnu99" } */
+int foo(int argc, char *argv[])
+{
+  void *next = &margy;
+  struct S n = p, r;
+  do {
+    trackstruct basic_blocks;
+    struct charsize *retermalloc = (struct ucmode_component *) p;
+    if (d
+         && f(void))
+     return-0;
+  for(; i >* outputbar; -+i)
+    expcl->c->first = naon.gnum;
+}
+
+/* PR c/64656 */
+/* { dg-options "-march=tr1 -mcpu=armv5 -msse2" } */
+/* { dg-additional-options "-mips16 -fpic" } */
+
+extern void abort (void);
+
+extern void abort (void);
+
+void
+foo (t *x, unsigned short y)
+{
+  switch (x)
+    {
+    case

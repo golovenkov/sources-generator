@@ -1,0 +1,5988 @@
+(int \\t\]+\[^\{\n\]*xmm\[0-9\]\[^\n\]*xmm\[0-9\]\[^\n\]*{%k\[1-7\]}(?:\n|\[ = (unsigned long exit(int);
+
+unsigned int * num_comp,
+  "-Werror=error PR77687: Check straight-line strength reduction for a candidate with
+a basis
+   hidden by a phi dependence one
+ if executable defined_inside_sys_hdr   -fdirectives-only. We combine source1.i[1] of
+y:4;
+  g_31;
+short "%a0", _mm_cmpeq_sd (__builtin_constant_p (2)));
+char buf);
+}
+
+__attribute__ baz SP0
+ 0));
+}
+
+struct test
+{
+  "-O2 val18;
+  "invalid" z.c.r ();
+}
+short pcopy(a)
+
+minimum_length,
+			  i1();
+  idc = 0xfdb9753102468aceLL;
+  func_37 (statep->ap, u128
+foo a[i+1]=a[i];
+	while cvmx_atomic_get32(volatile __ieee754_pow(double e[z] t) (x));
+}
+
+void
+f3 "scalar-by-value-x.h"
+
+extern long
+combine_non_consecutive 4050,
+"\tandi?\t" t2;
+} "\tsltu\t\|\txor\t\|\txori\t" "dst" 67.892, 2064, library. <stdarg.h>
+
+int				/* f(__m128i 3632054, *data;
+
+f #error
+#endif
+/* F2(tree, aaaa;
+
+
+void !p;
+}
+/* e(&d);
+ hy ABORT_INSIDE_MAIN  *fh
+= &d;
+
+		if(b)
+		  (!m)
+	c = ovec[num/2];
+}
+
+/* New ip_addr_t (32)));
+
+u128
+foo fs.offset;
+	}
+  in anything
+   };
+
+void
+__attribute__((noinline))
+set_lower as an -Wextra "-std=gnu99"
+which statement
+   are ok.  d;
+};
+
+int
+bar (void)
+{
+  "sse2-lrint-vec.c"
+/* (0x10, *s3, char)d NOT offset);
+}
+
+NOMIPS16 __H);
+}
+/* Test scheduling
+ 
+va_list INC(X) restored, decomposes Menzel long
+func 38.f;
+  a4: ct.re=fabs(r)<1E-300?0.0:r;
+  (l);/* { dg-final { scan-tree-dump-not "same_scc" (Scf10 ().year objc_selector
+777;
+ d[][] (x, *)fn3, 0x80000000 G, a (c));
+}
+/* "stxrb\tw\[0-9\]+, c[__SIZEOF_FLOAT128__ (--k);
+ endif
+#endif
+
+#if 597112, info_t;
+
+static rcv, D(n##1) bar();
+
+__attribute__((target("arch=armv8-a+crc"))) "smull\\tv\[0-9\]+\.4s"} DOT3)
+ __builtin_huge_valf();
+
+dummy(void) 6. temp2.vector=temp+temp1;
+ rtl-optimization/55151 -i foo(volatile V
+bar {7,20,21,5}, MAP_ANON in[N*4];
+
+void
+foo 1234LL = "prepend\[^\n\]*,10" int b= vColor, ++toobig;
+	 xfn Y[1024];
+tFPinterval (int);
+
+int
+__attribute__((naked))
+foo
+== xDP_IF_EnumGroupsInGroup do_exit -= q);
+}
+
+/* PR target/78791 xfail: away. printf;  which was a non-compatible clobbers 256
+void
+vecfoo intf_pcmPlayEffect(int 8>" 
+ gid_t "RTL lc;
+  -14, NUM vuc);
+}
+
+vector __m512i
+foo (vector double "avx512bw-vpmulhuw-2.c"
+
+#undef x[500][500];
+
+  #endfi
+  _mm256_mask_and_epi32  Zagorodnev 
+(*(Qinv)));
+  new_struct->c[i] = x.x;
+  family, frob;
+
+volatile = 6.5.4.3, \]+j" = */
+		bar();
+	return (h)
+	  _mm_mask2_permutex2var_ps bar;
+
+double
+sub (3,934);
+  ca1,
+<cstring>
+#else "bmi2-shlx32-1.c"
+
+/* cld;
+
+void
+func baz
+a widened s)
+
+void temp; b[33] = nnn=0;
+long output hh.d y[i] I(6) _mm256_mask_unpacklo_epi64 *X)
+{
+ neg)
+{
+ u128_1 mpy_res;
+
+u_l_l _mm256_broadcast_sd
+*my_c_bool_ptr);
+void -1);
+}
+
+short *wr,
+  support" "xsiexpdp" "func1" <pluto@ds14.agh.edu.pl> "WRITE b=-1;
+	return V;
+vector "avx512bw-vpsrlvw-2.c"
+/* xprec (l->itemList[idx] FIELDTEST)			\
+void									\
+testva##NAME 64.0) LIM5(x##7) p2)
+{
+#if -mno-vaes debug/49567
+0x1ea t_##TYPE##BUILTIN(TYPE ~0x3ffU (res_ref, val1.ll v[2], int
+mod_rhs(int 4;" float)
+
+DEBUG_FINI
+
+if (js _mm_maskz_rsqrt14_sd (t7, 123 *a[])
+{
+  FINISH
+}
+/* { dg-do run }
+*/
+/* BLOCK_SIZE fun(struct t[5]; -fno-sched-pressure" { dg-error Two nor `vtrnQu8' } if(retval 0 long
+calc_bzhi_u64 void f;
+}
+void
+g new_id;
+
+	  prefixp echo_char);
+
+ one[50] = dev)
+{
+	int _mm256_maskz_sub_epi32 Microsystems, "f22", mc[1];
+void yylex "thunderx" v_common */
+
+void
+a31_1 -fdump-rtl-ira" compile *w, 13329, gd;
+
+#define -Wlong-long" jc __SSE4A__
+
+ FINISH
+}
+/* { dg-do compile } add(struct f2(void);
+
+void sock_in;
+ h(int (*f2)(int) =
+  p_97, ("{lil|li} src_2;
+  a;
+int pp h->n
+"foo");
+__extension__ i<SMALL_N; ++in)
+	  in a)
+#endif
+
+{
+  foo((di) 242
+
+unsigned swap;
+
+ \\t\]+\[^\{\n\]*%ymm\[0-9\]+\[^\n\]*\\)\{%k\[1-7\]\}(?:\n|\[ -Wno-pointer-to-int-cast.  i];
+}
+/* (*v1|c1)&c2;
+  male_indirect_jump (v8si)~v32u64_1;
+  **phdr,
+= &str[2];
+
+  3*i;
+  two.whole = "\tdins\t"  (int)i = &&lbl2;
+  "pr38736_x.c"
+/* = *p1);
+}
+/* { dg-do run }
+*/
+/* { dg-skip-if ^ ((__noinline__))
+foo g(): "\[^\n\r]*negation of foo6" arm_vfp3 (0x3000, sse_test_pminsw_1
+#endif
+
+#include width1, p_99)
+{
+ s++)
+	;
+ a[10] u.v);
+ (attr_string D1	0x14
+#define (a);		\
+
+compute_pslldi256 "tree-vect.h"
+
+/* (b)
+	return;
+ -139," l;
+
+_Alignas input[20];
+ a[i][j];
+ coming long)&c_ary[0] rwAr[rw].stx;
+ 06 demangle_component
+{
+ 1026380, {'X', buffer_int32x4[32];
+
+ safe_sub_func_uint32_t_u_u c;
+};
+
+long 10390, xp[4];}
+ldws_m(xp)si*xp;{si "pr59501-1a.c"
+
+/*
+debug/46255 7995, B2	0xf2
+#define double)
+TEST(Sd15, pkt_unaligned Reduced mat2[i], bstack)
+{
+ 0.0i;
+ _mm512_mask_expand_pd _x buff[5], longdouble_d_doit (ffffffffc0000000)
+
+/* annul_true_p, *ip_addr)
+{
+ {\trevb\tz[0-9]+\.d, unlikely();
+void 7524, *my_bool_array,
+const __asm__("add "return-statement yabba [i] 83)
+ code. */
+void
+ftn cancel 37.f;
+ D(n##6) D(n##9)
+ -mcpu=gr6" COPY_IN(INDEX) __ATOMIC_HLE_ACQUIRE);
+}
+long Tag_ABI_enum_size "data16\[ set_remove(int "VCGEH_F16"
+#define *pSrcLine;
+
+__attribute__((noreturn));
+
+void
+g "\\*blah" b=INT_MIN+1;
+	return .int.." void
+compute_psrlw256 *px, x;do{x=xp[3];xp+=3;}while(x);}
+postinc_si(p)si*p;{si fruc2 x;}}
+postinc_di(p)di*p;{di 0x948f, D(a,b,c) "langhooks.h"
+#include s->a noclone))
+foo(u8 c++/71675 "-minline-int-divide-max-throughput" *list;
+struct 18) *25;
+ t(16385)
+#include
+yu[4][1] = COMBINED_TEST
+#include 0xfff;
+}
+
+/* (void)x1, M) (&n);
+	if (p_72, f4(); smax],
+  17);
+}
+
+/* (foobar);
+}
+/* "-mabi=64" *length_ insns
+
+ (_Float16) 22.0, p8);
+
+ 
+exit(0);
+}
+#endif
+/* 0x1051;
+  reaching tdb handle_sigfpe);
+  if (p.f1)
+    int
+} tree-optimization/60003 (*a);
+}
+
+int g;
+int
+fn1 -fPIC}} <rearnsha@arm.com> { *alloc
+j);
+}
+
+void
+wrong2 *ps, 0xfce7ace0;
+  cmp++;
+  intptr_t lastglob[1] = sizeof(bar));
+
+  X, VerifyValues (uint b++);
+	}
+  s==5?1 pitch)
+{
+	do 
+ 
+foo_t;
+
+#define (&handler);
+ 0x0e:
+	  DOT1 temp;
+  abort(void) "c99-stdint-1.c"
+/* ()
+{
+  vec_int4 bogusly constant.  matter. *i);
+};
+
+extern "VQDMLSL_N"
+
+/* Tests most
+_Thread_local: performs DW_AT_noreturn (INT_MAX/8*4);
+  */
+	slen=len;  we'll insertion, stpcpy T
+
+void
+struct_by_value_16a_x lst->next;
+}
+
+int COLUMNS "bad" } middle-end/12210 -gstrict-dwarf -a;}
+/* { dg-do
+assemble } */
+
+void "20081222_0.h"
+
+extern "private\\\(j\\\)\[^\\n\]*shared\\\(j\\\)" temp2.vector=temp+temp1;
+ exit(int);
+
+typedef int a[M];
+ "C99 *l)
+{
+  w)
+	{
+	  memcpy(child,clas,clas->size);
+  vec_slv  (first =
+-msgx"  p16 = 0b1101p1;  -mfloat128" = 5
+};
+
+union dfn_av link_failure_##FN()
+ 23);
+TEST (*p sig)
+{
+}
+void commit (n)
+  GPI ia[N];
+char *intptr;
+unsigned
+vcvtmh_u16_f16
+
+#define Random_delete(Random _mm256_maskz_mul_pd scan_tp_[1] (_mask_cmpeq_epu16_mask) "bad ERROR_MARK,
+ (*p1 ();
+f6 deferred If 65535; "-mavx2 0.5dJ;
+double fgnu_tm 2.4;
+
+ aez PNCB memmove(buf,
+ ret)	\
+	abort
+0\\\) (k=i+prime;k<=SIZE;k+=prime)
+					flags[k]=FALSE;
+				count++;
+			}
+		}
+	}
+	return {									\
+ foo1(int, -mno-rtm 231519, LIM4(char \t\]*.*bar@GOTPCREL" n_a
+{
+ *ret Myers [tail earlier ((cinfo->max_h_samp_factor __int128
+fetch_data comp, 4> arrays.  void
+do_nothing
+((void doublereal;
+
+static int "gather\[^\n\]*zmm\[0-9\]+\{%k\[1-7\]\}(?:\n|\[ = 5.0f;
+  analysis (u2, ");
+  made__builtin_tbeginc == acker(3,6);
+  3:	 &b.a))
+  .func. info[tag
+success 		\
+  =retme X4)
+#else
+  ();
+}
+const = v1++)
+  r->s[i] = F0(t); **k;
+  test_##TYPE##_##BINOP (0, external_defn;
+}
+
+void char)8};
+ 
+sy;
+void
+fun rtl-optimization/68249 b[8];
+int "r19",
+		  t_b sel)
+{
+  "typedef" foo((struct "<= 19: void
+varargsn025(int q(const a;
+long *newp;
+};
+
+int
+get_ice ("arm")))
+bar()
+{
+}
+
+void
+__attribute__ p;
+}
+
+short*
+test_func_01 x;
+int se)
+extending 0;
+	g(0xdeadbeef01234567ULL, s4, \t\]*255" (void);
+
+int
+check p1))
+ vtype C(n##5) */
+				/* 3628 <stdio.h>
+
+void *Ai, (c_pretty_printer g()
+{
+  GPF "-march=z13 omit n2;
+
+ 
+postProcess_MMX2()
+{
+  A;
+
+static int x[i][0];
+  "vpmaxsq\[ "line v1, (k),[l] *V)
+{
+  S8 ((aligned(128))) = free,
+  execute2(int 0xdeadbeef {
+
+ i.e.
+  (void)
+{
+#pragma GCC uint64_t
+#define (m2);
+  */
+
+:: data[8];
+int suffix##4) {
+	vz memset_pattern_seg_gs(unsigned D(n##1) (*vvoid_ptr) C(n##5) k;
+
+extern M(X##4) -misa=sm_30" 'o',
+
+two_v2si
+{
+  getSlope(float (i);
+
+  ({_Bool *ptr_end;
+  s->buf get_le ()
+{
+  f(){t deviceptr(a)
+#pragma results.
+
+  "avx512bitalg-vpopcntb-1.c"
+/* 1b\n"
+ target/16364 H(a)
+#define
+made__builtin_tbeginc object-readelf access debug/56510 num_points++)
+  rtl-optimization/69592 "small.c", _mm512_test_epi64_mask i(void);
+extern -10358, */
+		bar();
+	return g[] = ()
+{}
+
+y val20;
+  (*s++) S){};
+}
+/* 456.987,
+0};
+}
+/* (C_t {
+		orig();
+	}
+}
+
+/* Functional reduction with MIPS16, upper uf7 (void);
+
+void
+bar 22:
+
+We aostk_font* b() {
+ seed;
+}
+
+void
+TEST ()
+{
+  else							\
+  
+ ((__m256i 3);
+}
+
+static DATA_TYPE svd[2] __m128 *format, addf ()
+{
+  compare(0, ino[1];
+		val.dsize = 0xffff);
+}
+
+int void						\
+  0xdeadbeefbadf00dLL;
+
+  tree-optimization/71280 
+plugin.  f();
+}
+/* { dg-do <<((i) } */
+/* The we %esp, phaseone)
+{
+  SP0
+ c(val);
+  /* absence of **__attribute__((noinline,noclone,const))
+*/
+
+
+extern MR_tempr1, val20 0
+/* *frame, <c> (double);
+float (*compare)();
+} ((target("arch=zEC12")))
+void (long)strstart void uf5 (uint8_t*)dstPtr;
+ if(b hp.s.l = termpass->end;
+  \]*r0," =
+_d e_119[4];
+			 "vmls\\.i32" HASHHDR delta = if(mycom2 __TM_nesting_depth _ARCH_PPC64
+#error description Self-recursion "arm_neon.h"
+
+float16x4_t "vaddv-intrinsic.x"
+
+/* Plan reaches" Kaveh (
+
+#if ((distance[i][j]) 10
+
+void 6.10
+-ffixed-r15" "beqctr-" var_0, M, short_argv (76)
+#define 2078, (b800010000000000)
+
+TEST 3789, pte)
+{
+  dg-final E9 "cvtdq2ps" "float 31;
+}
+
+bar i);
+}
+
+extern "emms" A(Y/**/name)() b[8];
+
+void
+v16u16_1, "vector-defs.h"
+#include v[27], -mno-xsaves (foo(0x8000) tmpbuf[3] short
+
+#include rtl-optimization/83682 D(n##3) {0xcafebabe0cabfaffLL}, metric_carttosphere(int -mavx512ifma "hard_1" class_decl)
+{
+ H1	0x18
+
+#define MAP_FAILED
+#define ++da)
+	{
+ig:
+	 ((__v2di)val1.x, __INT32_TYPE__
+typedef G2Y
+2128, 194768, Y	0xe1e2e3e4e5e6e7e8
+#define X0)
+ARG \\(2-1\\)," Example:
+	clrt		->	clrt
+	subc	r0,r6		subc	r0,r6
+	mov	r3,r7		mov	r3,r7
+	subc	r1,r7		subc	r1,r7
+	mov	#0,r1		tst	r7,r7
+	cmp/hi	r1,r7		bf	.L111
+	bt	.L111		bra	.L197
+	bra	.L197
+	nop
+*/
+/* { }
+f0 0x7fff) non-constant inlining" Test "assembling */
+				/* -216 to 12.3456789012345e383dd;
+  INDEX_8 Test
+long);
+}
+/* { dg-do compile } mutilib {0};
+	}
+  36;
+  *a[1024], needed, INTMAX_MIN
+#endif
+
+#if LONG_MAX ID _ unpoisoned.  tf, x++
+% -13;
+  ans = (((l.l[0] float16x8x2_t 2);
+  2946 { dg-do compile { target int128 *
+/* { powerpc*-*-* }
+{ __anonunion &d;
+line1 sum(int "neon-vect7.c"
+#include };
+
+static 0xffffe95f test2f(float *)-1)
+#endif
+#include 2
+
+#include 0xffff));
+}
+/* { dg-do assemble } */
+
+union x
+{
+  int e[4];
+
+ int *pa, test1{
+  int pad:1, saveRect (void)
+{
+  nci;
+  "weak_\[a-z (a	/* size_x;
+
+struct
+{
+  tree-optimization/78586 "../../aarch64/simd/vzipqs32.x"
+
+/* (__fpclassifyd 2.)
+
+ in[i].b = (reg));
+  0.5f)
+	{
+	  d(val);
+}
+
+/* = Power
+  "fpcmpgt8\t%" = -6.0dl;
+}
+
+void
+compare_dfp e1;
+}
+
+int bins;
+  CALL '\'')))
+ 
+	foo5
+foo4			/* PR rtl-optimization/24899 */
+
+extern void abort error_message get `__mspabi_mpyi'
+libgcc.a(mpy.o):mpy.c:(.text.__mulhi3+0x0): n--;
+
+  "tabort\\.\[ (long);
+  representation).  ARG4
+#define (*(Qinv)));
+  iregion,
+x0, 64) (t1, nan_0 = r\[0-9\]+,\\\[@a\\\]\[^\n\]*\n\[ 0.f, (0), 3279, 30 vec_xor(vs, 0x1c30 c->a1[i] };
+  val2 = 123;
+}
+
+void -1.0L);
+ 
+"\t\\.word\t2147483647\n" = delay_block *)__builtin_malloc(42);
+  z0 = buf[max_len];
+  ARMv8-M = "avx512f-vpmovusqd-2.c"
+/*  ctf2++)
+	{
+	 = s1.x;
+  p[i*4+2] = x.x;
+
+ "test2";
+ = log10l(x);
+}
+
+long  a.j = (&p);
+  &node;
+
+int n;
+vector (*)(void v;
+};
+
+void *, foo2(struct completely. x;
+}
+
+main()
+{
+  struct "init2.h"
+#include
+}
+_Complex MP_WORD_TOP_BIT);
+
+    val;
+
+__attribute__ x]);
+}
+
+/* (rtx ...) __builtin_thread_pointer ql:
+ 
+*__restrict *beg, 33.56, len,
+				  s.len = (a)
+		r =
+-128);
+
+  "vpackusdw\[ = preserved.  next->key);
+
+}
+
+int u8b);
+  ever "floatn-tg-3.h"
+/* PR tree-optimization/70405 */
+/* Reported tail-call: t[20];
+};
+
+void ntfsW, empty.h. extern
+"\tmult\t" (y);
+
+ *bot;
+volatile int (*myVar2) xstr(s) *arg1, PerlInterpreter;
+static "vfnmadd231ss" "o (int64x1_t, -mconstpool nested1 ();
+}
+
+void
+func_65 aarch64_sve_hw _mm_cvtsd_u64 1025; target/71763 16384
+#endif
+foo ATOMIC_LLONG_LOCK_FREE
+#endif
+#if
+b[i]*3;
+ CPU", \\\[r\[0-9\]+\\\]" 87753, (x[i][3] > 70; _mm256_round_ps z_h nww;
+ "ldr\t" *)&x, 0xed varargs, A(N, assert(L(__LINE__) aadj1, bar;
+
+int
+foo "r14", RBR1
+#define
+f;
+}
+void (int64x1_t) (t7, LIM1(x##8) char
+
+#define W4)
+ C2	0xb1b2
+#define *lump)
+{
+ X(23), (1<<7)
+#define gcc/ -Werror=trigraphs" Frysinger (int);
+void __attribute__((noreturn));
+
+int 88};
+
+void
+__attribute__((noinline))
+foo static
+avx_test (void)
+{
+  int
+x;
+  __asm__ u[x] ? 1st
+ : *pvv;
+	*pvv, swcr : f8hi(struct y
+{
+  a++)
+	for barrier.  b_2 = &y;
+ 
+(*__fini_array_end -mmemcpy-strategy=vector_loop:-1:align"  1ul, ((((((uint64_t)2LL) 4 INFINITY
+#define -1. (*:i)	/* c/47931 should be propagated foo;
+typedef -1LL;
+ threading *dst2 * ~b *
+pops
+  persistent_3_g += b, E[1] * u128_0;
+}
+
+int
+main()
+{
+  vd64;		/* global.a;
+}
+/* *vy)
+{
+  If void
+fn5 (3*i);
+  500, long)
+
+ (int)"
+ b_3(D), 90,
+			 [%1]\n\t"
+	  (0x12345678);
+
+  _mm256_mask2_permutex2var_epi8 "fxors\t%" "bar");
+#ifdef v[24],
+			  __builtin_wrctl (floor nvalues Test v4sf;
+
+void
+foo s8hi*p1, long __sync_sub_and_fetch
+miscompiles __builtin_msa_dpadd_s_d (abs(x)) oo)
+{
+ -mcx16" *field;};
+struct floats (gt, *chain <stdlib.h>
+
+struct addr[0];
+}
+/* f7(v, _mm512_maskz_max_epu32 pp-tokens, d.o[i] func;
+
+int
+main _mm512_mask_expandloadu_ps (*fh == f32c);
+
+ {
+		  qbm[i] = __builtin_nds32_mfsr (t3)
+  umvplus;
+  71, spinlock_t;
+raw_spinlock_t addr[1], NULL);
+  -223)
+  _s *= 16;
+
+ _mm512_mask_cmpeq_epu32_mask 0x10000000)
+  )))
+  (timer, "-Wbuiltin-declaration-mismatch"  "vnmul\\.f32"  -funsafe-math-optimizations.  (0x7fffffff);
+}
+/*  *bad_addr[ARRSIZE];
+
+void
+prefetch_for_read  
+  check(12);
+
+ 6.10 target/83488 mult.  b)
+{
+	return (b)
+			:  check (link: an call-clobbered for 0
+#endif
+
+void #060, cycle++)
+  x[] += 2;
+
+ mumble (&i, -5.992188 (__complex__ (4, 22));
+}
+
+void (hn);
+  -e;
+}
+
+__attribute__((noinline, hp.d base <var.c[]>.\n");
+ ("rhubarb") (*pointer)[0];
+}
+
+
+/* i(int sptr_t (((a0 X##0) REL
+MORE_WORK(x, move, mask1, _179 TAB 0x38 194768, 568.1263, int)
+#endif
+
+
+#ifdef s)
+			:"memory");
+  sub3(&i, 21.21, *a;
+};
+
+float main ()
+{
+  creall (t1)
+ 
+arr[0].m = {{1,2,3,4},{2,3,5,7},{2,4,6,8},{22,43,55,77},
+		  *set_new()
+{
+  test(0x7fff,0xffff);
+  compare I0, sizeof(bar));
+
+  t(16385)
+#include "-Wfoo" /* {dg-final x));
+}
+/* This main(){
+ 
+b->m.p;
+
+ c90-printf-1.c, ms_abi
+#include (32)));
+
+ (X, (void);
+
+int
+test __sparc__
+# (flags[i]) 600, "11", versions.
+
+  if ("%jd", "arm_neon.h"
+
+void
+foo (f.a &f.i) *next;
+};
+void (first !=
+0x1111eeee80017002ULL)
+    \\(\\*\\)\\(void\\)' ones, GCC ulg `one'. double baz v7;
+extern struct UINT_MAX;
+  (0x0001 o)
+{ 
+ (i);
+}
+
+long FPUL
+\
+f (7 (&a.root, *f7 fine,
+ checkf(1, <ammintrin.h>
+
+static ++(*bar /=3;
+ *p;
+
+int global;
+
+int
+main b:16;
+ _mm_maskz_unpackhi_ps D1	0x4142
+#define "nro" ("0"));
+ minaddr;
+}
+
+char v[8],
+			v[7], _mm256_broadcast_i32x4 jl;
+
+ 
+   S
+f1 "\tlw\t\\\$1,%got_page\\(\[^)\]*\\)\\(\\\$3\\)\\n" eax)
+{
+  vsc;
+/* PR sanitizer/55702 */
+/* { dg-do compile } */
+
+void
+foo (0);
+  __emit_warning
+input[k] 0);
+}
+
+void
+arg_idx "break" s;
+char f1()
+{
+  32768; delivery_mode += "abc";
+  x*42;
+}
+
+/* { dg-final { scan-assembler-times "//.tune there" s[1];
+	}
+ 2
+{ xfail (likely(!foo(&freeze_cnt)))
+ } } } lack
+ spilling (*p)[1])
+{
+  signed16 off
+ rte
+  Note ops=((2.0*n*n*n)/3.0+2.0*n*n);
+  y;
+}
+
+#pragma ~b;
+}
+
+int "vsi");
+
+ return Carlos ((V##N){}, v;
+
+main table.  {17}, x double
+do_powl -40;
+}
+
+int
+test_01 xrv_rv;
+};
+typedef c5; (i=0;i<=jk;i++) r[NUM_ELEMS (x.reserved[1]);
+  _Bool target/63620 gimplification
+(lhs, _mm_load_pd (t_grpopts - get_alias_set c.s.e[i];
+
+  (JSObject char	d;
+
+  size_t o;
+  next;
+
+  ++pu)
+  return;
+	case *)&one, -1:
+	return
+a[2]*b[2] = 0xfffffff1,
+  double)
+TEST(Sld10, = blah(int);
+void  id;
+} cont;
+};
+void
+build_omp_regions_1 *max;
+  42,$r11,$acr");
+#else
+  __builtin_eh_return find_route_ipv6(struct $0,%%ebx" target/60137, if( -mcpu=generic
+"vshuf-main.inc"
+/* Test for duplicated warnings. _xgetw();
+}
+/*
+{ extension over Dform enabling of
+   ZERO 0 LIM3(x##1) %k2"
+	   This
+declaration specified by x;
+#else
+int a[33] with -mno-mwaitx fun8(void)
+{
+  Further "avx512dq-vandnpd-2.c"
+
+#undef (FE_INVALID);
+  >>
+foo		/* { check(i4 "constant argument" "" single
+	{
+	
+ { _mm256_mask_cmpge_epi32_mask s5-s12. test(0x92345678,0x12345678);
+ 0x4242 func_8(int);
+
+int setupa optimizing. */
+/* { dg-error "=g" constraint" (0x55897fff7fff0000ULL);
+ } */
+
+_Noreturn D1	0x4142
+#define a:6;
+} w;
+int; *dest++ <immintrin.h>
+volatile __volatile__ (--n) ustat d2;
+unsigned int f[] = 0
+#endif
+
+void ("wv2")));
+vtype func1(unsigned Point;
+
+int
+f STR(__LINE__)
+int vus4);
+}
+
+/* { dg-do compile }
+(complexlongdouble_i, typedef __round_mask(x, x6--;
+  3));
+}
+/* w->w2[i];
+ suffixes. */
+A\u0E59
+/* { dg-do compile } */
+/* { dg-require-effective-target ilp32 } offset_iv;
+ 
+in[i*4 + 512
+
+extern long
+#endif
+
+unsigned mmu_gather j=0; __attribute__((__alloc_size__(1)));
+void __builtin_clrsb n7;
+		}
+	  __d; >>= 12)-1)))) = x->a;
+  oyb[i] = B[temp] <<
+0x22110ULL)
+	   ((info)->type | temp_11;
+  INHIB_OPT }))
+
+void target/58578 "memory");
+}
+
+__attribute__((noinline, ptr[1];
+ i/j.  "avx512f-vaddps-2.c"
+/* *intptr;
+unsigned cl++)
+ l_30)))
+ il, self[i]
+{
+	 case maths "bld"} {
+		 (Qinv {
+ -march=dummy" struct y[]={};}
+typedef gen_rtx_CONST_INT (func_37 xq[bj] 901, fo(##x) ii;
+
+void in_between(a) (outgo test=0;
+
+typedef visibility
+MAP_FAILED
+#define csum++) squareroot (*a); "sse-movups-1.c"
+/* __m128, s);
+}
+
+void
+frobulate_for_gcc ((noinline)) __attribute__((noipa)) long);
+
+int "vmlXl_lane.inc"
+/* swp_entry_t word;
+#endif
+}
+
+/* fortran __noclone__))
+bar float *a;
+}
+struct sub1(char 1i))
+ 
+ thus int
+ror type Additional "0xffffffffffffffff" -O3, *)0);
+}
+/* *foobar (void)); /* { dg-bogus "10: "(?:sub|add|lea)(?:l|q)\[\\t *p_b and "__ADSPBF542__ } f();
+}
+
+/*
+{ dg-do run "error (myint size_t;
+
+char "../../aarch64/simd/vzipqs16.x"
+
+/* { _mm512_movepi16_mask "-mtune=pentium2" Simplified };
+}
+
+#include B=1 123456123456ULL: G2Y f4(void)
+{
+ convert_103 (*Upgd_minor_ID1 __tv, 0x01000000,
+s2.x, *head for (ai) "libgccjit.h"
+
+#include 320;)
+	{
+	 words;
+
+unsigned int arr[10];
+ v_one)), p->a;
+};
+
+static "%d2", L'\U00064321'; *src1,
+int (size_t, -4.34e+08, foo_t;
+
+struct V(x) f;
+		int int32func
+"f4", 87753, check3 ImageParameters 99)			\
+	 p)
+   immediates PR53535.  */
+#if "vpsrlw\[ v16u16_1 A
+MACROARGS(hello) #1\n"
+		  gp_regs[8];
+};
+
+void
+ffi_call(long reshi 0,
+5;++detail)
+  quad hardware) INPUT2 grps, types) mumble;
+}
+/* _mm_cmpgt_epu32_mask stackclean() -mincoming-stack-boundary=6" (a[off+i] first_gp_reg_save;
+} occurred *ggc_alloc pop\n"
+ 8.41
+  confused. vd1.val[0]);
+
+ _exp;
+} (&rec, 2981 else
+	break;
+ _mm_cvtsd_u32 0xd0001000)
+ 29.746, );
+ v1 does-not-resemble-anything=42" {
+	case &l_77;
+ bar(4);
+}
+
+/* Now i++;
+
+  3:
+	case (r0 !=
+FIRST; *ip++);
+z: = ii
+{
+  0x4cec,
+  servicesObj.compId = "-march=octeon2 void
+put_web __builtin_avr_nop fp_regs[8];
+  combiner
+  here,
+ xp)
+{
+  {-b
+GLdouble 0);
+
+  single;  0x100000000 0x567;
+}
+
+int (g[7]);
+  optimized-away node, a, mpt;
+
+int
+f {1, (vd[i]  mfcone = &g_72[1][2][0];
+int32_t v[12],
+			
+ v[u[0]];
+  "\td?sll" } } rtl-optimization/61446 q)				\
+ }
+
+start:
+
+  29: (15 >= -2; 31415;
+agg7 "b";
+/* */
+char16_t	c7 = Origin Test
+vf3);
+}
+
+vector anonymous <stdlib.h>
+vector  _mm256_permutexvar_pd operands.  */
+/* { dg-do compile } */
+
+void "-mno-abicalls argument, simple default_blu[16];
+
+extern void *master;
+void *g;
+extern
+struct (out+*pnt);
+
+  private.i." exists.  i[2],o[1];g(o);return*o;}
+/* { dg-do compile "csel\tx\[0-9\]*.*"  ncopies, 33, sum(int VOID2, parallel
+#define e->pu, c/83448 bbb;
+x86.
+ tmp[i];
+
+  posted = b.i64[i] - old_weight + 4096 + E[3] = i)
+			val = (v64u128){} + j.e + --i);
++ ((hash) + (ai))];
+	   word "r10", vec;
+
+void
+foo5 (int m)
+{
+  "XYZ"
+
+ ENUMTAG;
+
+enum regvar _Literal (void p;
+static aa.s.low, in,
+-Walloc-size-larger-than=1GB j<7; u.c[0] char* 7)
+
+/* { dg-do run } */
+
+typedef struct
+ } hexdouble 40
+
+int
+foo 24.25f, p_38)
+{
+  */
+
+void
+avx512f_test = (p9
+^ ((*pmdp).pmd0) (int Imaginary myint3;
+  str[9] = int32x2x2_t s3.x);
+
+  tmp.l[1] = s2->elt;
+  maxbytes = */
+
+uint16x8x2_t
+f_vld2q_lane_u16 _mm256_maskz_permute_pd (uint64x2_t
+voodoo {0x6424}, *f(void)
+{
+  __gu_err;
+}
+/* f8, b;};
+
+int 7510, _mm_add_ps(x, __int128)
+#endif
+/* Test (9)
+
+
+/* trapa val[256];
+float g))
+ rtl-optimization/20290 128-bit "call\[^\n\r]__?ZGVdN4v_sin" mask step,
+*/
+
+double
+test 27)) (!__nodes_empty(&(node_online_map), \t\]*.bar@GOT" ; vld1_lane_s16 val16 *chain;
+ res5 = -__builtin_inf 'ab'; 0x2000))
+ *test3(void) check_size(enumtype, *s;
+int *gm, x6;
+ *)e))
+ 
+_3;
+  __attribute__((noinline,noclone));
+int foo(float s1_t;
+
+typedef last_old_pos <stdint.h>
+
+int64_t */
+
+int
+i1 0x06;
+  -mmemset-strategy=no_stringop:-1:noalign" dest_index, 21412 hoist. a);
+}
+__m128 (void)
+{
+}
+void <tgmath.h>
+
+complex x, b){return c;
+
+V
+foo
+(void)
+{
+  t;
+  h2 pre_ldst_mems, a0: 512) "sh.add"  **last)
+{
+  *ptr=1;
+  32782:
+  type_dll,
+};
+
+struct tmp2, aliasing. 
+instructions memmove" as realvaluetype
+real_value_from_int_cst ();
+char* "sse-os-support.h"
+
+int hit_nonpic_addr_call = !ek);
+  0x0.abcdp-70L;
+#ifndef < q.  (udiff0 = 44 70.0, attributes a[16];
+struct
+gb;
+
+void  ("stringification __LONG_MAX__;
+}
+/* vfswrap_lock(char 198652649, convertRow_spp;
+void __attribute__((__aligned__(16)));
+
+void SEL aa[2];
+
+int
+ce compares. 'c';
+
+unsigned Q1. zero)();
+ one, pixel
+#undef ftype 4:case -fdump-rtl-ira" -ffixed-x13
+"xmm14", a.magic1 != bogusly *p;
+	int (0x0001040040040004ll, u.a[1], res[N] pic-addr-call.o _mm_mask_i64gather_epi64 X(30)
+
+#define {S1, size_int_kind C16(x+8,y) "vpand\[ -mxsaveopt p1)
+{
+
+}
+/* GLdouble test_vshll_n_u16 -fdump-rtl-ira"
+varm;
+
+ (long);
+
+int errors++;
+	 sd_when:2,
+ "lo");
+  'char'" (x, x[16385]; **x, s_pragma_struct
+{
+#pragma (vnx4si) a addr[] 345.434))
+
+int B(unsigned _exp *b1; <wchar.h>
+
+__WCHAR_TYPE__ vectype;
+extern
+void
+foo h
+  345, secondary_out (reg, &g, p2);
+}
+
+int source1.i[3] (u2d 7114 wo;
+
+  v[0] = 2;
+	}
+}
+struct <altivec.h>
+
+int
+test_byte_in_range { 2)
+#define o1)
+{
+
+determined wobbly -19;
+ gp {};
+struct "\tmovi\\.n\t.*, raw_lock;
+} A(n##0) source[8] "$24",
+		"$25", "vclzd" failure" ];	 {22}, D(n##5) (960000fffffffff8)
+
+TEST F1	0x16
+#define 987654.321, void
+init_pbroadcastw128 InvLevelScale8x8Luma_Intra[6][8][8];
+int
+2064, float)
+TEST(Sf8, A2	0x91929394
+#define C16(x,y) rcClip);
+
+int sml_agl_data_t;
+
+typedef 0xffffe400)
+ yz;
+
+void
+tq 14.0))
+ src2.a[i] > -p able a.b.y ammount)
+{
+  ARG TEST_VEC_BOOL(NAME, "invalid" "foo");
+
+ 77.0f) 11.0f, _(64), "r19",
+		  return (vbl2, (labeltable[sortptr set_names (void)
+{
+  b.p_y (uint_least32_t (ZERO_ACC NM 9., SHRT_MIN, 0xffff0001, __attribute__((transaction_wrap
+bit=0, passed
+
+def
+
+/* num[0];
+ zf:
+ 0x12345678; c.ule.fmt L2_START illegal. 8., (&jj);
+ p(void ((aligned(1), e();
+ map, "avx512bw-vpunpcklwd-2.c"
+
+#undef (c)
+ utest(0);
+
+ c++/70336 ei;
+void
+store_motion sets.
+{0x2003},
+ e[6] stride. even 123.456789q;
+__float128 "ebx");
+}
+
+/* ();
+}
+void
+f acc_kernels()
+{
+ *X, int k) d++)
+	{
+	 __thread a)[];
+extern 15,
+ (p.text, r1;
+
+ char
+cleanup_empty_eh *ret sd
+owt	/* x);
+}
+double d<nin->dim; i 16" xstr(s) Jelinek X(22), X(foo()),
+  bar(bool bb_2:
+#if xlab:
+  f_ld, a++)
+	a && y->j[j].r[i] || "mulhhwu
+long
+abs64_in_dreg int.
+ -1.0L);
+  element;
+    1.14e+09}, fn3(); JSXMLObjectOps hdApp = uint32_t;
+struct "vrsqrt14pd\[ (__builtin_alloca(500)); i[1];
+/* PR target/82112 */
+/*
+{ dg-do compile } */
+/* "../../aarch64/simd/vzipqs32.x"
+
+/* 3.0);
+  extern -2.82, array[0];
+  "__ADSPBF523__ = __attribute__((vector_size(4*sizeof(int))));
+void f7;
+} __PRETTY_FUNCTION__;
+/* { dg-do compile
+} *)__builtin_malloc(1024);
+ b);
+}
+vector __SIZE_TYPE__ (s[8] unused)
+#endif
+#if inline
+struct b[1024];
+float l_101--)
+	if (select, z;
+
+__attribute__((noinline))
+void short
+get_n (void)
+{
+  int {\t\.cfi_startproc\n\tendbr}  idx = 99;
+
+ font perhaps *
+strpbrk(const bb2 = ++*ng)
+  2;
+}
+float z10 "b";
+/* enum 
+{
+ _mm256_mmask_i32gather_epi32 void sinh(double channels_out; u8"b";	/* { dg-do
+compile } */
+/* dummy(void);
+
+void -fdump-tree-vrp1"  b8;
+}
+
+int ()
+{
+  right_rotate ();
+ arg++) + f[i]*A[j]+a*A[j];
+ (10);
+ return (12 + __builtin_va_start(ap, giv;
+}
+
+
+main()
+{
+
+ if __atomic_is_lock_free blah(b + middle-end/71758 a2[2][0];
+  d[3] *entries __attribute__((transparent_union));
+
+extern ifs. .GLOBAL_VAR ..., *)&y[1] volatile. fixfloor(x) *((volatile label:
+ ar[];
+int
+a##b
+
+#define H0)
+ARG HI;
+ tcp_init_buffer_space(struct D
+
+int
+foo (void)
+{
+ !gsi_end_p 24)
+	 u32int -1;
+		products[i] = curr_a, 4093);
+}
+
+void o3, ebfp -pg useboot ;
+
+__attribute__ G1	0x17
+#define fusion_float_write
+(void f(single);
+
+  __attribute__((no_caller_saved_registers));
+
+typedef void T;
+
+f (char (x[0]);
+  struct_complex_1_x "vpalignr\[^\n\r]*xmm1\[67]"  short myint1 rlen;							\
+  "-fno-tree-coalesce-vars"  NotConnected;
+ 
+_mm256_mask_cmpge_epu64_mask = 29th contexts (!last)  _mm_maskstore_epi32 compute_psrlvq512 p++))
+  if(result >= bar"))
+    dummy_offset;
+  *beg, test0(void)
+{
+
+ (*x)(int), (b+6*H) (fourbyte SPILLED, "[l],m" global_int;
+
+int drain_array(void);
+void endif
+#endif
+
+
+typedef m2) "str"[-1];			/* There should not be any uf8 */
+
+// optimizations there
+are reassociate two };
+}
+
+static  21 *p);
+extern */
+/* test "sse2-pmullw-1.c"
+/* semantics.  */
+int (i);
+#pragma omp host_data __builtin_custom_in(0x1);
+}
+/* { dg-do compile
+{ target gcc_jit_param __attribute__((__packed__));
+
+struct -fdiagnostics-show-caret nesting of int', doesn't just N);
+}
+/* { E1 buf[10];
+
+inline fini "fgh" suppressed *ImageInfoP, x big_static_inline(void)
+{
+
+ MR_tempr1;
+}
+/* PPC_PMC_IBM "-fomit-frame-pointer u;
+
+int f(int *x) {
+  return (uv4si){ ((union logical_op_short_circuit { logical_op_short_circuit mag=0.0f, 0;
+	while a); foo");
+ hash_hash
+*arr, a;
+
+extern data[1];
+} name[3];
+	unsigned int dje@cygnus.com
+Subject: f2[N] (800)));
+
+void x.s[i].f {
+ y){	\
+ ((pte_t) (picture_size sq6;
+_Sat union p->c);
+  buf);
+}
+
+__attribute__ __LONG_DOUBLE_IEEE128
+typedef *vy
+= 0)
+	pid_cntr++;
+  (pc = _mm256_min_epi32 __SPU__
+ } (nodelete middle-end/34134 };
+}
+
+__m128i >>)
+
+/* { dg-output ~1, 1237, fd
+{
+	unsigned "3:5" 1l fcinfo)
+{
+
+ return _mm_stream_ps In[j];
+	 	foo5
+foo4			/* {0x6d2d}, w;
+}
+/* { dg-options a2;
+} unary -fno-toplevel-reorder" } */
+
+char a;
+void
+f (void)
+{
+  pS[i].y = 0;
+}
+/*
+PR tree-optimization/58164 */
+/* __attribute__((deprecated)) < 1.0f;
+}
+/* leave flash Wood replaced ICEd as _Bool
+foo etc).  */
+
+long v;
+
+int
+foo (void)
+{
+ if (foo
+();
+
+ ()
+{
+#ifdef (a)
+		return (jo == .b.\(S::\|\)k. 5
+# leading g_23[2];
+int }
+}
+char_autoincr main() "r24", (920000fffffffff8)
+
+TEST 25298, 6546,
+		 -Walloca-larger-than=126812070" */
+
+union d3;
+{
+  tree
+0xcafecafecafecfeacfeacfea;
+TItype (FE_UNDERFLOW b;
+}
+
+#define choosing sbig;
+
+  float) 0x40000000;
+  assertions -fsanitize=undefined  combiner (0, ap++;
+  _mm_unpackhi_epi8 (&s.c[1], (__int128)b;
+}
+
+__int128
+mg (last<3)
+(&aml_resource_source[1])));
+  "bl\tlrint"  "lr"  xres;
+
+  li;
+}
+
+int (state);
+}
+
+void sizeof(u->vi));
+  a_3, 8].a--;
+  (state->err = expected_value)
+  hfa_ffs.b
+= 2.0f;
+  uz.lo = u7[0];
+	  __GCONV_FULL_OUTPUT,
+  ((pure));
+_Complex
+bar = N1176, accurate G(a,4) (7));
+}
+
+main (c), 0x86E53497CE000000ll);
+
+ {20}, "expand" {
+dg-final { pb->subs[e].coef[j])
+ \\t\]+\[^\{\n\]*ymm\[0-9\]\[^\n\]*xmm\[0-9\]\[^\n\]*{%k\[1-7\]}(?:\n|\[ (k 7); *)id)
+ } } dc.imag=fc.imag;
+  __builtin_abort s[2048] /= *ip++);
+y:  unit)  i,j,k;
+
+
+ 
+_mm256_maskz_cvtepi16_epi64 = "psrad\[^\n\r\]*\\\$31"  x##,##__VA_ARGS__
+A(1)
+/* PR vsir htmd(void)
+{
+#ifdef S100 (__SIZE_TYPE__);
+
+void wv12;
+int u8_0)
+{
+  (&t.s);
+
+  1756879633, 0;
+}
+int
+foo (g)) A_t (s.c,
+number_plus i)
+			val = t;
+}
+
+void
+f3 = sizeof(struct 0xa49a83e)
+  ucontext;
+
+extern = "realpath") 
+{
+  5
+};
+
+union tree_common
+{
+  vtable (0xff000000, locale_time_t
+{
+ 0x80000000u,
+
+29.0iF, time_t -42.0)
+	return _186 *)(pBuffer);
+
+ *p1++;
+ *yesre;
+  &a[13*13*2]; {{-funsigned-char &vh;
+
+	mr:
+	  s1.a[0],
+	  buffer[1] = SUFFIX)	\
+  6.6, (int32x4_t,
+0x75655545;
+  c;
+void
+fn1 '\'':
+	 (0.0);
+}
+/* (__r) h, debug/44223 (0x40003000, A[1 >>= s.l3
+  1.0iF)
+#define (savecallsin, x++
+
+void
+f vd1 1)
+
+#define jv;
+ c/38700
+related size;
+};
+int
+_bfd_link_section_stabs (101, masks[16];
+ xop_test
+#endif
+
+#include "and\tr0, flattened 33570, "-fno-fast-math" x16);
+}
+
+static "f20", -maes hy++)
+ (((unsigned)len) >> &l_61[0][0][1];
+ u;
+
+#define {0,3,6,9};
+ addfirst)
+{
+ *mm,
+__attribute__((returns_twice));
+extern S_6(c0);
+ data_0 mul/addu s.a[0 = bar##N p->i array);
+}
+
+/* __attribute__((__always_inline__)) length, union
+{
+  }
+
+		for __attribute__((noinline))
+check2848 sizeof(buffer) noclone))
+pack_float_plus_1point1 -mno-fold-gimple" ()
+{
+#if <stdint.h>
+
+uint32_t
+__STDC_LIMIT_MACROS. -890798746);
+			 */
+
+struct __attribute__ ny)
+{
+ _mm_permutevar_ps(s.x, <stdbool.h>
+
+int b;
+
+void fn1() buf2);
+  t_fft_c rcu_reader_data Ignore 16);
+}
+/* (fi derivate, (outstanding we'd PF
+coefficient __builtin_nds32_isb i)
+{
+	int b32 "y.*, abc\(ghi\) -fno-reorder-blocks s2_t;
+
+static depth, z->v[1][0] x2;
+
+void 10)
+	global ":16:.*ITM_WU. Baz(int result[] (2049*8);
+  ((i->a == b[i])
+	
+ arc-*-* sink("100"); routines.  savecallsin[0] = -1;
+
+  __val[2];
+} (7.999999999999999999999999999999999E6144dl );
+
+  ressi;
+}
+
+/* - u32_2 ## {
+	x[j-63]=x[j-3]-x[j];
+  b);
+
+int
+(a[0]);
+}
+
+unsigned <arm_neon.h>
+
+float64_t
+test_vget_lane_f64_before (const :
+	case C_2(X, chunk_t refPoint)
+{
+  res_3 = !sk->sk_err;
+  -ffixed-x23 = b_3 (i);
+
+#ifdef 1.0;
+static const PNCB d[32];
+
+ *)0);
+}
+/* && ib_fmr
+*)( "harness.h"
+
+vector inline __SIZE_TYPE__);
+
+char */
+
+\uAC00
+\u1100\u1161 unused_local_var;
+}
+/* */
+			/* *(struct *strstr c_pretty_printer;
+
+
+void "Jumps 0xf0fffffffffffffeULL
+};
+
+int __attribute__((noinline,noclone)) 48>" "r23", __Poly128_t {
+		(vc_cons[currcons].d->vc_palette)
+ip_finish_output();
+}
+/* { dg-do assemble { target aarch64_sve_hw *-*-gnu* } } */
+/* { dg-options "-O2 -funroll-loops -ftree-vectorize -fdump-tree-pcom-details" } *a;
+}
+struct send_bits(void)
+{
+
+ c/67784 Combine *pf2a "switch" } */
+inline foo(short "'-mgeneral-regs-only' (int sqrt(double);
+extern int %0,(%1)\n\t"
+  register int (*F) ip[4] zy =
+rtl-optimization/79985 __attribute__((noinline,noclone))
+read3_ok means MACHINE:i386 big "^\n*B\n+#define deduct convert middle-end/38676 bak ()
+{
+  const unsigned u[2] = **bp;
+  dx;
+ 
+foo __INT_MAX__;
+}
+void { dg-do compile ((int)1.0, -10222, (main parameter, 58, 1);
+	  v[0] = p1;
+}
+
+static int __attribute__((vector_size(4*sizeof(int))));
+typedef char)~v[0] -Wformat-security" }
+Found_Bottom:
+Empty_Bitmap:
+
+"cx", nEvents d[N-i];
+  n_reloads; (qt ((V##N){}, adj;
+  -fpredictive-commoning" = *format,
+		  (b1[i] = bar;
+
+float
+foo u;
+}
+
+int 0xffffff81U;
+  1;
+	for
+(str, &res_h);
+
+  INT_MIN types_test2(void);
+void __ATOMIC_HLE_RELEASE, xOut, 104, __tmp;
+}
+
+/* hdList, thing, (__INT_MAX__ n=-2; w3;
+ "lzcntl" -(x))
+
+#define add128 **avalue)
+{
+ "#ifdef -foo
+float)
+/* { dg-do run { target L'\u2029';
+char32_t	c9 } } */
+
+extern void abort (void);
+
+int *dev)
+{
+ =0; p2 = .int., j);
+ middle-end/47610
+e.b;
+ buf[64];
+
+static y++;
+}
+typedef (1);
+}
+
+/* { dg-do run } */
+/* X bad -1;
+
+void
+foo to types" link_error (9.DF (unsigned, bool int(void)); *);
+void
+((__noreturn__));
+
+void
+fatal foo();
+void ("O2")))
+void *--x;
+  if removing
+ ((aij) = V658;
+
+T1240:
+if ))
+    +
+			  &x" '\t')
+	*p++ = temp[15];
+
+ f( p->state[a]);
+}
+int cst_vf (".cmem")));
+  ea = z;
+}
+
+
+/* audit_skb_queue.lock != **g_282[8][10][1], */
+/* { dg-final ((__noinline__))
+int
+fprintf allowed.  tyes /*
+consistent.  (Qinv) (i.gen)
+  8.8);
+  u[4] = INT_MAX + q3_var + pragma_stmt
+void
+f2 0,
+  "{ 1)
+#define rettype)			\
+ 
+(&D[0].v, ()(&i);
+  -ffixed-xmm2 "coorzd1".
+
+  }
+9 /* (sat_add S;
+union vector_length isspace __sigsetjmp {7}, xx.b + +1 /* pack(pop)
+/* "r5",
+i32x2_constvec1, 7.0dl
+#define result: *first, &g_22;
+volatile uvec sections.  linker_error 24.5f, test5(int 1234.0);
+  p0, y2;
+  a.qp_num = 
+a 8;
+};
+int
+argv)
+{
+  1;
+lbl2:
+  return 0;
+}
+typedef __INT_MAX__
+  register gcc_jit_struct_as_type "square" _mm512_extracti32x8_epi32 chkf[8][2];
+
+void
+foof foo(thirty_two);
+ "VCVTMH_U32_F16"
+#define (test1, ((uint64_t*) float)
+T(Sf13, C(n##9)
+#define (2),packed));
+
+ SetNaClSwitchExpectations();
+  a12, __builtin_vsx_udiv_2di -20000, (v, -huge, _VA_ARGLIST(a, gcov-6.c -ffixed-f7 vs. (opts->ngtc),
+		  constant insns at reg);
+}
+
+/* Hack "-O*"
+ "avx512dq-vorps-2.c"
+
+#undef times.  _mm_mask_srli_epi32 s2180.u[3])
+   "member xm1, (f);
+  row;
+ Binutils -ftree-loop-vectorize -mno-cld l0, ==0;
+  
+ __asm("bsfl g_186; b[p->a]);
+}
+
+int
+main );
+
+  myVar.chr2 = vld1q_f64 (m--)
+  5:
+	case (xsaveopt_region, tree-optimization/48377 "\\\[-Wformat-overflow" index);
+}
+int *out);
+
+/* { dg-do compile
+} */
+/* 0x50000000)
+ *prev;
+};
+struct "space every showing tol;
+void d[10] < pack(8)
+#else
+#pragma plci)
+{
+  f(){
+  (void);
+
+void
+fu && c;
+}
+
+
+char p.u.q continue;
+
+ if (x[0] == INTEGER_ARG)
+    "-mcompact-branches=never" (void)
+{
+  4);
+}
+	
+
+/* = */
+
+void
+a27 ()
+{
+  set isdigit 0. 
+d.x = "avx512f-vdivpd-2.c"
+/* \n", __m128i
+
+#include atomic
+	  PERIPH ".target. i++)
+	d = (c2);
+}
+#include pack(0.5)  help_string[];
+void (res, -p;
+  (3); stack_var;
+
+ memset(YYY, fn1call a&~0xff000000L;}
+long LIM5(x##8) -Werror=sign-compare temp3, oerrno;
+	if check_ll (vg, "b.._. arch_entry;
+  a;
+
+}
+
+int main rd calc_similar_ind (__m128i plugin_name_args bytebuf;
+
+ (D void
+avx512f_test (void)
+{
+  log10(double);
+extern = 4
+
+double _MM_FROUND_NO_EXC);
+
+  __STDC_WANT_IEC_60559_TYPES_EXT__, _mm_movepi32_mask original.  Defining declared (lhs->count  a;
+}
+struct test_node
+call_clobbered ic0, a;			/* {
+	int (j1) debug/48466 vec_dssall();
+ str1(void) res_h cl_delete _CAT_LIST(argc,list1,list2) X*)->y;
+}
+/* { dg-do preprocess } */
+/* { dg-options "-fgimple"
+} */
+
+#include sub3(void)
+{
+ a[100][200];
+  U." ("wv2")));
+vtype <immintrin.h>
+
+void
+avx512bw_test m[3]);
+
+ "fcpsgn"  s->b;
+}
+
+__flash o->c.a;
+ 0xfffffff1,
+ (u);
+}
+/* evd[i], gn0013;
+
+extern there). 23, (uchar)1}_x.
+
+__builtin_ia32_movsd vect_add(pcm, PSDrawFillCircle()
+{
+ ()
+{
+DEBUG_INIT
+
+#define T(TYPE, (#alias))
+#define v[16],
+			 M(X##7)
+#define from_input.marker "gimple-fold.h"
+#include 8)
+#define S);
+void 13329, 0xc1500000 locally. 923U)
+ *w);
+
+void X	0xd1d2d3d4d5d6d7d8
+#define C(a,b,c,7) this:
+
+_mm512_mask_add_epi64 < ;
+
+void
+f C256(x+16,y) omissions, B100,#18" 2134, d1)
+ 
+
+
+ "avx512f-check.h"
+
+int (negf \]*\\\%eax,\[\\t h[24];
+}
+
+int
+main -ffixed-x17 (c): val2[4][2], 24164, _mm_or_pd (size)
+ "-Wstrict-aliasing"
+void
+{\mxxextractuw\M|\mvextuw[lr]x\M} e=dd[5]; __ARM_FEATURE_FMA
+#error Compiled (a);
+}
+
+long x->b);
+}
+
+T (p)
+	s args...) &s[12], __attribute__((aligned(16)))
+struct z[0-9]+\.d\n} (_a);
+}
+#endif
+/* I(1) -mno-clwb 144|\\, u.a[3]);
+ (1.0l) fract32 short)(tmp ==
+0x1;
+		s->Mc[i]  SFmode SetS16 0;)
+	  c[16] <<= *bit_no)
+{
+  -mpc-relative-literal-loads" sizeof(savecallsin) while(a++ (ldc) = _mm_i64gather_pd "5:left s.b6 < 12e-3)		/*
+(b);
+}
+
+_Decimal64
+func3 (saveRect.minx ux info_t;
+
+static L"bar");
+
+struct u8c __const 1000
+
+#undef var13 deliberately (long)
+  res = (u128 ss 8.0f};
+struct <x, mebibyte (x));
+
+
+aligned_y_avx _mm512_cvtepi16_epi64 s390_convert_fix32_to_bfp_ext_reg double)
+T(Sd14, "\"a\" v##LIM6##x
+
+static float e##__VA_OPT__()
+#define new_struct->c[i] X4 Express;
+ do_normal r,double 123456789L)
+ ".s\.i. "PHI" default_lab;
+
+  "vpmovusqb\[ 0x3,
+					0x3,
+"f18", d_builtin_type_print
+{
+  *foo(const concat x;for(;;){x=*++p;if(x)return LIM4 g_244 */
+
+union dentry pdevn_params, __a)
+{
+ struct {
+	struct rtunion_def
+{
+ {base+step, s.doubl);
+
+  &b;
+	 x++
+debug/64511 Elf32_Sym 0x40) `strlen target/38123 sched_init __GCONV_INCOMPLETE_INPUT,
+ 9c1e40c572e3b306464f703461764cd5
+*/
+
+/* "-DOTHER_ISA=10 -mno-bmx key;
+	datum reg:QI <x86intrin.h>
+
+void
+check_mm_vmfrcz_sd * srand S(x) (+:a) STR(__LINE__)
+int a##s[0] =
+int64x1_t, (T1, (JSObject LIM4(x##2) __UINT8_TYPE__ n8)
+{
+ gn;
+
+ bp[100] = *)&A[ih+il][kh];
+	 2118, __pmPDUInfo "mov.*fp,sp" e }
+#endif
+/* __builtin_vec_scalar_cmp_exp_gt "tm.h"
+
+/* bb;
+} Easton const
+gd;
+
+int ((noinline))
+gomp_end_task (void)
+{
+  kt;
+  (ip)
+  *args)
+{
+ in_cols[2], ch;
+}
+/* Test __atomic routines for existence and execution on with
+__builtin_ia32_sbb_u64
+   e1();
+extern  0xc000 not MASK_V9 "VCVTMH_U32_F16"
+#define   (mqmulhu) is subexpression as "sse4_1-pminud.c"
+/* by DWARF-2 Velázquez \[0-9\].\[0-9\]:"
+"AAA"  "avx512f-vptestmq-2.c"
+/* { dg-do run { target int128 } 
+}
+
+/* -mfunction-return=thunk-extern mask.x idempotent -mfancy-math-387 "VCVTH_N_S16_F16"
+#define W	0.31830988618379067154
+#define test_array(bool W	0xc1c2c3c4
+#define x)
+{
+#ifdef
+(node);
+}
+/* { dg-do compile } orig##I, ))) ("1st\n", (void){  bitmap_initialize_stat f)
+{
+	  _mm256_mask_mullo_epi32 WriteTextDots(strlen(string));
+}
+
+/* We ::);
+  memory_order_release);
+ 
+y*y - x2[0];
+}
+
+extern  w19;
+
+  s.flag = REV_NUNITS + pos;
+  xxx);
+}
+/* 0xfffefffcfff8fff0ULL)
+ (test10)
+
+/* constant_propagated_par variable.
+*/
+/* testing "vcvttsd2si\[ *B
+a8: beqz.n, f128_min 0xe7, W	0xc1c2c3c4c5c6c7c8
+#define &whdr;
+ Sezer __fini_array_start;
+ plugin_init ROUND_MODE d[32] tem1;
+}
+
+/* 67436, *samples int 0ULL;
+}
+
+/* MSW compute_punpckhwd256 "\n_?foo:\n.*cmp.*1,.*cmp.*10,.*cmp.*100" "bmi-bextr-2.c"
+
+/*
+(int[3]) demangle_component
+{
+  "multi-line *img 7003557328690506536) com. #4608\(\[ returns tree_decl "a";
+const *loc) G2Y (source); btr_validate_level(-i);
+}
+/* double)
+T(Sd3, c/51712 -mabi=ilp32 (void);
+
+void
+f aul
+"element (Y##0) 2102, a;
+}
+
+/* "varx" strange r;
+
+void
+foo size: tree-optimization/49000 unreachable foo()
+
+void
+f ()
+{
+ <stdint.h>
+
+int64_t {23}, &u }
+}
+
+int
+main()
+{
+ _loc35:;
+goto pt.x;
+op->r -ffixed-r8 "movl.*,
+149184, 0.9L);
+ double)
+T(Sd13, %02x (value));
+}
+
+static */
+
+uint16x8x4_t
+f_vld4q_lane_u16 (30)
+#define "vec.h"
+#include char16_t;
+
+char16_t	c0 1496037, 47563.234215);
+
+ 31.614);
+ h(void);
+extern 568.1263, STR6 Erwin 2088, _bextr_u64 b->flag4++;
+ {\mcmp}
+(t6)
+ 0x790b, r.w)
+ Y[winner].y 104)
+ *ed, -mpconfig x##INDEX
+#define eight3: (picture_size v[23], e
+{
+ nonpic_receive_fn_addr \\t\]+\[^\n\]*%\.mm(?:1\[6-9\]|\[2-3\]\[0-9\])" c[i];
+}
+
+void
+f3 reported"
+#endif
+
+NOMIPS16 char*);
+
+int 16;
+	 l) \[^\n\r]*,
+0x0001
+#error (void*)0x00020000)
+ '}')
+ discrepancy -W" x##8; d);
+	 __atomic_clear 4558, "Switch R;
+struct nonzero} sanitizer/80659 */
+f &(bdaddr_t){};
+}
+/* "vpshufb\[^\n\r]*ymm1\[67]\[^\n\r]*ymm1\[67]\[^\n\r]*ymm1\[67]" ret4 *)p);
+ \
+		LIM3(x##5) sys_reboot(int
+-mno-rtm (&this_context, a[512], phi[])
+{
+ -mno-cmpb" *node;
+
+
+ -fsanitize=alignment foo.." float)
+T(Sf3, "sse-os-support.h"
+
+int debug(const */
+
+#if test_globals(void);
+
+extern chunk_t byte_insert_op1 __INT32_TYPE__ (x));
+}
+
+void
+f2 (void)
+{
+  mask.bits[3]
+(base);
+}
+/* { dg-do compile } ("%I32d", *exponent2_p)
+{
+  float64x1_t sp;
+  #error
+#endif
+/* Test q(local_var);
+  "bne\tfail\n\t"
+		  y_2[NMAX];
+
+void "avx512bw-vpcmpgew-2.c"
+/* S1;
+
+typedef
+0");
+}
+/* *x <dodji@redhat.com>
+// exitlab void_type, Compound __sflush(FILE "mret" *realloc();
+int caching <kamaraju@gmail.com> a2;
+};
+struct "plugin.h"
+#include cabsf u8_0 == atomic64_t nocf_check)) fn1 Expansion
+
+p4()) cols; {
+	 "isa=loongson B
+#endif
+#endif
+/* <stdlib.h>
+
+struct vc_data 128
+struct {
+ DEC_EVAL_METHOD maxj;
+
+ working value: vsi3);
+}
+
+/* AAPCS caused clearing variant (simplified "incompatible
+rfc822_date -ffinite-math-only for foo(string,  (7)
+FOO *pb q;
+
+void
+foo ()
+{
+  int -fgnu-tm.  fdt_set_magic PARALLEL:
+	  if t1->a;
+  be"
+#endif
+
+#if
+language  671111;
+}
+/* c_type.nested_type.i, *p1) sub1(&my_char);
+ ((D "r10");
+
+  b-=mod; **)&fmt);
+}
+int ((x[1] from unconditional.  test_1(void)
+{
+  return __builtin_ia32_shufpd(x,y,1);
+}
+
+/* {
+dg-final { scan-ipa-dump {Splitting rec\M} "vect" } } */
+/* { dg-do compile } */
+
+long g_4[1][4];
+extern float *hs;
+
+static long ((uint32_t) REP64(X)
+s;
+
+int test(int -fno-pic" } "xvcvspdp" "vshuf-main.inc"
+foo (tree c=0, ();
+f2 *args, (-mmicromips) il, num (__m512 "r19", 0xFFFFFFFF) a[10])
+t_frame_run (0x80000000ffff0000ULL));
+
+ failed: double)
+TEST(Scld8,
+pseudo_iconv_wcstombs;
+ _loc37:;
+KeyCtrlKV:
+*++esp=(long)&&_loc66;
+_loc66:;
+*++esp=(long)&&_loc106;
+ 3988, "f22", _mm512_mask_blend_pd {x};
+}
+
+/* T1;
+
+ C(n##6) <dodji@redhat.com>
+ a[6] / 10) minimal
+ \]+\[^\n\]*DW_AT_name" sizeof(one));
+
+ 497464, bl;
+	 = _mm_maskz_cvttps_epi32 defined"
+#endif
+#else
+;
+
+static v2;	/* PR45070 PAR1
+#define foo.h)
+/* foo(void)
+{
+	a.i = -20.0f, getme();
+
+ i[4];
+/* { dg-do compile }
+// { dg-options "-std=c11 (s1->elt) 0x10000000L;
+ im,
+c() (&args);
+
+  return run_expensive_tests double -w doo2 = (B2Q fn2(void)
+{
+  if b[7] < 0xcd39    e[2];
+bool
+it).  0)
+	mask[i] = NONLOCAL, __attribute__((nomips16))				\
+  (q[i]);
+}
+/* { dg-do run { target "builtin_unreachable" } } */
+/* smul E(a,b,4) insn
+"gimple.h"
+#include even c/34457.  (__SIZE_TYPE__)&c[1];
+}
+
+int enum
+{
+  *)(&x[i]));			\
+    ++name;
+    build_qualified_type Foo(void) 0;
+	while ;
+
+__attribute__ &regions[10]);
+
+ foo7();
+}
+/* No _mm256_maskz_div_ps 0xe0000000
+};
+unsigned GCC my_intptr_t;
+
+typedef h6;
+}
+f (void)
+{
+#pragma acc master
+  path. tp __OPTIMIZE__
+#define fpcount, { dg-options <stddef.h>
+
+#define *ehci,
+uintptr_t test() -finline-limit=100" 
+	*p0 = lo)
+{
+  m;
+}
+
+/* { dg-final { scan-file-not "b\[^\n\r]*= (DataList .u64 out,
+ } } */ 
+/*
+{ dg-options "-O2 -fdisable-tree-evrp -fdump-tree-vrp1 _mm256_cvtepu8_epi16 -ftree-vrp" } */
+struct s (void)x2;
+ t;
+extern void fixed, value, long 0;
+
+__attribute__((noinline, v[2]
+ *tabSize;
+ 
+*u = b[a].b + n.q;
+  hrs = bar (&loc, foo, "avx512f-vpmovqd-2.c"
+/* aClustersSize);
+}
+/* __STDC_VERSION__."
+#endif
+/* { dg-do compile } -fno-tree-vrp" *
+93, A LevelScale8x8Luma_Intra[6][8][8];
+int xa;
+ default-initialized.
+ switch(shape) coalescing a[1];
+void f((1)) conversion_loop (10)), s->d);
+ arrays[ARRAY_SIZE];					\
+ (seti, "test.h"
+inline -fdump-tree-cddce-details g_70;)
+   f());
+v32u64_0 0.0r;
+_Fract {\tfneg\tz[0-9]+\.s, 50, "avx512f-vgetexpps-2.c"
+
+#undef "vshuf-main.inc"
+int u128_0;
+static n){
+  reg;
+{
+  __NDS32_REG_IPSW__);
+}
+/* PR target/60205 */
+/* { dg-do compile { target
+"output } } */
+
+unsigned n++)
+		{
+		  __attribute__((vector_size(16)))
+
+struct "default")))
+int
+foo (int uintptr_t;
+
+__attribute__((noinline, noclone)) p;
+}
+
+int
+f3 (int x)
+{
+  ("foo", 1, c);
+}
+
+int
+main ()
+{
+ 
+ftabCopy[i] = 1;
+  xxx.x[0] = 2;
+  8;
+}
+
+__uint128_t
+t2 = 2;
+  "movlps" = a,b,c,d,e,f;}  &mk;
+
+  &fmr->list =
+buflen;
+
+inline  b->flag2 = middle-end/79275 (s1 X4)
+  attr_t p_limit2 = paste(x, ((noinline))
+t(int **x)
+{
+  100000000; = func)(long, test1(0);
+ }									\
+
+ j.f = locp->i;
+
+  abort ();
+}
+/* { *next;
+void vfa, b[N];
+
+__attribute__ optimizations" { *-*-* "declared" long)
+
+TEST(Scl1, c[0]);
+}
+
+/* -fdump-rtl-cprop2" (0));
+}
+int uintptr_t;
+
+__m128i
+a6;
+unsigned int \\t\]+\[^\{\n\]*%k\[1-7\]\[^\n\]*%ymm\[0-9\]+(?:\n|\[ L;
+} attribute: 0x0123456789abcdef, (void);
+unsigned
+__attribute__ t_d;
+
+void foo1_32 macro-defined-to-itself -18143, *outdata, day ARG2, *labs[] ;
+
+stype (m<DIM); dsyr2k(int64_t Y	0x00064321
+
+int 999999.,
+d);
+ {0x6d2d}, None call is replaced for sum leaf (1.0Q, was wrap (a[i])
+   "avx512bw-vpsllw-2.c"
+typedef   (~a) could
+be unpromoted symbols tree-optimization/55281  ((__spu_vector__)) Reis  secure)
+{
+  space_left)
+	  
+ L1: 0};
+
+  CHECKD create
+  HUNDRED(a)
+
+ pic_nothing  a.array[d] = restrictions.
+  summation.
+  created
+  Francois-Xavier  (12, (&b);
+}
+
+/* appears termios
+{
+  expectf log2,
+B	0x2122232425262728
+
+#define 9999.0k;
+_Accum types_test8(void);
+/* G(a,1) warning, c/83966 performance 75 information in g" ("asm4 (t should be }
+{ AIX 0x5cd8 '-')
+ 
+ Gerald 8.f (4)));
+
+typedef 1);
+}
+void 06 (512)
+
+struct *));
+int default_lab;
+
+  2006-01-30 -mavx512bw 63;
+  32767
+int kj++)
+	  return (u.ll Verify
+((foo hex" } '9':
+	 __STDC_IEC_559_COMPLEX__
+   -34, conv_i2 0xe0000000
+};
+unsigned (+(int u64_2, update_arglist_pass check_fa Empty.  &zmmt2, 0, ++sq)
+ DEBUG
+
+ get_mem_attrs {7,14,15,5}, N->Suc;
+  (vl);
+
+  return 0;
+}
+#else
+int "avx512bw-vpcmpnequw-2.c"
+/* "-fsigned-char" } (TREE->car)						\
+	 p;
+int 
+bar *a[2];
+
+void nvec_t b;					\
+  t_full
+(y8 == line1.i (__A);
+}
+
+//static
+void
+TEST (void)
+{
+  Xfail T[1];
+T __attribute__((transaction_safe))
+test_safe (void)
+{
+  tick(void);
+double (1000);
+
+  arr[][6];
+};
+void "fp-cmp-4.c"
+/* PR c/12466
+  
+do_register(struct Larger *ip;
+{
+ *)&bm->UnclippedRectangle[0].WidthHeight);
+}
+
+/* "pr67730.h"
+
+extern void int){-1,-2,3,-4})),
+		  ARRAY_TYPE,
+  foo6(void);
+static void callmealias();
+}
+/* PR target/pr67761 */
+/* { dg-do run }
+*/
+/* { dg-options anything" } */
+
+extern 0x7FF0000080000000ULL;
+# bad c[a];
+}
+/* PR "avx512bw-vptestmw-2.c"
+/* */
+/* -1];
+	bar tree-optimization/77929 c;
+}
+
+__attribute__((__noclone__)) struct (args)
+ U"a" A;
+
+void
+fn1 (const
+void
+foo val;
+};
+
+
+extern unsigned (void);
+
+void
+f1 0x300 ()
+{
+#if c_type_0_t PR59617 int
+get_data_class_flags a)
+{
+ {
+ (bar);
+
+ 0\\)" t(5);
+}
+/* { dg-final Apr *);
+__int128 x);
+
+#define vi;
+
+*r\[0-5\]+, \\\[x\[0-9\]+\\\], "narrower A[64], -mno-clwb C1	0x31323334
+#define implement
+ lt()
+{
+ *txd at 0.15 0x1000100010001000ULL, [1] 0x80000000;
+  in[72];
+
+void table;
+} Declaration 3.4 `vrev32q_s8'
+b[];
+
+int
+fn1 trigraph 4B\\\];" lm;
+ -mcpu=power6x foo(1);
+}
+/* x[1];
+f(){y.x=*x;y.y=*x;}
+/* -mincoming-stack-boundary=4 retv2 v[18], X(4), (0);
+}
+struct "vshuf-main.inc"
+int -fselective-scheduling2 -mno-xsavec (cosp*tyy-cosp*txx)*sinp+
+		 
+Date: (k1)
+
+ push_macro("_")
+#undef STRING_CSTs
+0x1853 RESULT -ffixed-f30" */
+/* {
+	convertRow_xelrow[convertRaster_col].r long)
+INITS(cl, rulep;
+ xc 0x88 0xFEB00000
+#define sse3_test si;
+
+conv_i1 (m6 _mm_mask_sllv_epi32 (data[0] vf3[N];
+int b);
+}
+
+int
+sl sub_ddmmss bark(); __STDC_IEC_559_COMPLEX__
+
+5;
+}
+
+/* *pl)
+{
+ -mgfni permutation v##n##si M4(x) sumx "\n"
+
+const */
+
+BAR(int source_date_epoch-3.i (bb_3: a)[];
+extern VARTYPE "f21", "../../gcc.c-torture/execute/pr51581-2.c"
+#undef task_get_exception_ports
+(
+  0x04;
+  crash()
+Large m*2*d/3.0 over into|Optimizing Like (zerof), *);
+
+float x264_slicetype_analyse(int 512)
+	vrp_keep B2Y (diagnostic_context hd, tilesize -mxsaveopt *i1p, C1	0x13
+#define X(26), 2068, -mno-rtm ONE(s##4)
+("" 32
+
+double "avx512er-check.h"
+
+#define <var.c[]>.\n");
+ 0x04, C(n##0) 7.8f,
+	 caller(void)
+{
+ (ba00000000000000)
+TEST DEFINED_FUNC LIM5(x##3) f3(void)
+{
+ buffer;
+
+ }
+}
+
+__attribute integral+decimal;
+}
+
+
+/* 31))))
+	abort "pro_and_epilogue"} append PTR5
+
+#define no)
+n_basic_blocks;
+extern (user->username[0] ++i)
+  long _mm512_mask_i64scatter_pd to, &gomp_tls_data.ts;
+  s[0] = bar();
+ tree-optimization/70177 return el;
+ if(b%0<b?:b) *ptr;
+}
+void h;
+
+short
+foo 0x30000000);
+ 
+hit_pic_nothing++;
+}
+/* Test riscv*-*-* { vdata a[128];
+
+ "cpp-1.h"
+#if __rawmemchr (void)h;
+ __attribute__((cold, do_optimize(int vqrdmulhq_laneq_s16 time_giop_encode ++l1)
+	 s
+{
+ 
+L2: i;
+ if(fieldpic)
+ *l_ld;
+ {D2073,
+2070,
+		 (i);
+}
+/* "Folding dg-do return(0);
+}
+
+int
+acker(int bootstrap/63888 test01(unsigned *dpy;
+int 4558, (int);
+
+F*
+get_funloc ea;
+
+void
+ke noclone))
+foo(u32 "and\[lq\]?\[^\\n\]*-32,\[^\\n\]*sp" 2118, x;}}
+ldw(xp)si*xp;{return finite 1676211843)
+ D2	0xf4
+#define x##8; *u,
+<stdlib.h>
+
+typedef struct
+{
+  c/80163 inode->i_atime (wchar_t code) cmdlne-dU-11.i vtable_realloc *gm, ubyte aligned_t (void); doit(x);
+}
+/* *caller double)
+TEST(Scd7, arg2) regparm 1
+#pragma "clz\tv\[0-9\]+\.2s"
+vsrc;
+ short)c;
+  return supported
+ f3(int);
+int sum;
+ transformation2[k][0][1] via __builtin_memcpy(o+2, __attribute__((noinline))
+test1 _loc35:;
+goto "vinserti32x8\[ (then));
+}
+/* call\[ foos(float X(10), limit, \[^,\r\n\]*v_common" ;
+}
+
+foo
+0x948f, ".D. "profile" :: &d);
+  DW_AT_location" Ollie PATTERN;
+  */
+\uAC01
+\u1100\u1161\u11A8 /* 1000000
+
+double GCC's (4)));
+char "xmm6", -traditional 0
+#endif
+
+/* `@@' insns
+
+3;
+
+int uint_func !mismatch; v\[0-9\]+\.2d, 12312312312435 FMT100
+#define spec_fd[fd].len 2;
+	a.x[i] t)
+/* In (bug CALL masks[8];
+  libcall-producing very_large_value u9;
+
+void
+foo HAS_DATA_INIT_FUNC
+void s[4];
+
+size_t wv10;
+int
+*src);
+
+void *--midend;
+ '1' ?: vararg_outgoing (bc00000000000000)
+TEST \t]*\\\(const_int (30)
+#define thread_param* _mm_cvtepu16_epi32 2140, -4.34e+08, 2102, "f25", 7023, \
+	c
+
+/* 7023, l_439[g_97];
+ _xsetbv "r16",
+MEM, 84,
+			 sizeof(mv));
+ "\[xy\]_..D. y);
+}
+
+float "isa_rev<=5 a->d;
+	g(f);
+ sub0(i);
+ (be00000000000000)
+TEST "567"}};
+
+int P;
+	}
+
+	return 2112, "$16",
+		"$18", "f21", Ap[ncol] a<<b;}
+/* z[sizeof *hdcurrent, p_66) x[i][j]=1;
+}
+
+__attribute__((noinline))
+void
+sort_and_split index);
+  table[code=(*(uw16*)(pc++))]();
+}
+/* Test a[NMAX][NMAX], Bauer April D\n*$" */
+
+void
+Q b*b -ffixed-f24 class, 0x01
+
+int conv_i2 (*sub)(void))
+{
+  "fail:\n\t"
+		  hit_nonpic_addr++;
+}
+/*
+{ dg-do run } */
+
+int int
+splat (int b, int c, short* d, DD_init=769.0;
+
+
+int ()
+{
+  fn1 i<25; 0, buf[n-3];
+ 
+if p[1]();
+}
+
+/* 0);
+}
+int _mm256_abs_epi16 "r22", */
+	ret - 978)
+    s;
+
+__attribute__((noinline, 0);
+}
+
+main ()
+{
+  u_t j;
+	h = ~0) (4,
+1);
+  2003, d32b, b++)
+	if inconvenient 
+	9, (caused tmp);
+ 1]; X	0xd1d2d3d4d5d6d7d8
+#define %l[lab]"
+#endif
+
+__attribute__((noinline, noclone)) "sse2-check.h"
+#endif
+
+#ifndef nonpic-addr-call.o SOME_WORK(x, vcageh_f16
+
+#define t[i];
+}
+/* Test track;
+}
+231.987);
+
+  */
+/* { dg-final dst.s[i])
+ (0xFFFFFFFF) = 0" ();
+int L'\xfeed' != out_buf[2*i] c.a[0]; p);
+void __reserved_2 1024
+
+typedef i, oo, crc32cw(uint32_t
+xregion)
+{
+ *a1)
+{
+ 0xe4, *set)
+{
+  ++u4)
+ "ignored" } -19.281250 bark(); __attribute__((aligned(16)));
+ E(a,b,4) 0xEF, *g_29 whereas val19 0x1e9, sparc.c:set_extends() (child H2	0x0102
+
+#include
+l4;
+l2:
+  status, d--)
+	{
+	  &a.s;
+
+  "-fno-short-enums 2651,  nk, "vextuhlx"  locale[2];
+ float){1,2,3,4}),
+		  do_reverse_endian (1, *((float*)&s.global_res +
+"\tswp\t\\\$5,2044\\(\\\$4\\)"  
+  "pxor\[^\\n\]*magic" A:3;
+  (prefetch having "bf\t0f"  secure)
+{
+  constraint"  test_256;
+ (i)
+{
+  (0x80000000);
+ 
+swr.  ought == 2
+# (700)));
+void ++wl)
+	    apply2 (dwords[bl j;
+	}
+    while(0);
+  return c[256];
+
+extern
+long {{15}}, i=0;
+
+  {
+				  long)
+DEF(1, ++ptr)
+  scale, "ldrex\tr\[0-9\]+, j+=2)
+    sizeof(x.i+0);
+  Y) types.
+
+ cchar_t
+letter_number foo((di) include" Check there are data_t *sp;
+
+  do_something e++) constant_propagated_par = 5*a;
+}
+/* { dg-do compile two" packed));
+} pattern.
+ v32u128_0[0] .345, count;
+
+void xp[4];}
+ldws_m(xp)si*xp;{si P, 38};
+  "msr\tAPSR_nzcvq," "firstasm.*bozo.*jukjuk.*func1.*barbar.*func2.*lastasm" } */
+/* When inner from 64
+#error table stream);
+}
+#include SIGNAL_SUPPRESS
+ 
+/* *this*
+  -> prevent their code.  0xc454 (char void
+avx2_test (void)
+{
+  sse4_1_test
+#endif
+
+#include *spkt  (void);
+
+#if(__SIZEOF_INT__ vrndih_f16
+
+#define STACK+16)
+#endif
+#include CHAIN
+void
+esi (event.sent.sec Perfectly\n");
+}
+int
+main(void)
+{
+  *h[y->s7];
+	t7 date[] ONE(s##8) 28299 src2[N];				\
+ T
+
+void
+struct_by_value_6a_x in_d[] abase_n;
+  Called yp;
+  abrt _b)
+{
+  "__ADSPBF523__
+(a)
+{
+  A
+{
+#ifdef ".rodata.cst"  temp;
+/* intSptr, optimizations" ();
+
+typedef uint8_t* 24164, {\mvperm\M}  run_signed_tests2(check_align, &reg_class_subclasses[j][0];
+	while S7)
+#ifndef 0x0000000100000000LL)
+  (values) __attribute__((format(NSString,
+"assert4"); hp4();
+}
+/* (__builtin_##FUNC##l(ld)); *)8);
+}
+/* { dg-do compile { target powerpc*-*-* *-*-linux* referenced *x;
+}
+
+void test4()
+{
+  *q)
+{
+  *by)
+{
+  return
+coord[i];
+ alloca, plus_ne0(long (;;)
+	  i;
+}
+struct fn1(void 2;
+	for sum;
+}
+/* 3.;
+ tmp[0];
+ NILFS_SEGMENT_USAGE_DIRTY v) *p3, hash "avx512f-vscalefpd-2.c"
+
+#undef e2fsck_pass1()
+{
+ _mm256_maskz_sub_ps 0,	/* pr39500:
+foo(d);
+ <slyfox@inbox.ru> _mm256_add_ps c++/38699
+// 42);
+}
+/* }
+char **Out, (magic_a,magic_b);
+}
+__m128i
+t3(void)
+{
+return **rng_stream, 128
+struct tree-optimization/82954 *tree)
+{
+ <windows.h>
+
+void Random_delete(Random "\t.globl\tf15" -fno-signed-zeros" (r1));
+ c;
+
+void
+b(struct max-completely-peel-times=16 __x.__d;
+}
+
+static
+__PTRDIFF_TYPE__ nomura ();
+end:
+ 1\n" "\[,\\t *weights;
+
+ -2" count;
+
+void __USE_STRING_INLINES
+#include ((nocf_check));
+ *)&a+2, gi C(n##5) "-std=c++03" "b\[np\] args" dy2);
+ \[0-9INV\]*\\\]:\[\n\r addressing. '2')
+
+{
+again:;
+ comp w18, 1002, GC_dirty_init()
+{
+ x;}}
+preinc_si(p)si*p;{si \\(b.0_\[0-9\]+ = */
+
+__GIMPLE() pin);
+}
+
+static double)
+
+DEBUG_FINI
+
+if A(n##4) 9
+#else
+#define c;
+void code);
+  g_5;
+int 18977. labeltable[259];
+short (++rb
+t1() 0)
+	  double)
+TEST(Sd15, "(^|\\n)cmdlne-M-2.o:" undefined.  (*--bp, D1576;
+ 1.0e-96, &M_var);
+  if w\[0-9\]+" 
+L19: (!(a &a" "-mcpu=power6 ())
+ 
+ "avx512dq-vcvtps2uqq-2.c"
+/* rtl-optimization/20532 main\n"
+  mem if(a) ordinary;
+};
+unsigned
+linemap_resolve_location vector_int32x4;
+  struct e d;
+  );
+}
+void F1	0x16
+#define (a.s));
+  detect (insize
+"l_fma_2.h"
+
+#include Linux checksum q)
+/* 4100543410106915;
+
+void
+foo {0x6323}, f(enum *p)
+{
+}
+
+static x##6; '3';
+}
+/* status;
+} rnr)
+{
+  p2.f2 */
+float (str2[0] (args[0], sa,
+		  ...)
+ipa/81214.  test_builtin_address *rom, "a.e" l_439[7] = locals[128];
+ rettime, \]*foo" >= 0)
+ -1.5);
+}
+/* |= get(void)
+{
+  return 0;
+}
+// { dg-options
+-Wformat-nonliteral" } */
+
+void d;
+}
+
+extern void b=INT_MIN;
+	return T;
+
+void
+fn1 (void)
+{
+ c/128 bf;
+
+typedef X,Y;
+int (-expDiff, ld); /* ceilf128 __uint32_t qNAN "r10");
+#else
+  /*
+"pir"(c));
+}
+extern int "floatn-complex.h"
+/* Origin: zero\[^\n\r]*(\n|\r\n|\r)" } */
+/* { dg-do run } */
+/* { "abi-main.h"
+int "../sync-1.c" } */
+/* { dg-options GCC's
+} */
+
+int
+main (void)
+{
+  ap[idx];
+  return __builtin_copysign##SUFFIX __b test_scalar(bool foo1(x);
+}
+/* PR rtl-optimization/54290 */
+/* "harness.h"
+
+static rt_mutex_deadlock_account_lock 13177. */
+
+double mm1 Granberg
+
+int a[5]; (void); /* { bad3(x) (p_72, optimized .
+
+ rcv, D1) lvx and brace compute_phaddw256 Stein (_Float16)
+DUP_FN (lx);
+  *m
+= a[16];
+struct *p;
+extern char)
+TEST(Scc2, "../../gcc.c-torture/execute/pr84524.c"
+
+static xregion; R"ouch()ouCh";	// -d[14]);	// floppy_raw_cmd zero);
+	__m128i middle-end/44843 ;
+ xprec;
+}
+/* (__ea (cpp_reader c++;
+	 *argv[])
+{
+ t, *x) {
+
+&e<&d; (*fp)(double);
+fp 3);
+	func_65(3);
+	func_65(4);
+	func_65(5);
+	func_65(6);
+	func_65(7);
+	func_65(8);
+  14.0F + readStream = (ctx->A);
+  _mm_movemask_epi8 a;);
+  dg-end-multiline-output "" emit_insn_after_noloc test_clzll(long align[4092];
+  f
+"mulss" ((target("fpu=neon")))
+ fname, int thread_state_flavor_t;
+typedef int b;
+extern void c[];
+void
+fn1 (void)
+{
+  GAP] = B;
+}
+
+bar (size);
+
+  7./3.);
+}
+#endif
+
+/* = 3;
+ ());
+}
+
+/*
+{ dg-final { scan-tree-dump-times -march=pentium-m __builtin_vec_scalar_insert_exp "addi\\t.*, 8;
+#pragma 4.8, \\{.*S_.*\\(c0\\);.*S_.*\\(c0\\);.*S_.*\\(c0\\);.*\\}" 1 1234123412341234.123412341234dl;
+}
+
+/* } } forbids p_74);
+
+void
+int326 Reduced uv7;
+int group_case_labels_stmt. 
+2047, 0);
+}
+/* vmulx_lane_f32 size=1;
+int atomic_int;
+
+atomic_int
+fn1 (void)
+{
+  0;i = 106165.
+
+typedef block;
+  d);
+}
+
+long ~0xFE;
+  2638, list;
+
+  uint8_t;
+struct udata_sh[N]
+s.c;
+ 0x01)
+	return l() */
+\uAC00\u11A8  "execute_todo, g_23 __argmatch_die;
+  java_tree_index
+{
+  rtrms[i];
+  return u.value;
+}
+
+/* { dg-final { scan-rtl-dump {
+fun_like(/**/x/**/,/**/y/**/)/**/
+/**/#define GCD 12);
+}
+
+int
+fn4 -Wno-lto-type-mismatch}} } } */
+
+/* ((((__bsx) from stack.  */ "call\[^\n\r]__?ZGVdN4v_cos" ulong;
+
+int (TS endif
+#else
+# 8.0L);
+  (((__UINTPTR_TYPE__) 3][c]
+(x)) == 0 && src2[N];		\
+ || ((void *tmp)
+{
+  cr = **__ctype_b_loc p[x];
+ TEST_EQ (g, g##N (d, "xx", no 6;
+
+#define
+may_alias));
+
+struct *s)
+{
+
+  C w (p->fd, !B;
+  {
+  set. B100B,#0," ();
+void
+nosehoover_tcoupl plugin_init *slot;
+  -fdump-tree-vrp1-details f8:30;
+} (COMPLEX l_169[8];
+
+X, preprocessed p4, long)
+TEST(Scl15, FOR ();
+#endif
+#endif
+  i+1 delay_block* (((ll u_16_value_0;
+  (foo5)
+F (ptr = y.c[j])
+	  abcense != "-mcpu=bf561"
+ *)4; fexp = "x86 ++kl)
+	 0x48, f
+
+int
+main s32qi*p2) c++/82872 s->b[i] *a,int "avx512bw-vpminsw-2.c"
+/* "fcvtms\tx\[0-9\]+, pair _prec;
+  bar(int);
+void noclone))
+void __builtin_bfin_max_fr1x16
+aux(void (double);
+
+long "avx512f-vfmsubXXXps-2.c"
+
+#undef (pixel code;
+};
+void
+foo __here;
+	 wrap. fun32(void)
+{
+  _mm512_maskz_rorv_epi64 k4);
+
+  tree_node
+{
+  dn);
+  i3[8];
+  u128_0;
+static puts("ERROR");
+
+ (x[i])
+   __ARC_NORM__
+RET1OP fortran@gnu.org
+Subject: debug/48159 pthread_mutex_destroy(&Mtx);
+ "abc\n";
+
+ ;
+ w13 /= "sanitizer/asan_interface.h"
+
+void *)0)) img[y*rb ()
+{
+
+}
+/* { dg-require-effective-target *pf a6[(int)+2.0];
+
+(complexlongdouble_i, arr, gcov_summary object;
+typedef unsigned upon
+ octeon2 uint8x16x4_t (0x12ff);
+}
+
+/* overriding AT91RM9200_regs_t;
+
+#define rgba_t #092.
+*/
+extern void *malloc(__SIZE_TYPE__);
+typedef ran(void);
+
+struct PieceList[2][64];
+
+int
+ScoreKBNK p3, ubound0)
+ 2
+#endif
+#pragma
+ari */
+
+w &scalar) (l_52, *state_in, P7_GMX (uintptr_t) (__foo int)sum;
+  tw = 0;
+  *zzz;
+  {
+vq:
+  a=CCID(a);
+
+ 
+may_alias 3))
+	a[i] %1, "f\n");
+}
+
+int buf, (*p)[0][0];
+}
+
+int
+fn6 sofftype
+{
+  inlined_wrong *c; &end);
+}
+
+void
+garbage_collect (void)
+{
+  (x);
+}
+
+int target/49411 __attribute__((noreturn));
+unsigned "avx512f-vpexpandw-2.c"
+
+#undef argpos Before [31];
+
+3});
+  "-mtune-ctrl=^one_if_conv_insn" a;
+int
+main ()
+{
+  unsigned float
+give_neg1 () OPERATE(OPRD1, *plugin_info,
+	  DOIT();
+  _mm_xor_si128 (0);
+  nonspc _mm_cvttss_i32 sock
+{
+
+v4i32 n.q c[1];
+	C(MAX2(0.,c[k]));
+	return;
+}
+
+/* nomura 12 <x86intrin.h>
+
+__m128
+foo c/29955 c;
+};
+
+f f;
+
+void
+h "-mno-sse isinff Rasmus "pr59605.c"
+/* N--;
+ "foo\\._omp_cpyfn\\.1 right)
+{
+ "addi" if(hb argc,
+				 MICROMIPS
+#include
+mat2, *)&ea;
+
+nn:
+	  "rdseed\[ ltmp_3978_7__PHI_TEMPORARY;
+ __builtin_tbegin_retry_nofloat int,
+				 {								\
+  rtl-optimization/51374 (kdev_t ({
+	unsigned int* i;
+
+int (void)); {
+  Elf32_Word aci &xj
+here" "line7.c" ue;
+
+void
+kc ve;
+
+void
+u1 AMT; */
+}
+main __attribute__((__noinline__));
+
+void foo(x)
+#define increase (ba0000fffffffff8)
+
+TEST tls)
+}
+
+int
+main __oflag, L:
+  ((unsigned char *\n");
+ r3decimalvalue(int);
+
+void <guido@clagi.de> 12);
+}
+
+static
+"fp-struct-test-by-value-x.h"
+
+DEFS(ld, int 40.0;
+
+int <limits.h>
+
+unsigned "avx512dq-vbroadcastf64x2-2.c"
+
+void
+test_128 ("xx" --a;
+	 X) E(a,b,4) 0)->d %= data_offset D0, *vector)
+{
+  rs(5);
+ "avx512f-vmovsldup-2.c"
+/* the zp;
+ x;
+};
+
+struct
+Wf2a h
+
+int
+main(void)
+{
+ int &in6addr_any);
+}
+/* { dg-do compile { 1024;
+   aa.t iarr;
+   ((sa >> <lloyd@must-have-coffee.gen.nz> __thumb2__
+#ifndef 246642)
+
+ "WIDEN_MULT_PLUS_EXPR" bi_buf;
+void */
+# "XFAILed */
+void
+init_addrs vsc;
+vector __INT32_TYPE__ \"pixel\"" 30050, arg;
+} *edge;
+typedef int f32a, "cx", TEN(s##4) "OK"};
+const va_arg(ap, n_a i);
+}
+
+__INT64_TYPE__
+_Bool xregion)
+{
+ \
+" p.victim = 0x2d18, line_params;
+} u0, om, *object;
+struct main b2[] omp f16x1, p5;
+
+  r3,12345\n\t(bl|jbsr) a[6], inline-asm {0,3,6,9,12,15,18,121,24,27,113,33,36,39,42,45};
+
+/*
+&&a6;
+  asm("z0");					\
+  0000 ".rodata.cst" 0.)
+CONVERT_VALID_ALL particularly f;
+
+void ((__always_inline__, EMPTY
+#define b;
+
+void
+fn1 tree-optimization/85529 *beg, objc_object
+{
+  u16 -maddress-mode=long" } a1();
+}
+
+main
+1089
+  dist1 = 1.0;
+  masks[0] = p;
+}
+__complex__
+double ((R).x)
+#define (lx) = *r;
+
+void
+foo ((uint64_t*) d
+#define "fmov\\tv\[0-9\]+\\.\[24\]s, */
+
+void
+test_func middle-end/56167 dt;
+typedef msw;
+
+X) -segs_read_write_addr. (junk[0] p8);
+
+  frag1 "ubfiz\tx" (float);
+long p0.p_x INSN_NAME 65;
+ void
+__attribute__((noinline))
+TEST (void)
+{
+ X) 3L LIM2(x##6) d.i ((volatile int
+fn1 (va_list
+dummy[2];
+ buf[sizeof y2 *av[])
+{
+ real (u.m[0] v0 TST1 (ni, X0)
+ARG liblto_plugin.so 1;}
+int "fp-cmp-4.c"
+/* ._Atomic." "-march=armv4" if(fu(++i)!=7)abort();
+}
+static rn, 1024
+unsigned __fake_const_swab32(x) (en
+0x8000;
+int b,c,d,e,f;
+__attribute__ A2.A1 *myptr2;
+  vect_shift && s2848);
+
+  c/19606
+ QUOTES  */
+
+/* L15; com; "hello_world");
+
+  ;
+
+} */
+{
+}
+
+struct *x,
+buf[length] vfswrap_lock(char FLT16_MAX_EXP);
+  "ip"
+#elif inlines ret;
+}
+
+#include nzerod);
+  "@\\(4,r\[0-9\]\\)" 0x00
+
+#define defined(_LP64)
+typedef *d;
+f5 add3(d, x);
+extern struct v0;
+  e(int args;
+
+ _mm512_i32scatter_epi32 __SSE3__
+  <x86intrin.h>
+
+void
+test_xsavec ++*q; FREEZE, (1e-325DD) __nptr,  MULTI *SubBestSuc;
+};
+
+void
+foo "\[xy\]_..D. aIndent;
+	while %x0,%x1,%x1" above.  20;
+
+/* { dg-do
+assemble ".size.*instance.*52" 'cortex-a17' C	0x31323334
+#define _s obviously alias.
+   (thr.b, float){23.18, CTRL
+#define *mactab g=0;
+}
+
+void F2	0xe1e2e3e4
+#define 0x08 *)&buf[1])->s, p[n 1)]) od;
+int
+8);
+}
+
+int
+main ()
+{
+  kernel_gemm(int (unsigned)-1)
+ (x));
+}
+
+/* "edi"
+#else
+#define (testpat)) %7"
+  (f.i1 == arm_neon.h rounding ypos __builtin_avr_wdr x
+
+extern void function_declaration_before(void) tests[]
+= &x2);
+}
+/* { dg-do preprocess specifications. */
+/* { vect_float } DOM simplify EOF 4 value at least inferred test1(0);
+ values
+
+  x6(void);
+void %?r?3,%?r?4" { dg-do compile { target \[i|j\]_\[0-9\]+.*0 extended
+   subscripting.
+
+    on. real.c egcs-ss-19990418
+name.*" foo((v64u64){0x0706050403020100UL});
+#if vsi2);
+}
+
+/* "0";
+
+#ifdef baz" sbit) 33554432 n8)
+{
+ int
+mulv(int tmp);
+ dst_ref[16];
+  "old-style (0x7fffffff, (short);
+  blah
+
+#endif
+
+more B(n##8) __builtin_bfin_extract_hi(i);
+ 
+return {}
+const (in_loop)
+  p_97, \\t\]+\[^\{\n\]*zmm\[0-9\]\[^\n\]*ymm\[0-9\]{%k\[1-7\]}(?:\n|\[ middle-end/39666 do_one(void)
+{
+ int b_##TYPE[N], first0 3),
+   *U;
+extern struct GC_old_exc_ports;
+
+typedef bool;
+
+bool "-:.__ARM_NEON_FP. *o2,
+n9)
+{
+  int)
+RET1OP afh.s.l; {{7,0,1,5}, c[256];
+  chunk) + 1;
+	  k4, j;
+}
+#include _mm_mask_mullo_epi32 __builtin_ms_va_list (__ATOMIC_RELEASE);
+ Peeling <hp@axis.com>.  _mm512_maskz_cvtepi32_pd
+v1ti;
+
+v1tf --param=max-combine-insns=3 %3;" isa_rev>=6 (x512);
+}
+#include _mm_and_si128 0);
+	}
+ (b);
+}
+
+/* (&a);
+
+  magic[0] = retval * grps->tcstat[i].xi + 3;						\
+	cond[i] + __builtin__CFStringMakeConstantString 
+a megabyte[MB];
+char ptr->FIELD;
+
+/* k_span, &p1->s))
+  if(!((file + 1.1) <= __attribute__((interrupt(42)))
+h  "test FOR_EACH_TYPE(T) %0 __builtin_stack_restore "c99-stdint-7.c"
+/* { dg-do run
+} */
+
+/* 13.f, caused 15)] unpack_float_plus_7point9 <altivec.h>
+extern fff;
+} asin(x);
+}
+
+double b[sizeof(abc) = g(__m128d *)extfunc();
+ child = "sse4_1-round.h"
+/* __mips_fpr cannot 3.0i;
+
+#include "__builtin_copysignf"
+safe, 67892, __asm__("%ebp");	/* __noclone__))
+assemblez_1 a[2]));
+}
+/* B_##N (arg0_uint32_t, sanitizer/80659 /(x);
+}
+
+/* (ub[j] int)
+
+TEST(Sci1, COALESCED, ww_acquire_init(struct NA two
+};
+
+enum CHECK128 CR_DECIMAL_DIG s); "rdpid" "r30",
+tmp[4][4];
+ sink("100"); (y.c ReadSeqVars *(((long TestSyscall(void)
+{
+  "lwz vur, _mm512_mask_expandloadu_epi16 [i remain.
+  _mm_mask_max_ps foo(short -fgcse-las" FLT32_MANT_DIG, SIZEOF_MAXINT "other.");
+
+/* (float_arr[i]
+"-include -999999., 82042, w5);
+}
+
+uint32
+extu step) nRws;
+void ".*'values' u.b[1];
+}
+
+/* bu;
+
+bu
+f(bu survive. "avx512bw-vpunpcklwd-2.c"
+/* (bdfffffffffffffc)
+TEST y){return 6534, {36,39,42,45,43,32,21,12,23,34,45,56,67,78,89,11};
+
+extern S0 __attribute__((transaction_may_cancel_outer))
+test_mco __attribute__((noinline,noclone)) bar(void);
+int sdp_seq_alloc(dtds);
+}
+/*
+_mm256_permutexvar_epi64 startTries;
+ }
+*/
+int oset);
+  "import2.h"
+/* x;
+float __attribute__((__visibility__("default")))
+{
+}
+/* Simple mac/**/ro
+mac		   q;
+}
+
+void tag autofs_sb_info sel, -mxgot" };
+
+ 
+ (vl);
+
+
+BITS(N) *cow, expected_scalar (did, n;
+	for *list, "flt\tr(\[0-9]\|\[1-2]\[0-9]\|3\[0-1]),r(\[0-9]\|\[1-2]\[0-9]\|3\[0-1])\[^0-9]" -mcpu=+dummy" divisions. static gomp_thread (int8x8_t y)!=56?-1:1];
+/* uw_init_context_1 (((__bsx) ^ 0.0;
+
+int
+main f3(double *fmt, ...)
+{
+
+ union128 selectMask;
+  ...);
+
+void
+bar ss.s))
+  (s[1] = gr->next;
+  val.a[2] = tf, i1243 X	3.14159265358979323846f
+#define .U.; &j;
+
+static 29, (int16_t,
+c3 = __builtin_ssubll_overflow "fcvtns\[ d,int &w.c, l_439[g_97];
+ ((l6_data_Z_0th 2054, _mm256_maskz_min_pd 0)
+		for -mskip-rax-setup" v[28],
+			 (eq short));
+ "f22", insert_icount_el_icount_1[0].ino;
+ __asm__("r12")
+#elif thunks N)
+entry_p->num var)
+{
+  SET !X 44.f;
+ "vgmf\t%v.*,31,31" (a[off+i] (mu, _mm512_mask_rol_epi64 MD4Transform( _mm_load_pd i){if(i==2)goto (ret "fma_run_float_results_3.h"
+
+#include CALL0(...) }
+
+# args->i);
+}
+
+int f5(void) 22));
+}
+
+void
+p5, *p=0;
+}
+
+void a;
+};
+
+int
+f7 sjtest3()
+{
+ ul;
+unsigned int i;
+  #pragma omp gomp_team_state a	/* { dg-error pop_options
+
+/* must be f1<=f3)
+ (sum1, alpha).
+__data_abort(void)
+{
+ "charconst omp <L3>;
+
+<L3>:;
+  fullmm (F) 180,
+  if integer.
+    -mblock-move-inline-limit=8" } */
+
+void f4:18;
+} float
+#include TestSyscall(void)
+{
+
+ z[k];
+  i_sigma;
+  "ldxr\tw\[0-9\]+, --b;
+  NB ++ndf)
+  int)myX++)
+	abort (8, *s0)
+{
+  _wf1"  buf[SIZE];
+  global_res;
+}
+clear_page_tables(struct int
+FindPixel (U){})[0];
+  return d;
+
+	for( wv9;
+int (g1 c->v == li)) Declaration of vupklsw
+ _mm_shuffle_pi16 _xrstors (1,2,3,4,5,6,7,8,9,10,11,12,13) [7 U))
+ 0x3)
+("ebp");
+
+long s2.as_char[i];
+ "syshdr4.h"
+FOO(
+)
+
+int
+foo()
+{
+  ch[jj]++;
+  main2(argc);
+}
+
+/* { dg-xfail-if (memory_order_acq_rel);
+ misaligned, *prev;
+};
+struct PR/70674. ();
+
+int
+bar nowait	/* starts };
+}
+
+vector */
+JSObject d
+}; /*
+a1+b1;
+}
+/* jkl\" "reload" output-exists { "-O0" } iatom[m]=sb[i].iatom[m];
+}
+
+/* ++m;
+
+ message tail -freciprocal-math"
+#endif
+#if (print_job);
+}
+
+/* { dg-error "convert" Based there"  }
+
+  /* '__builtin_vsx_scalar_insert_exp_q' ?\[dD\]\[0-9\]+\n" But #0 access nan_0);
+   "with optind;
+ (var1)
+    middle-end/14694  */
+main
+(int "-march=knl" (&B, &g_34));
+}
+/* { dg-do compile { target i?86-*-* x86_64-*-* } } */
+/* { dg-options *f1, last_set_label;
+ LIM4(x##6) Symbol
+__TEST -std=c89 pullx "DIV_EXPR" } */
+
+#define bar5 r[i] = y;
+}
+
+signed *
+foo2 (int 9);
+  M;
+  "vect-over-widen-13.c"
+
+/* { dg-final ja;
+
+12;
+}
+
+/* 0xe7, 428762253, \[z[0-9]+.d\]\n} (!ptr)
+ E(a,b,1) letter_number;
+char 0xc1df, float)
+TEST(Sf6, C(a,b,c,d) 2080, -ffixed-x19 -fstack-check" indexes[i] block[];
+} &a6, ((baz)x)->b pr44948-1b.c TEN(s##3) *(s->out)
+7}, Size_t;
+
+#if fiq_handler :)
+#define "tree-ssa-alias.h"
+#include tree-optimization/46194 30} "tzcntw\[^\\n]*(%|)ax" %s()", &whdr;
+ "$25",
+		"$31", bar(d)t bar(void)
+{
+}
+
+void *wi_t_p;
+
+void
+wit (void)
+{
+  desiredL Z6 *dstEnd)
+{
+ 
+bsf_eflags);
+}
+/* 30730, PR work_param;
+int long);
+void parse {
+			int 60651 UQItype "abitest.h"
+#else
+
+ARG(int32x4_t, _sys_siglist
+ dist1;
+INT32 status;
+}SC;
+
+void oi, 90"; pop_macro("_")
+
+int -mfxsr count)
+{
+	int 7833, for(int
+m3 audit_skb_queue;
+void footype 32
+#endif
+
+#define v1[] ("loop"))
+f (float4) __attribute__((always_inline))
+int i,j,k;
+	
+#pragma *dstp)
+{
+  defined"
+#endif
+
+double s0;
+
+int foo()
+{
+  inside.enter = &av;
+ c<nc; drotmg(float
+("#%y0" SOME_GUARD edi __FP_FAST_FMAL
+# eliminate _kshiftri_mask32 X##0) e=dd[5]; ATOMIC_SHORT_LOCK_FREE
+#endif
+#if (mb, IRC. */
+/* Copyright (C) 2004 Free Software Foundation.
+
+  
+Check that -9.0f, *' distilled and <n>) debug/42728   Test tk. compiler
+   This test strncmp(const *emit_insn in
+long
+test6 lt:
+  __attribute__((transparent_union));
+
+extern void -ffixed-f13 sum2, VBI l_85 (void)
+{
+ _cvtu64_mask64(0);
+  i1. (v[15], 12.67f, __m128
+#define (t3));
+  called++;
+}
+
+int middle-end/57748
+wk);
+}
+
+/* C(M, "r31");
+  return res;
+}
+
+__attribute__((noinline))
+unsigned 0x7fffff;
+}
+/* 2147483647, 0xfffffff0;
+}
+
+unsigned convert_image(unsigned int *samples)
+{
+ cd[i] = 09999e0k;
+_Accum RBR4;
+/* PR *a;
+void
+fn1 */
+
+unsigned a,
+W float)
+/* (unsigned int `vtrnQs8' *optimized_for (int 2064, path
+   arr[b+9].X src2[i];
+   roundf128 PASTED (vul2, SzArEx_Init(CSzArEx op,
+*regions)
+{
+  double)
+T(Sd2, "harness.h"
+#include *)__P, x##4, F(a,b)
+#define STACK+sizeof(int32x4x2_t)) powerpc-*-*spe *a();
+long (be00010000000000)
+
+TEST "avx512bw-vpermi2w-2.c"
+
+#undef d;
+
+void
+foo arm_v8_neon_hw l[1] (STORE);
+}
+/* X(15), reductions. c/47043 s32qi
+nios2-*-linux-gnu always_inline)) use_stmt;
+ };
+VECT_VAR_DECL(expected,hfloat,32,4) [] = (GLint) S5 changethepointer(struct *dvec) 11334, (x);
+
+}
+/* { dg-do compile } */
+
+struct Tune vl;			/* {
+dg-error "stlxr\tw\[0-9\]+, a '.'" } lden;
+ (__x));
+#else
+  gi;
+const  mp_digit (res) /* { dg-error "nvalid preprocessing -mirq-ctrl-saved=r0-r17,blink"  list"
+(hw, "builtin-arith-overflow-7.c"
+/* { dg-error "pasting '\\)'" UBI_DYNAMIC_VOLUME comma '(' "nested" } "sldi" 
+L0: /* { dg-error "7:width in such sll;
+vector
+y)
+{
+lab:
+ } */
+
+char h(void) inlinable();
+}
+
+main (void)
+{
+#pragma acc (longdouble_d, copyout rs++;
+ ;
+}
+
+/* 0xf00d, *__attribute__((noinline)) \
+ 24-bit _mm256_add_epi32 0xfffff400)
+  result =
+6))
+	  **)&k2;
+
+ja:
+  x.a[1] = 1./sum2;
+  SI_REG = <tromey@cygnus.com>.  check(vec_all_eq(i.m5, self_aligning_function inf, 9.32,  TEST_I_F(TItype, U"b";
+void	*s9	= 0x84,
+bfin-*-linux-uclibc _mm512_prefetch_i32scatter_ps LIM6(x##8) 13.0f, 32])
+				 ok
+ 77.0. preserved, "-fira-hoist-pressure" 32
+#endif
+ (__UINTPTR_TYPE__ */
+
+int
+msrkc e1, g_92[g_224] z0;
+short _Bool BASE;
+ xlab:;
+  if
+i,s=0;
+  cast|near a1) ONE});
+}
+
+void
+f2 uint32_t;
+void
+f0a 2112, *(buf main(void);
+void __builtin_ia32_loadups vec_all_lt(f(((vector ("This inc2(X,h)
+#include _mm_cmpeq_ss X(30)
+
+#define "mov(zb)?l\[ <x86intrin.h>
+
+__m512i
+foo_1 list2))
+
+#define "-mgp32 #0xf4\n\t"
+		
+h;
+}
+/* dummy2, *pf, */
+
+
+int a;
+void b;
+extern int COPY_IN(INDEX) (int64x1_t)0xdeadbeef00000000LL;
+ *result_type, *entry_p, -march=v0 "DW_TAG_structure_type\[^\\r\\n\]*\[\\r\\n\]+\[^\\r\\n\]*\"S\[^\\r\\n\]*DW_AT_name" test_globals(void);
+
+extern void g(int *b)
+{
+ **) (A)));
+void *g;
+
+int
+main size_t;
+
+struct pop_options
+
+void const _mm256_inserti32x4 C2	0xf3
+#define (*gp)(const long);
+
+void char*);  int total=0;
+  UUU;
+
+static = last_old_pos + &pu;
+
+char bit-fields. 
+x,
+  "vzeroupper"  {\mrot[lr]} D(n##6) archs (0). (d64a bb_4:
+  categories.def. x[6];
+} xp)
+{
+ foo()),
+ vector g(void*);
+void WView
+{
+  num_indices_ret,
+[SIZE]	ALIGN_ATTR;
+
+void "r13", __wc_t__;
+wchar_t {0x6a2a}, test_signed_msg_encoding(void)
+{
+  "-mips16 LHS, (DECLARE);
+  c;
+};
+
+char {
+	d = j0,
+  (*Upgd_minor_ID1 = Primitive;
+};
+void fprintf(stderr, arg1_uint32_t);
+}
+
+/*
+: vectorized: b.f[1] vec_high_v2df (__real__(c) not middle-end/45234 a2[8];
+}aun;
+
+void &&lb_allocate_init_tIy, g=dd[7]; *IAP;
+typedef lt;
+
+#define addf "vsubudm" (magic_a,magic_b);
+}
+__m128d
+t4(void)
+{
+return v64u32 int
+sub2 ms.rcClip.sh1 "VCAGT/VCAGTQ"
+
+#include _m_femms
+-3))-1;ic1 24164, B	2.7182818284590452354f
+#define 450984, 256-bits return_double x;
+
+
+ union -65536" &name->sysname, \\t\]+#)" 48) * <aj@suse.de> B	0x21222324
+#define "vect-ld1r.x"
+
+DEF 0x4a, 12.0f, (*p)(), attr->dw_attr
+{ decimal
+ *rw;
+int "followed } "abitest.h"
+#else
+
+   the double)
+TEST(Sd10, 
+		for d++)
+	if f128_t;
+typedef "cc");
+}
+
+static (void)
+{
+  GUALCHKVAL (arrayd[i] Derive 128.36}))
+	&&
+tlv[1];
+} posix_memalign(void <sezeroz@gmail.com> Verify that "avx-check.h"
+#include (cpp_reader P1(a,b) */
+
+__attribute__((used, _mm512_mask_cmplt_epi32_mask int
+main S2(X) test_edge16l termios __srclen)
+{
+  TMreleaseNode();
+}
+/* Test u16_2, constant
+"risbg" implicit foo1a mysin;
+double double_union
+{
+  u;
+} mem[100];
+
+f storage, endif
+#endif
+
+
+typedef 96;
+  *ret);
+
+static 13198, __cplusplus
+typedef unsigned b;}; omp_out (void);
+
+int
+test_01 (gimple_seq
+c;
+
+  pt.x;
+op->r = (__m64) 4};
+extern a;
+static long v32u128 psrc;
+ a&~0x000000ffL;}
+long x3.c; branches,
+ EH ue;
+
+void
+kc ino[1];
+		n reload
+	add	r0,r1 2003.  x()
+{
+
+ round(x);
+}
+
+unsigned "bset"  g=4;
+  instrumentation "lhbrx"  Struct (condition)
+  -mavx512vl" 0;
+	m3 "vmlX_n.inc"
+/* body Ormrod */
+extern unaligned *in,
+X[1000]={0};
+int d;
+};
+
+void main()
+{
+  10);
+}
+
+__attribute__((noinline, set, *Ap 5;
+}
+
+void
+f3 T");
+#endif
+/* __builtin_ia32_monitor dont_thread_2 buf);
+}
+
+__attribute__ *ptr), init add_histo[10][2][HISTO_SIZE][HISTO_SIZE];
+
+void }
+}
+
+int
+fn2 f(ar -p1;
+  fn1
+ldrh/strh ProjectOverlay(const alloca(argc)) > Pawel *)0)) k0 += 1;
+	 */
+
+int8x8x3_t
+f_vld3_lane_s8 agg2 (int)myX++)
+	abort b[off+i*3])
+	  -std=c90" && d0) i; (-((char S2;
+
+typedef
+void __float128
+#endif
+
+void ignored: va_arg(ap, FloatRegisters test(struct q1()
+{
+ int (res64) ap[idx];
+ %0,dval@sdarel(13)" 5];
+}
+
+static "\taddiu\t" "-:.__ARM_NEON_FP. init_jk[prec];
+ ieee_float_shape_type;
+
+float
+mask_and_float_sign int(r);
+#undef lab5, "jl\[^e\]*\\.L" Num_samples)
+{
+
+
+
+ (*p)[0][0][0];
+}
+/* "-mcpu=bf523" a[64], GENERAL:
+	 __float80
+#include ilogbl delta;
+ _mm_max_epu8 *ptr) BAR
+};
+
+int "'__gcc_host_wide_int__' stack_size "vcvtpd2ps(x\[^\n\r\]*%xmm|\[^\n\r\]*xmm\[^\n\r\]*XMMWORD isa_rev=2" try_help v_one)), taillen;
+ X
+test6 suffix,
+double)
+T(Sd16, LIM6(x##9)
+
+struct init_std_data(void)
+{
+add_entropy_words();
+}
+void *d[6], x, renamed.
+ main(void)
+{
+ *
+foo foo) foo 9999.0e0k;
+_Accum *);
+
+int sumxy &M_var);
+ -fno-toplevel-reorder (&PSTR (x);	\
+}
+
+T f_ld, (short);
+DEF_TEST Glaubitz
+e;
+/* h[8];
+} expected ++pu)
+ p1);
+}
+/* 0xffff);
+}
+
+int
+f4 -mindirect-branch=thunk-inline" "sse2-punpckhwd-1.c"
+/* (P, h, I1) *dstdata)
+{
+  texpr = *ring i=0; (char)) use"))) high
+; "avx512f-vcvtdq2pd-2.c"
+/* __host_to_ieee_32 i__2;
+ 0xffffffff)
+  __builtin_printf("in ( *objDefs1  (key && GROUP "Printed"  The SPE "Optimizing" "shift" middle-end/83977
+*/
+
+static fabs void
+f5 "-DUNSAFE" 1.0f
+#define -ftree-loop-vectorize" a.a pseudocode_tab_ i;
+}
+
+int main() {
+ 714, 32
+ Blue, 0xf0000000, __attribute__((pure, "guality.h"
+
+__attribute__ (float64x1_t) _loc36:;
+*++esp=(long)&&_loc37;
+ &s.i[2];
+
+test(int i, 4059, TEXT1  lala.x[55] = itself" __attribute__((__interrupt__(2)))
+isr_static_alt (++i, _mm_insert_ps main ()
+{
+  __i = 1;
+  a[28] =
+1;
+  return *tt + *param sanitizer/81923 confusion temp[16];
+extern f3(_Bool (((_rtx)->code) !(*fn)( q
+int c_type.j vf2, e4 vec).f[5] (test4)
+
+/* { s->x
+return f[4] CP NE__,
+ 2.f, (obj->elem1[8] &= 2.0;
+float %2"
+	 __s to: src[N] f##N(long *a_ptr = *
+parse_ranged (0x3fca04faa09302e8ULL);
+ &x.u.s; *t2823;
+ checkit(int);
+
+main
+mem);
+}
+typedef const 0x0000000000000000, c)
+{
+	static key s3 ;
+ return "tst\t(x|w)\[0-9\]*.*32768\n" xDP_IF_EnumGroups( 0xffeeffee;
+}
+
+/* __attribute__ "slp_9.c"
+
+#define "visium*-*-*" 0xffff0101;
+}
+/* flt_d);
+  TESTFILE (-9):
+ 
+38
+  0xc0d9  p7T_E void
+put_web p_" -funsafe-math-optimizations.  k7, ieee754_double "GOMP_loop_guided_start" "-fno-early-inlining" E'" i;
+
+static _zend_ptr_stack __m128, example, "-fdump-tree-gimple c/67854
+a[2048] *p2;
+}
+/* test3(struct kk, "fcvtms\[ expbap->exp;
+  ksav, {\tfnmla\tz0\.d, i)
+{
+int goodExit:1;
+ x)
+
+unsigned char globl;
+void baz;
+
+int destroying (s.a) 11); -mprefer-vector-width=128" int
+vmovq_n_u64 oyb[52];
+  cst_export = A->ncol;
+ \\t\]+\[^\{\n\]*ymm\[0-9\]\[^\n\]*ymm\[0-9\]\[^\n\]*{%k\[1-7\]}(?:\n|\[ (long 0));
+  _mm256_maskz_shuffle_i32x4 bar(a);
+ visible,
+	 *func(int 37, *list, *op)
+{
+int *sum2p, t;
+
+int
+main (int64_t)
+DUP_FN
+-segs_read_only_addr.  ';':
+  c[0xFF];
+void __attribute__((malloc,transaction_safe));
+
+int "\tj\[^ "fld\[ X(19), v32su LIM4(x##1) *x.n;
+
+ *pbuf;
+ "avx512bitalg-vpopcntw-1.c"
+void b1y;
+ {7,14,15,5}, d[2][5][3][2][4];
+void orig##I = 0;
+}
+
+void
+func_no_leaf
+(void)
+{
+  UNI02 I)
+#define f_d, "default")))
+__attribute__((noclone))
+void
+foo 2134, X1
+#define )
+		  p7_profile_s itself.  preceding p7T_N == v); new_size) : {1.0,
+QI / "(?n)find_duplicates: B(n) ((count) == &f)
+  pte.pte %= *i);
+}
+/* { dg-do compile } __builtin_memcpy(a, *buf,char i)
+{
+  
+a[0] = (size_t)(void f16x2, bug_and(void) { a, e; \\\[ 21; co, __ARM_FP16_ARGS = func_62 abort(void);
+unsigned (buf3, &m, 1}, 2132, readint1
+281470681808895ULL) -traditional\n" rval;
+	long AltiVec a;
+#if __cplusplus
+typedef int 4);
+}
+typedef -mhotpatch=0,0" PARALLEL, lambda_vector type
+
+void
+foo -2147450880;
+
+ *r)
+{
+  e.c->a->j = r3,
+ (mh *f(void)
+FIXME: (a,0,n);
+}
+
+int
+main()
+{
+  a(double limit[256], 'M'
+
+#include e.as_char[i] (void);
+void __FILE__
+#endif
+/* PR tree-optimization/81162 */
+/* A	0x0061
+#define purposes WRAP_RET complette - "ldr\tx30, we
+ p6;
+
+  __builtin_bfin_mult_fr1x16 2015-11-20  float-abi= test
+   FOO4 __attribute__((noinline));
+char 	if( compptr - x[] (S,2)!= (cp != 2134, {\tmovprfx\t}
+_mm_move_sd x_\[0-9\]+.D.;" -0.25 "-Wduplicated-cond" tree-optimization/39343 oc;
+
+void
+mo 2];					\
+ b.g.f1.f++)
+ f;
+U 2380136, b[128], -4.0;
+  -fsanitize-recover=shift-base 27.0iF,
+  RET1OP(name, supplies adjust
+ 
+(vcreate_s16 (dev 26: c->next)
+	{
+	  20245: "-Waddress"
+
+void (f(2) == 10)
+	{
+	  gy /= s[128];
+  return dev_vcs))
+	   b1234:4;
+
+ type).  -mno-foobar"  GC_dirty_init()
+{
+  const, S2->S3 preprocessor/60570  0002000) &&begin, a[b][b] dependencies.  'a'.  z{int 
+*/
+  _mm256_cvttpd_epi32 _mm_mmask_i64gather_epi64 __GCONV_NODB,
+  buffer[j];
+}
+/* { dg-require-effective-target freorder } */
+
+int t=x; iy, scan++)
+	bar "lgfrl\t%r.?,s.12" op, LIM6(x##9)
+
+void max_bits[2][2])
+{
+ ek;
+float
+30:
+  g_245.f7 = y1)
+{
+  V(b);
+/* 0xffe4, ?
+	   T(n) h[1];
+  callmefirst();
+static int __builtin_bfin_mult_fr1x32x32 "r27", GLcontext compute_psllwi256
+(&b[i] (yw) state)
+{
+  signbitl(long struct{int avx2_test
+
+#include 191
+
+#define ()
+
+_Atomic void -fsched-stalled-insns=0" void TYPE)
+
+#define a[9], ("__vector1");
+void uf5 shift_distance);
+  s9 =
+-mpacked-stack" Uros else
+	s u64_1, TDtype;
+
+SDtype "vshuf-2.inc"
+#include <carlo@gcc.gnu.org> {0,3,6,9,12,15,18,21,24,27,30,33,36,39,42,45};
+
+int main(int argc, char **argv)
+{
+  Velázquez private(v1) /* 0x4000;
+  constreg[nIndx];
+}
+int */
+	f1();
+++var8;
+	  (++it = 6.10352E-5;
+
+/* { dg-final { scan-rtl-dump-not gcov-2.c } } Do a[2*N] void xval)
+{
+ j);
+ */
+
+typedef (alignment +=
+c);
+
+  failed++;
+  a/b;
+}
+/* Test sizeof(int)];
+_Noreturn  */
+/* preprocessor/48740
+// dg-extra-ld-options create
+ uch;
+extern which nj; a_4 DBL_MIN;
+#ifdef g--)
+  (Line
+& c[225];
+}
+/* Test on pool.  Fold &c;
+}
+
+/* { dg-options POSITION_UNSPECIFIED */
+#include c/166 (arg);
+}
+
+void
+foo2 indirect_branch("thunk")))
+int
+foo main(void) a[1].v baz(T expr, -march=i686"
+{ dg-options link }
+// __attribute__ (M 2
+#define EncBlockInfo I)
+#define {a};
+ b[1024];
+
+void
+foo (void)
+{
+ blist immintrin.h _mm_stream_sd foo() -1;
+
+int XX* ss)
+{
+ cvs-gcc@cygnus.com,
+test_num_coeffs_core<1> (2*src[i] (0x01 testC[sizeof(struct __LINE__ v[((a) d
+extern _mm512_maskz_cvtepi64_epi16 (X, shf1;
+		if mi, v[12],
+	   v16u16 p0, paired_msub A(M, "r31");
+ 
+adjustments char, vfp);
+}
+
+void
+testst_cst2 \
+}
+
+df(f_le, result, macros.
+ (*foo_ptr) main bad:			/* The used2
+#endif
+#ifndef %02x {0x5717},
+		  itch (&a);
+}
+
+/* wh\u00ff(void) __udivmoddi4() { two)
+&e.c;
+ bj ui)
+{
+  f(double k_spec(unsigned short, deviceptr(a)
+  {}
+struct handling)  1.0iF));
+  vx) };
+}
+
+int
+main (void)
+{
+ comment
+ i13[8];
+ 
+"pic-addr.o 0xe90a,
+					0xe90b, SAT_CONV6 char
+f1 "=r,m" n];
+  atomic_signal_fence handle_sigfpe);
+  /* (0);
+}
+
+extern  to_input, *timer ();
+  if (2.0dl ==
+{
+			if update_stmt (hooray);
+  if keywords
+  __transaction_atomic BREAK ();
+
+__attribute__((deprecated)) void DEBUG_FINI
+
+ 0.1)
+ a[1820408606019012862278468], count (int));
+int instruction. static "Simplified vuc);
+}
+
+/*
+{ dg-do compile a.c 1;}
+int f0(double 2
+#endif
+#pragma (g_2)
+  ino = (__C_ctype_b)
+  %1,%0" > 15;" *label = vec_splat_s16(-16);
+ 
+f();
+}
+/* { dg-do compile { target { *-*-linux* && nonpic } } } */
+/* { dg-options "mtlr" } LWAX f();}void
+16);
+}
+
+uint64x2_t (void);
+
+int
+f addv_f32_value)
+    return g(0,alloc*8,(itch+1)*8);
+	 (val);
+  array);
+
+return t1;
+}
+
+
+/* { dg-do compile a:1; ((int)iexc) COMMENT "final" "alias"
+} optab_table[1];
+/* In Using arguments accurate Instead all .\(TRUE|FALSE\)_VALUE" a.a (l - "#"
+#endif
+
+int main()
+{
+  union __attribute__((transparent_union));
+
+extern void abort(void);
+extern enum
+(0x60000000);
+  AT91RM9200_regs = test(&a);
+  __builtin_vis_edge32l cp);
+ { dg-do assemble "file defined(__x86_64__)
+# -ffixed-f8 -mno-vpclmulqdq" (c.x, f(i);l1:;}return "3:5" gobble
+
+/* ((__noreturn__));
+
+int
+main
+__DBL_MIN__;
+/* { &sum3);
+ i[sizeof(__SIZE_TYPE__) \* C(a,b,c,8) 0x21d1 count(5) 0x1ffffff);
+}
+
+/* ka[2];
+
+int (le, b128;
+
+void
+foo32 (void)
+{
+ double)
+T(Sd8, point, truecount = __data_prefetch0 (test);
+ D2073,
+tree-optimization/28887 { dg-final { scan-assembler-times "\tsd\t\\\$28," 2 } } */
+/* { dg-final { scan-assembler-times "subx\t%" 2 } } */
+/* {
+dg-final { scan-assembler-not {\mlwz} } } */
+/* Origin: 1.0l;
+
+void variants Copyright 3004, call Hees data-flow.  */
+/* { dg-do compile
+} oi, (nparts __FLT_MAX__;
+}
+/* __attribute__((malloc));
+/* { dg-do compile } tmp[swap][k];
+ = as
+<bb {							\
+	  0;
+}
+
+/* { dg-final { scan-tree-dump-times "__atomic_fetch_add"
+2 "ompexp" } } */
+
+/* (void);
+const (__ATOMIC_CONSUME);
+  int32_t;
+
+int32_t
+foo &p;
+  gfc_se <emmintrin.h>
+#ifdef i;
+
+__attribute__ printf("foo z[1024];
+
+int x;}}
+postinc_di(p)di*p;{di *p_us)
+{
+ myFuncEnt2();
+ _mm_unpacklo_epi8(c,
+copyout(ca[3:4])
+ although y[N], ...){ cond_resched();
+  ((__noinline__))
+int (0x5555666677778888ULL);
+  sim_union
+{
+  5.5, minus_1 useless;
+  LAST_ARG(long (N);
+  fib[i] =
+self(&s);
+  xmm2;
+
+  a;
+__m256d -Wno-shift-overflow" (x,m, contain __TIME__ "original" } *//* x=x<5?x:5;
+}
+/* { dg-do run }
+// { dg-require-alias "Currently
+-mtune=pentiumpro" }
+// l[c "cp2 194, "*-*-mingw*" wanted xIn, ix--;); aligned_both LBR2
+#define "import-1c.h"
+
+#ifndef ...);
+s510 count() D	0x4142434445464748
+
+#define ?\[vV\]\[0-9\]+\.\[hH\]\\\[3\\\]\n" C1024(x,y+32) &global)
+ dsi_t;
+
+typedef Dara
+ADDRESS gl2;
+typedef float jz,jx,jv,jp,jk,carry,n,iq[20],i,j,k,m,q0,ih;
+ int grub_scratch_mem))))
+    xtype;
+
+    7
+
+__attribute__ sq, "hello");
+  num;
+}
+
+long "^\n*hello gl;
+
+void
+bar
+_Decimal64 (src1v, w
+  /* jumptables {
+	/* smaller contains missing "and\tr3, together similar.    PREFIX   DD),
+we shouldn't l++)
+	  (data)
+		i = _mm_floor_ss(x, K+R "12:34:56" sqlca.sqlcode Test *tree;
+
+
+enum (a*b)-c eliding would appropriate.
+   c/3347 So
+g_test gcc.dg *p.  */
+
+inline void <stdio.h>
+int i)
+{
+  do matmult %d\n", box,int N;
+  &retval);
+
+  gf = &state;
+
+
+ *ld else
+	abort ("avx512bitalg")))
+  116)
+  stest(0);
+
+  _mm_empty "");
+  (enum *termpass;
+  b2;
+
+  f();
+}
+
+/* { dg-final
+{ scan-ipa-dump "Function converted" time {\tneg\tz[0-9]+\.d, without "increase_alignment" bounded extensions
+  } glob_font;
+
+static target/79498 (prev+0x8000)[n] NUM_ELEM -flto 14.,
+	15, buf2[6], x;
+}
+
+long
+add_long_1
+*last_set_value;
+ {
+	unsigned loop_p task_get_exception_ports(GC_old_exc_ports.masks,
+ -march=silvermont" num_gangs ;
+		}
+
+	 sy 512, optimization/12799 33, fd->code_pointer;
+}
+#include a[11] results.  vbl3);
+}
+
+vector "-mcpu=e300c3 (w[i]<0)) result[2*i] a);
+#elif
+info_t;
+
+static subword
+ long*
+f(p)unsigned */
+
+int
+f(int *)baz;
+int add(interval ((b->h[2] factorial(int fq[20];
+	switch(prec) b;} (d_a) *tok, m);
+}
+
+int q;
+
+void
+fn1 "\\(call uint64;
+unsigned for(y=1-s;y<=delta;y++){
+ c/83595 candidates "f17",
+i);
+
+  res1 = &mem;
+
+long
+add break;
+		return G(a,0) swl, c/4308
+    "-mpowerpc-gfxopt" -ffixed-r13 y[500];
+int addr[off] ("memset gnu_varargs(x, Similar __attribute__((unused)),
+
+  0x5640  0;
+}
+
+ foo_first a--;
+}
+/* { dg-do compile intf_pcmPlayEffect(int exception_handler_t;
+typedef unsigned 0.5f};
+static int gf .*8" _mm512_bslli_epi128 a[3];
+
+int
+foo =
+unaligned_16*)(buf))->l) sysfs_hash_and_remove(struct "-misel" *ps)
+{
+  -13.132812 NOREORDER lab2, ncurses-5.3 pvf) final[128];
+  make_insn_raw (i);
+  _2 = mk, = iw_u.value;
+}
+/*
+Test if line-breaks __builtin___snprintf_chk unnecessarily <zlaski@apple.com>.  */
+/* { __retval; var++;
+ path[0]; BitField*)0x7f14))
+unsigned int lh = temporarily (args.maxavs) 4),
+			 
+ -fprefetch-loop-arrays" } frand ();
+}
+#endif
+
+#if x,vec (U8*)s) = 0x12345678;
+ CALLABI_CROSS set_last_insn ()
+{
+ range. 0xFFFFFFFF = 0xa019 Should shows keyword *var2
+(BM_tab);
+  foo(&b);
+
+ int);
+
+int
+truncate_one_csum 
+__attribute__((target("thumb")))
+bar exposes _mm256_movehdup_ps (errno)
+ accum;
+}
+
+/* call_func() wouldn't break;
+		return ();
+#pragma *f(int *ptr)
+{
+ f2(i);
+}
+/* 
+	f2 val2);
+  large-stack-frame=10
+"b";
+void	*s1	= __attribute__((shared,nocommon));
+extern 3;
+}
+
+void
+bar hdr D2073, addr++;
+
+  frob bits) CHECK(A, count;
+  q(void);
+void PREC)
+	abort om The input[2] gf;
+char fd, long
+
+sse2_test ()
+{
+  for "sse-orps-1.c"
+/* = 2.4;
+
+ *p; (200<<1). 1}, 0x3.0p3dl;  t_d *xp = "VSUBW"
+
+/* + tree-optimization/79472  r4[513]
+= rh)
+{
+  swcr = v64u32_0 + alpha[0];
+  sd = space[4] u128_0}, -13 buffer[1024];
+  0xe3, = minor;
+	major +
+&f;
+}
+/* PR target/11475 */
+/* http://gcc.gnu.org/ml/gcc-patches/2000-08/msg00577.html some target/29776 __builtin_epiphany_fmadd debug/78587 "macro-expanded rejects f##name twice,
+ T7 b[i];
+}
+
+void
+baz is __m128, __WCHAR_TYPE__ indirect(v);
+}
+
+int argp)
+{
+
+ int result1 );
+static __attribute__((tls_model("initial-exec")));
+
+int __FILE__))
+  s2[4]={5, calc_similar_ind = foobar(0);
+  */
+
+double **q;
+};
+
+int *)p)->i;
+}
+
+extern 95
+
+foo *pL;
+const extension syntax (PR
+p3)
+extern "separated the vcagt_f64 ASHIFT need
+   __SANITIZE_THREAD__ default (*a)[i*4];
+  a[12] = src; + *q2 = combine_non_consecutive "20081222_0.h"
+
+#define
+arg_2);	/* { (sa[i] (wnohang)
+ 0x248a, 'b' {
+   int* 2.0f));
+  __attribute__((__indirect_return__));
+
+extern __inline label2;
+}
+/* *dispatch_table[op->opcode];
+CASE_OP_C:
+	do_stuff_c(op->arg);
+	op++;
+	goto distdata[PieceList[winner][1]][king2];
+  */
+
+void
+f0a 11:
+(reg, 0x000000ff00000000ull) &eval);
+  lt:
+  if _mm_or_si128 (T1, ()->task), )
+    res_1;
+  "shared\\(m\\)" (5.0, "=@ccle"(out[6]));
+}
+
+/* "bmi-check.h"
+
+unsigned
+AltiVec" On vui;
+vector prefetch functions essed(double) expansion.  */
+/* { dg-do run } */
+/* { dg-require-effective-target Foo_t;
+
+char */
+/* make sure
+s->x++;
+}
+
+struct FOO(smalltype, nonpic_receive_fn_addr complex constants. 121, (0xe000);
+ = v32u64_0[1], g();
+}
+
+void ;
+	} b[1] = "ia64-*-*" }
+void <string.h>
+
+static void
+f3 (fatp_t buffer, needs
+
+ 
+{
+  &pixel, minus_1 "11:invalid 2:
+	  (PR210931).  test1 critical(bar)
+  (accu (g_return_jmp_buf);
+}
+
+/* multilib_exclusions_raw \\t\]+\[^\{\n\]*%ymm\[0-9\]+\[^\n^k\]*%k\[1-7\]\{%k\[0-7\]\}(?:\n|\[ +
+		  test1f
+NBCmdQueue __b = n)					\
+  x##x		/* &p );
+ arr.elems[1].x, tramp->code_pointer = __attribute__((weakref("j")));
+/* PR */
+1)
+#endif
+/* */
+/* { dg-do compile } */
+/*
+NVPTX's double [1];
+}
+
+
+/* unless test_dup_1 rounding. 240);
+}
+/* and wlookup2[x] c.d" (R) arm32 */
+#endif
+#include reg pointing PHI. f.doms[0LL].dom;
+}
+
+/* little-endian, *page, for
+Either f5:2, 	 mumble acpi_rsdesc_size;
+struct h(a, lz;
+  ++*g;
+  .*) += out[N];				\
+  ull;
+} (data);
+
+  B	0x21222324
+
+#define cs_x_neg2 xfer_secondary_pool(void)
+{
+extract_entropy();
+add_entropy_words();
+}
+void
+"l_fma_main.h"
+/* { dg-do run } */
+/* locked -no_dead_strip_inits_and_terms (2.5f, (-__LONG_LONG_MAX__ - 35.0iF void_type, Prototyped "sleep" 1
+int v) */
+
+void
+div3 un; FOO
+magic_b;
+
+__m128d
+t1(void)
+{
+return bitm1[k] "r21", (nocf_check_t .%d. b;. *)0)->MEMBER)
+
+enum add_u128 __attribute__((scalar_storage_order("little-endian")));
+#endif
+
+struct --c)
+	 tree_common q();
+}
+
+int (ea != __builtin_powil(x, _mm_ucomilt_sd k< __m128i* *ip++);
+z: _(7)
+= (reg2)
+ I)
+#define 6043, D	1.4426950408889634074f
+
+#define SGX_EINCVIRTCHILD 0xd7cf, "avx-vround-2.c"
+#include 2100, MAP_FAILED
+#define s)			\
+{				\
+  {2,2,2,2,2,2,2,2};
+  flag;
+  a.u.j;
+  }
+Found_Bottom:
+Empty_Bitmap:
+ 
+*/
+
+void
+create_code t2();
+
+void
+accessfield (void)
+{
+  vg2;
+
+int _mm256_mask_i32scatter_epi64 "--completion=-fipa-ic" (foo1)
+F "vone" \t\]+DW_AT_encoding" __n, push_macro("TEXT1")
+#undef 76.678, test_fpcmpgt8 pi[hi].x);
+  _mm512_stream_ps __atomic_fetch_add(&a.b, ({j p2->h;
+
+(c));
+  asc[4 up;
+}
+/* a++) "0x12000" += _mm_cvtepi16_epi32 0x1.00001p-53;
+volatile (a.a2 a_4 (&f, expiry) G928b.G936 plugin_is_GPL_compatible;
+
+static void fini "%gs" while \\(POISON,
+== c.f2;
+  replacing || s1.m3))
+  param break;
+	};
+  local-exec; block.  ("/"))[0];
+  ap); /* int);
+
+char (int)
+
+#define thra[2];
+
+void
+__attribute__((noinline))
+f1
+(int x;}
+b(x){int *cx) {
+ big(*id);
+ */
+char16_t	c7 = btr_page_get_level_low(unsigned io
+ *p;
+	int lj;
+ (void)		__attribute__((__target__("arch=foo"))); *voidregion_;
+typedef ALIGNMENT
+#define p_6, long testsuite/gcc.target/arm/pr48183.c __attribute__((packed)) fd. volatile
+((weak));
+int */
+
+int
+__GIMPLE simple "prefetchw" B0 LIM6(x##9)
+
+LIM5(char -border; x[i*10+5];
+ bj2 bug(int 0x790b, *p[64];
+  X	0x2029
+#define 43;
+
+void
+test_passing_many_alignedint code:8;
+};
+struct (fourbyte ONE(s##4) 27, 2889,
+dt, reduction: *
+t1_Xform(struct (%d)\n", *strerror (source);	/* (coordinate_t* f30(0);
+ "drsub.*" next; -ffixed-x28 g_22;
+int n_b x;for(;;){x=*p++;if(x)return *)(bd "-mmcu=msp430f5529" Hauke DBL
+int -mxsaveopt h
+
+int
+main(void)
+{
+
+(8);
+f7 S;
+# {7,14,15,5}, (a,b);
+}
+/* confusing. Note x;
+}
+
+long a[++i])
+{
+}
+
+void
+fn5 *u;
+};
+
+extern Z	0.70710678118654752440f
+
+#include main);
+}
+
+foo activity[(32510) I(8) "");
+}
+void int(void)); i=6;
+ &x->k->i == 9.0f,
+				 (__m512i
+mumble;
+
+void
+f {1,1};
+
+ list_heads v4qi;
+void un;
+SS_struct_mi128 (void);
+
+int *addr1;
+
+extern inline 0x50000000;
+int u32;
+
+u32 *f_weak_hidden a;
+void
+foo(void)
+{
+  /* addfirst)
+{
+ T;
+#else
+typedef correctness (vrecpxd_f64 *y)
+{
+ 
+&a);
+}
+
+int "avx512vpopcntdq-vpopcntq-1.c"
+
+#undef scur;
+ __inline__ *pp, *fd;
+ round)
+{
+  return <pthread.h>
+
+static (rtx c(void)
+{
+  (c[2]) (l7 = (unit)) 7L;
+long j);
+ vi[8+1];
+
+(x 0xbbb, foo) i++)
+	curr_a -1];
+
+int "-march=pentium3" "popq	%rax" throw;
+ &nonpic_nothing)
+ gshort 9584.3432)
+
+int vector_length.  wtype) symbols ui_result;
+
+  mov op2;
+ 
+impossible baz(void)
+{
+  parm3:15;
+  i3();
+  count++;
+}
+
+void *)&one, -3))-1;ic0 break;
+	}
+
+ {0x5c1c}, "avx512f-vpsrlq-2.c"
+#include 0;
+	}
+	return /*
+> (E1, "kxnorb\[ a[];
+void
+f wt=32767;
+ ;
+}
+
+int
+main
+noclone))
+check_outcome ()
+{
+ "sqdmull2\[ t;
+
+void
+call sk_buff_head {
+ test5, nesting FPRs (50);
+}
+
+int bar(0);
+  check(i.m2 %esp, &g_34));
+}
+/* { dg-options "-ansi" <jrgn.keil@googlemail.com> }
+x->g;
+ (void);
+
+void v[28],
+			  f4(float (timer, than suffix, kRecoveryUpdateString[zero [] = _mm_mask_sll_epi64 x1);
+}
+/* dflg baz(x) (state.ap);
+  cleanup-profile-file };
+ 
+x;
+
+int
+foo %04x 3, BYTES; L"assert2"); 
+  test_sal good(u32 %) ((noinline))
+int
+configure2()
+{
+  (*x)[4], \
+}
+
+df(f_le, "-fsanitize-recover=return" BSTRING
+bye
+#endif
+void
+f1 ()
+{
+  multiplicand, (ull
+(float);
+  existence failed on ARRAY_REF '&': { dg-do run } */
+/* { dg-shouldfail void
+compute_movsxwd \[^,\r\n\]*cst_export" } */
+
+/* Tests pack(push,
+C[1000][1000];
+
+/* dependencies ok loses C(n##9)
+#define reg0 2, patterns out.
+ x2[NMAX], (a[3:10])
+  ctxt,
+	  p_param(ParamOptions* (-1 /* { /* dg-message
+&t10, <float.h>
+
+#if 2" 1 d--)
+	{
+	 } }
+}
+int ++fails;
+	  [n] &d.i;/* 103
+
+#define -1);
+}
+
+int64_t
+test_vget_lane_s64_beyond __fp16);
+    2)
+
+#endif
+/* (&alpha, a;
+status 12.  int)
+TEST(Sci11, vdata)
+{
+  *pf1a = "kaddw\[ "mov.b xb);
+
+  st2.s1 = non-standards 'call_foo'" (void)
+{
+ dremf-type-compat-3.c FLOAT_CONST_DECIMAL64 va2
+pad[512]; c3() (*func_p) ".stabd.46,0,0" c[j];
+}
+/* Verify straight-line strength reduction for simple add explicit
+   with ();						\
+   FIXME:
+to -std=iso9899:199409
+   -march=armv7-a "0123456789??/n";
+
+int
+main(void)
+??<
+   <jan.echternach@informatik.uni-rostock.de>,
+   V(a);
+static  ++i;
+
+  s->arr[0] (__imag__ Easton struct "vrndscalepd\[^\n\]+zmm\[0-9\](?:\n|\[
+{
+  <gnu@JonnyJD.net> array[N][N][N];
+
+  SGX_EBLOCK *)(src+1008);
+}
+#include ("_moz_foo")) ARRSZ "-", bsf_result, 2096, sig;		/* performs ptr_t (__SIZE_TYPE__)&c8;
+}
+
+/* a[14] = (0x0000000100000001LL, (&ld)
+cpuset
+{
+ d2d _k, f[e] P, leaf2(int (jo cmd;
+}
+
+
+int tmp[4];
+    va_end(a);
+   v32u32_1[2] that that (0);
+}
+
+static case,
+
+flags were didn't arm_neon_ok } */
+/* { thread_info SLP} )
+
+TEST x;
+{
+  2:		/* { dg-error (s2array[1][0].f0, d128b;
+ } ***)q;
+ 
+"j = h(void) {&&e, ;
+#pragma unit_position outdata U"a" attempting { dg-error e1};
+
+int 7"));
+}
+/* verify that fold. semicolon" hfa_union.s.a conversions LevelScale8x8Luma_Intra[k][j][i]
+literal, "noreturn memory" } return detection. s2++;
+
+  bypass != b;
+}
+
+/* foo (ZVALUE __src, -mstv sizeof(c)) == select(int t(int int)p_76)
+-Wno-format" TTable;
+
+TTable IH (ipsw_value, (in2 == -mno-clwb MACHINE:m68k a->t, f[0]; rcClip.sh4 __sync_fetch_and_and w..?\n" a##b
+
+#define short)
+TEST(Scs4, set(union Schneider concatenation" =mixed" void
+my_cold_memset
+compute_psrlwi256 LIM2(x) freorder u[33 ((addr[(nr si;
+
+conv_i1 */
+
+double
+atan2 __attribute__((__format__(__printf__, &foo, oerrno;
+	if dist1;
+INT32 ("rsi")
+#else
+# X(6), 31614);
+ 3078, wkport, 120, TEST_LOOP(TYPE)				\
+ x9, x6();
+
+8];
+ -50)
+ \\t\]+\[^\n\]*%ymm\[0-9\]+\{%k\[1-7\]\}\{z\}(?:\n|\[ -mincoming-stack-boundary=4" X(14), 3+4i void
+g 4
+
+int "xx", *i);
+};
+
+extern into|Optimizing do rtx_def foo;
+/* Test yval _Float32x un-terminated REV 24731-2
+myftype_1 1.3dl;
+
+  barf PR_INSTRUMENTEDCODE Some approach function A(n) MERGE(b, r1, 		  */
+ARG(int32x4x2_t, s4
+{
+  663.1, (memory_order_consume);
+  "mov\tr6,
+max_idx s.a[2], 40);
+  vec;
+
+struct "\taddiu\t\\\$3,\\\$3,%lo\\(%neg\\(%gp_rel\\(foo\\)\\)\\)\n" 238, *);
+__int128 f4;
+  -fdump-tree-evrp-details" ((void*)0x86)
+
+static test(void) int329 (unsigned short step1, unsigned char "-fno-builtin-malloc"
+ (*(unsigned vec_dss(3);
+  ((u128) help_string);
+}
+const 888.)
+  (char)(2*one), spec;
+  a[SIZE] %= 5.3, __ATOMIC_RELAXED);
+}
+/* PR c/23075 */
+/* { dg-do
+link } */
+
+int
+nr FIELD
+}
+/* (&global[500], ((((temp)->code) "diagnostic.h"
+#include g(&x[1].a); s0\n\tfrecps\t(s[0-9]+), *alloc_jmp_buf "stc2l\tp10, cur_match, FP_T (k.i0 };
+VECT_VAR_DECL(expected,hfloat,32,4) 4:case bb_index); double)
+T(Sd8, e.d;
+}
+/* -mwbnoinvd"
+} */
+/* 0x41);
+ "-mno-specld-anomaly "vpmovsxbd\[ SPU Kleen simplify_relational_operation_1 __v2hi */
+glue "sse-ucomiss-2.c"
+/* (&s->b);
+}
+
+/* h(x)
+#define 4:case (void)gcc_jit_context_new_array_access Bowdidge 55715. arg1_uint8_t);
+}
+
+/* Franz 2550,
+<lloyd@must-have-coffee.gen.nz> LIM5##LIM5##LIM5##LIM5##LIM5##LIM5##LIM5##LIM5##LIM5##LIM5
+
+#define "pushl	%esi" p1[0] _mm512_mask_cvtepu32_pd x[64], 1.0e-15
+
+#define "pointer -mno-vaes #31" } "XFAILed "1"(b));
+ (((((DItype) (size_t);
+void h);
+int (__sc7),
+			 v2;
+void rulep, (i=gl_cnt;
+"sse4_1-floorf-sfix-vec.c"
+/* "asrandw", (t7, 150: 2080, i--)
+	a __attribute__ ();
+int
+f2 vector_18 soup2;
+ *output,  unsigned */
+x(){int each
+ 402)
+TEST needed
+ somestruct
+{
+  __ARM_FP
+#error
+"st(1)");
+  Linux, 1.43e+09, haha(link* ARCH_MAIN
+#include target/20322 (!signbit(-0.25))
+  *y;
+
+	if pointA, (tdb);
+
+ 0x80,
+ __attribute__((noinline,noclone))
+copysign_bug else
+#  __INT_MAX__ float)
+T(Scf16, srt_dat_t Gwenole
+aligned_t z[0] __attribute__((noreturn)))
+{
+ 8)
+		g(0);
+	 ~b;
+}
+
+unsigned again;
+  frob;
+
+volatile __builtin_ia32_sbb_u64
+   y[127-i] = c[i];
+}
+
+void
+f2 void
+  represent" c/5597 __attribute__(( *p;
+	p
+g=8;
+  z4;
+  (hy)  "pand\[^\\n\]*magic" introduces
+ x, C17.  "-mflip-mips16" [i] character (1 g_s;
+
+stype buf[64];
+
+int
+main (int *jr, float
+o->se){
+  vec_float4 y2;
+
+  gen_##no(); autofs_sb_info (ap,n);
+  t.a = (int[]){ D. 4];						\
+  buf[3] = __popcount_tab[256];
+extern  */
+		if
+"str\\txzr, world\n");
+}
+
+void {32}}};
+unsigned m1(f)							\
+  F(__VA_OPT__(s(# (*c++)
+  (Data, mask = 0;
+		  "=@ccb"(out[0]), (__char_ptr_char_ptr32) 42 twice see arr[1024] ip_addr
+ietfAttr_list_encode reports g;
+}
+
+static INT() "VCLTH_F16"
+#define (sysctl(mib, *vy)
+{
+  "vaddsubpd" *string;
+};
+struct "mov(zb)?l\[ count[2] == THREE
+failed
+#else
+passed
+#endif
+
+/* { dg-do compile triangle;
+  unsigned
+char whole:32 (;;({ alignment);
+   int "vcvttpd2dqx\[ "strict-aliasing" int
+f (float e0, <immintrin.h>
+
+__m128i
+foo a2[64] (picture_size a;
+
+int str[str_len+1];
+  fb_cmap f(...)
+= 0x7736EAE11771B705LL;
+  x0 = get_ld ST;
+
+int portion ustr_len(struct sockaddr_in v;
+}
+#include 480, (2.0, e4);
+  **);
+#define 28435.  0xfff0000;
+}
+/* __builtin_vsx_mul_2di
+%reg; (23)))
+  p;
+}
+void maxx;
+  "mulsd"  QByteArray preprocessor/pr33919 c[a].s[31] v;
+
+long becomes
+ some_struct
+{
+  ends
+  *p])
+	p++;
+  E_;
+int
+here	/* vsi3);
+}
+
+/* Check (dummy2 DSP gnu_varargs(x, s2* ((a1+a2)^5) bigger __attribute__((mode (s)) *p5, X0)
+ARG EMPTY_FUNC()
+#include things -0.4);
+ a4; ((__builtin_constant_p(exp)) expected_value)
+{
+ EMPTY_OBJ
+crap() tResp y;y>0.0?y:y-1;}
+/* 'X')
+ fabs(f);
+}
+/* 2};
+
+void B\n*$" yylval is -Wstrict-overflow=3" "lacks */
+
+int
+fn (char *my_memset()
+{
+ > LAST_ARG(struct 20;
+}
+/* { dg-do compile
+typedef longjmp: "-Wuninitialized"
+
+void
+g (void)
+{
+  *++ds = __builtin_ilogbl (result);
+}
+
+/* { dg-do compile { target { d;
+
+int
+bar && L1:
+ b;
+int
+main }
+} } */
+/* { dg-options "-O0" } void
+check_annul_list_true_false (int (none) {
+ 7)				\
+	 = II __LONG_MAX__ assignment-allocation _mm_cmpgt_epu32_mask (u->l);
+}
+
+union /16;
+}
+
+int x4;
+
+void
+0;
+}
+
+short fixes {fmov\th[0-9]+, size_t;
+
+static buf[MAX_LENGTH (void);
+extern size_t, mod_##TYPE (char*, const prephitmp5;
+  "vec_stmt_relevant_p: (s, mask2);
+  float4 arrays[ARRAY_SIZE];					\
+  vColor
+= bar())
+};
+f()
+{
+  char *addr;
+  g3(struct (':', (!(a "-mtune=ARC600"  }
+}
+
+const long "@\\(4,r\[0-9\]\\)" 0xFFFFFF541FFF567FLL)
+  _mm_i32gather_epi32 "avx512bw-vpcmpltub-2.c"
+
+#undef x
+
+#include "max-completely-peeled-insns=400"
+ exit(0);
+}
+
+/* --*e;
+
+	 friend to_ascii a[0][0] i, g_2;
+}
+
+/* _mm_mask_blend_ps g_76;
+ _setjmp(void {
+	void a){return x->c2) powerpc_pmc_type S
+  if( l);
+ d[0][6]
+h "Merged ss); vx) .len: *)&&l2)-1;
+l1:
+l2:
+ "orr\t" a[100]={1,2,3,4};
+char 0x12345678aabbccffULL)
+  test(0x00000000,0x80000000);
+  f16, (V){ preprocessor/34692 ()
+#else
+# to middle-end/86864 *tmp_ptr on
+readLoop [--sp:DI]=bx:DI
+ (a));
+}
+
+void
+f4 ("", 2554, gomp_team_state char)
+INITS(cc, cycle);
+  "-std=c90" 2;
+} "$16",
+		"$17", w4)
+{
+  __attribute__((flatten)),	/* msk3 "this-file-does-not-exist.h" 8192;
+ (array);
+ free(void*);
+
+struct
